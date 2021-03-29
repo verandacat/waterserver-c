@@ -1,0 +1,242 @@
+@charset "UTF-8";
+
+/* ===================================
+	File Name   : top.css
+	Description : Top Page Layout CSS
+====================================== */
+
+/*========== Style Contents ==========
+
+	1. Section [Main Contents] Setting
+	*. Clear Fix
+	
+====================================== */
+
+
+
+
+
+/*===== ■1. Section [Main Contents] Setting =====*/
+#top #main_contents h2 { margin-bottom: 26px;}
+
+#top #main_contents dl#easy_search,
+#top #main_contents dl#campaign_info,
+#top #main_contents dl#direct_search {
+	width: 700px;
+	margin-bottom: 26px;
+	background: url(img/common/bg-contents-body.jpg) repeat-y;
+}
+
+#top #main_contents dl#easy_search dt {	background: url(img/top/bg-search-head.jpg) no-repeat;}
+
+#top #main_contents dl#campaign_info dt,
+#top #main_contents dl#direct_search dt { background: url(img/common/bg-contents-head.jpg) no-repeat;}
+
+#top #main_contents dl#easy_search dd {
+	padding-bottom: 45px;
+	background: url(img/top/bg-search-bottom.jpg) no-repeat bottom;
+}
+
+#top #main_contents dl#campaign_info dd,
+#top #main_contents dl#direct_search dd {
+	padding-bottom: 13px;
+	background: url(img/common/bg-contents-bottom.jpg) no-repeat bottom;
+}
+
+/* easy search */
+#top #main_contents dl#easy_search dt { padding-bottom: 23px;}
+
+#top #main_contents dl#easy_search dt img.contents_title {
+	float: left;
+	margin: 29px 0px 0px 1px;
+	padding-left: 33px;
+	background: url(img/common/mark-square-light-blue.gif) no-repeat 0px center;
+}
+
+#top #main_contents dl#easy_search dt img.contents_title_en {
+	float: right;
+	margin: 36px 25px 0px 0px;
+}
+
+
+#top #main_contents dl#easy_search table {
+	width: 696px;
+	margin: 0px auto 5px;
+	border-top: 1px solid #e5e5e5;
+}
+#top #main_contents dl#easy_search th {	border-right: 1px solid #e5e5e5;}
+#top #main_contents dl#easy_search th,
+#top #main_contents dl#easy_search td {
+	padding: 10px 20px;
+	border-bottom: 1px solid #e5e5e5;
+}
+
+#top #main_contents dl#easy_search th {	width: 160px;}
+
+#top #main_contents dl#easy_search th img {
+	padding-left: 20px;
+	background: url(img/common/mark-arrow-yellow.png) no-repeat 0px center;
+}
+
+#top #main_contents dl#easy_search li {
+	float: left;
+	width: 110px;
+	margin: 2px 0px;
+}
+#top #main_contents dl#easy_search ul.list_wide li { width: 220px;}
+#top #main_contents dl#easy_search li.list_float_none { float: none;}
+
+
+#top #main_contents dl#easy_search dl#search_more {
+	margin-bottom: 30px;
+	background: none;
+}
+
+#top #main_contents dl#easy_search dl#search_more dt {
+	display: block;
+	padding: 0px;
+	border: none;
+	background: none;
+	cursor: pointer;
+}
+
+#top #main_contents dl#easy_search dl#search_more dt img {
+	display: block;
+	width: 686px;
+	height: 40px;
+	margin: 0px auto 0px;
+}
+
+#top #main_contents dl#easy_search dl#search_more dd {
+	display: none;
+	padding: 10px 20px;
+	border-bottom: 1px solid #e5e5e5;
+	background: none;
+}
+
+
+#top #main_contents dl#easy_search dd img#txt_search_start,
+#top #main_contents dl#easy_search dd a#btn_search_start {
+	display: block;
+	margin: 0px auto;
+}
+
+#top #main_contents dl#easy_search dd img#txt_search_start { margin-bottom: 10px;}
+
+#top #main_contents dl#easy_search dd a#btn_search_start { width: 610px;}
+
+
+/* banner */
+#top #main_contents a#banner_ranking {
+	display: block;
+	margin-bottom: 26px;
+}
+
+
+/* campaign info */
+#top #main_contents dl#campaign_info dt { padding-bottom: 20px;}
+
+#top #main_contents dl#campaign_info dt img.contents_title {
+	float: left;
+	margin: 18px 0px 0px 1px;
+	padding-left: 33px;
+	background: url(img/common/mark-square-green.gif) no-repeat 0px center;
+}
+
+#top #main_contents dl#campaign_info dt img.contents_title_en {
+	float: right;
+	margin: 20px 22px 0px 0px;
+}
+
+#top #main_contents dl#campaign_info dd ul {
+	width: 676px;
+	margin: 0px auto;
+}
+
+#top #main_contents dl#campaign_info dd li {
+	width: 636px;
+	padding: 10px 20px;
+	border-bottom: 1px solid #e3f6eb;
+	background: #c7edd6;
+}
+
+#top #main_contents dl#campaign_info dd li span {
+	padding-left: 18px;
+	background: url(img/common/mark-drop-white.png) no-repeat 0px center;
+}
+
+
+/* direct search */
+#top #main_contents dl#direct_search {
+	position: relative;
+	margin-bottom: 0px;
+}
+
+#top #main_contents dl#direct_search dt { padding-top: 11px;}
+
+#top #main_contents dl#direct_search dt img.contents_title {
+	position: absolute;
+	top: 21px;
+	left: 1px;
+	padding-left: 33px;
+	background: url(img/common/mark-square-blue.gif) no-repeat 0px 4px;
+}
+
+#top #main_contents dl#direct_search dd #japanese_map {
+	width: 676px;
+	min-height: 630px;
+	margin: 0px auto;
+	background: #b2d8ff url(img/top/bg-japanese-map.jpg) no-repeat;
+}
+
+#top #main_contents dl#direct_search #japanese_map table { position: absolute;}
+
+#top #main_contents dl#direct_search #japanese_map th {
+	width: 20px;
+	padding-top: 5px;
+	background: url(img/top/bg-translucent-blue.png);
+	color: #ffffff;
+	font-size: 93%;
+	line-height: 120%;
+	text-align: center;
+	vertical-align: top;
+}
+
+#top #main_contents dl#direct_search #japanese_map td {
+	width: 70px;
+	padding: 10px 0px;
+	background: url(img/top/bg-translucent-white.png);
+	text-align: center;
+}
+
+#top #main_contents dl#direct_search #japanese_map tr.border_bottom td { border-bottom: 1px solid #bcddff;}
+#top #main_contents dl#direct_search #japanese_map td.border_left { border-left: 1px solid #bcddff;}
+
+#top #main_contents dl#direct_search #japanese_map td a {
+	font-weight: bold;
+	font-size: 108%;
+}
+
+#top #main_contents dl#direct_search #japanese_map table#map_hokkaido {	top: 80px;	right: 120px;}
+#top #main_contents dl#direct_search #japanese_map table#map_tohoku {	top: 150px;	right: 50px;}
+#top #main_contents dl#direct_search #japanese_map table#map_shinetsu {	top: 150px;	right: 240px;}
+#top #main_contents dl#direct_search #japanese_map table#map_kanto { top: 300px;	right: 50px;}
+#top #main_contents dl#direct_search #japanese_map table#map_tokai { top: 450px;	right: 120px;}
+#top #main_contents dl#direct_search #japanese_map table#map_kinki { top: 300px;	left: 230px;}
+#top #main_contents dl#direct_search #japanese_map table#map_chugoku { top: 300px;	left: 40px;}
+#top #main_contents dl#direct_search #japanese_map table#map_shikoku { top: 450px;	left: 230px;}
+#top #main_contents dl#direct_search #japanese_map table#map_kyushu {	top: 450px;	left: 40px;}
+#top #main_contents dl#direct_search #japanese_map table#map_okinawa { top: 190px;	left: 60px;}
+
+
+
+/*===== ■*.Clear Fix  =====*/
+#top #main_contents dl dt:after,
+#top #main_contents dl#easy_search ul:after {
+	display: block;
+	visibility: hidden;
+	clear: both;
+	height: 0;
+	font-size: 0;
+	content: " ";
+}

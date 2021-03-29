@@ -1,0 +1,160 @@
+@charset "UTF-8";
+
+/* ===================================
+	File Name   : feature.css
+	Description : Feature Page Layout CSS
+====================================== */
+
+/*========== Style Contents ==========
+
+	1. Main Contents Setting
+	*. Clear Fix
+	
+====================================== */
+
+
+
+
+
+/*===== ■1. Main Contents Setting =====*/
+#natural_water #main_contents h1 { margin-bottom: 7px;}
+
+#natural_water dl.ranking {
+	width: 700px;
+	margin-bottom: 10px;
+	background: url(../img/common/bg-contents-body.jpg) repeat-y;
+}
+
+#natural_water dl.ranking dt {
+	padding-bottom: 35px;
+	background: url(../img/common/bg-contents-head.jpg) no-repeat;
+}
+
+#natural_water dl.ranking dt img.contents_title {
+	float: left;
+	margin: 18px 0px 0px 1px;
+	padding-left: 33px;
+	background: url(../img/common/mark-square-pink.gif) no-repeat 0px center;
+}
+
+#natural_water dl.ranking dt img.contents_title_en {
+	float: right;
+	margin: 20px 22px 0px 0px;
+}
+
+#natural_water dl.ranking dd {
+	padding-bottom: 13px;
+	background: url(../img/common/bg-contents-bottom.jpg) no-repeat bottom;
+}
+
+#natural_water dl.ranking dd .ranking_result {
+	width: 656px;
+	margin: 0px 0px 45px 2px;
+	padding: 0px 20px 30px;
+	border-bottom: 1px solid #e5e5e5;
+}
+
+#natural_water dl.ranking dd #ranking_no3 {
+	margin-bottom: 0px;
+	padding-bottom: 20px;
+	border: none;
+}
+
+#natural_water dl.ranking dd .ranking_result h2 {
+	display: block;
+	width: 656px;
+	height: 60px;
+	margin-bottom: 25px;
+	background: url(../img/feature/bg-ranking-title.jpg) no-repeat;
+}
+
+#natural_water dl.ranking dd .ranking_result h2 img {
+	float: left;
+	margin-left: 20px;
+}
+#natural_water dl.ranking dd #ranking_no2 h3 img { margin-left: 17px;}
+#natural_water dl.ranking dd #ranking_no3 h3 img { margin-left: 27px;}
+
+#natural_water dl.ranking dd .ranking_result h2 a {
+	float: left;
+	margin: 15px 0px 0px 40px;
+	color: #ffffff;
+	font-weight: bold;
+	font-size: 154%;
+}
+#natural_water dl.ranking dd #ranking_no2 h3 a { margin-left: 37px;}
+#natural_water dl.ranking dd #ranking_no3 h3 a { margin-left: 43px;}
+
+#natural_water dl.ranking dd .ranking_result .server_caption img {
+	float: left;
+	margin: 0px 20px 20px 0px;
+}
+
+#natural_water dl.ranking dd .ranking_result .server_caption strong {
+	display: block;
+	margin-bottom: 15px;
+	color: #d83300;
+	font-weight: bold;
+	font-size: 154%;
+	line-height: 150%;
+}
+
+#natural_water dl.ranking dd .ranking_result .server_caption p {
+	margin-bottom: 20px;
+	font-size: 108%;
+	line-height: 180%;
+}
+
+#natural_water dl.ranking dd .ranking_result .server_caption em {
+	background: #ffdf83;
+	color: #d83300;
+	font-weight: bold;
+	font-size: 100%;
+}
+
+#natural_water dl.ranking dd .ranking_result table {
+	width: 656px;
+	margin-bottom: 20px;
+	border: 1px solid #c9e7ff;
+}
+
+#natural_water dl.ranking dd .ranking_result th {
+	width: 120px;
+	padding: 10px 5px 10px 25px;
+	background: #c9e7ff url(../img/common/mark-drop-white.png) no-repeat 10px center;
+}
+
+#natural_water dl.ranking dd .ranking_result td {
+	width: 155px;
+	padding: 10px 5px 10px 15px;
+}
+
+#natural_water dl.ranking dd .ranking_result th,
+#natural_water dl.ranking dd .ranking_result td {	border-bottom: 1px solid #e4f3ff;}
+
+#natural_water dl.ranking dd .ranking_result tr.last_tr th,
+#natural_water dl.ranking dd .ranking_result tr.last_tr td { border-bottom: none;}
+
+#natural_water dl.ranking dd .ranking_result a.official_site {
+	display: block;
+	width: 310px;
+	height: 60px;
+	margin: 0px auto;
+}
+
+#natural_water p#ranking_notice { margin: 0px 0px 30px 10px;}
+
+
+
+
+
+/*===== ■*.Clear Fix  =====*/
+#natural_water dl.ranking dd .ranking_result h3:after,
+#natural_water dl.ranking dd .ranking_result .server_caption:after {
+	display: block;
+	visibility: hidden;
+	clear: both;
+	height: 0;
+	font-size: 0;
+	content: " ";
+}

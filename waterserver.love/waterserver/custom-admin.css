@@ -1,0 +1,7 @@
+/*   
+管理画面のcss
+acfのcssはfunctiohs.phpに記載
+*/
+.term-description-wrap,
+.term-parent-wrap {
+  display: none;}

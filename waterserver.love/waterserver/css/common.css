@@ -1,0 +1,145 @@
+@charset "UTF-8";
+
+/* ===================================
+	File Name   : common.css
+	Description : Base Layout CSS
+====================================== */
+
+/*========== Style Contents ==========
+
+	1. Global Redefinition
+	2. Font Size Redefinition
+	3. Box Setting
+	4. Common Items Setting
+		- Basic Link
+		- Header Contents
+		- Sub Contents
+	 	- Footer Contents
+		- Footmark
+		- Title Setting
+
+====================================== */
+
+
+
+
+
+/*===== ■1. Global Redefinition =====*/
+body {
+	margin: 0px auto;
+	color: #333333;
+}
+
+
+
+
+
+
+/*===== ■2. Font Size Redefinition =====*/
+body {
+	font: 13px/1.231 "メイリオ","Meiryo","ヒラギノ角ゴ Pro W3","Hiragio Kaku Gothic Pro","ＭＳ Ｐゴシック","MS PGothic","arial","verdana","Osaka",sans-serif;
+}
+
+p,span,em,strong { font-size: 93%;}
+
+
+
+
+
+
+
+
+
+
+/*===== ■4. Common Items Setting =====*/
+/* Basic Link */
+a {
+	color: #0059b2;
+	text-decoration: underline;
+	outline: hidden;
+}
+
+a:link {
+	color: #0059b2;
+	text-decoration: underline;
+}
+
+a:visited {
+	color: #0059b2;
+	text-decoration: underline;
+}
+
+a:hover {
+	color: #1b2774;
+	text-decoration: none;
+}
+
+
+/* Header Contents */
+#header #site_copy {
+	float: left;
+	margin-top: 28px;
+}
+
+#header #favorite {
+	float: right;
+	margin: 20px 7px 0px 0px;
+	padding: 6px 17px 0px 17px;
+}
+
+#header #favorite img { cursor:pointer;}
+
+
+/* Sub Contents */
+#sub_contents a#banner_ranking_sub {
+	display: block;
+	margin-bottom: 26px;
+}
+
+#sub_contents #side_menu dt {
+	padding-bottom: 10px;
+}
+
+
+
+/* Title Setting */
+#top h1,
+#header h1 {
+	float: left;
+}
+
+
+/* easy search */
+
+
+#main_contents dl#easy_search li.list_float_none { float: none;}
+
+
+#main_contents dl#easy_search dl#search_more {
+	margin-bottom: 30px;
+	background: none;
+}
+
+#main_contents dl#easy_search dl#search_more dt {
+	display: block;
+	padding: 0px;
+	border: none;
+	background: none;
+	cursor: pointer;
+}
+
+#main_contents dl#easy_search dl#search_more dt img {
+	display: block;
+	width: 686px;
+	height: 40px;
+	margin: 0px auto 0px;
+}
+
+#main_contents dl#easy_search dl#search_more dd {
+	display: none;
+	padding: 10px 20px;
+	border-bottom: 1px solid #e5e5e5;
+	background: none;
+}
+
+

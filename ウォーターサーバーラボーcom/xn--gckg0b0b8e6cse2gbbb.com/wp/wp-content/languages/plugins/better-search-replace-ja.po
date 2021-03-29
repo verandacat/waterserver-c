@@ -1,0 +1,230 @@
+# Translation of Plugins - Better Search Replace - Development (trunk) in Japanese
+# This file is distributed under the same license as the Plugins - Better Search Replace - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-05-30 04:49:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Better Search Replace - Development (trunk)\n"
+
+#: templates/bsr-dashboard.php:115
+msgid "You'll also receive our awesome weekly posts from the Delicious Brains blog. Unsubscribe anytime."
+msgstr "さらに、Delicious Brains ブログから毎週すてきな投稿が届きます。いつでも退会できます。"
+
+#: templates/bsr-dashboard.php:96
+msgid "Your Email"
+msgstr "メールアドレス"
+
+#: templates/bsr-dashboard.php:100
+msgid "First Name"
+msgstr "名"
+
+#: templates/bsr-dashboard.php:104
+msgid "Last Name"
+msgstr "姓"
+
+#: templates/bsr-dashboard.php:77
+msgid "Backup to an SQL file"
+msgstr "SQL ファイルにバックアップする"
+
+#: templates/bsr-dashboard.php:87
+msgid "20% Off!"
+msgstr "20% オフ"
+
+#: templates/bsr-dashboard.php:111
+msgid "Send me the coupon"
+msgstr "クーポンを送信"
+
+#: templates/bsr-dashboard.php:92
+msgid "Submit your name and email and we'll send you a coupon for 20% off your upgrade to the pro version."
+msgstr "お名前とメールアドレスを送信してください。プロ版へのアップグレードが20%オフになるクーポンをお送りします。"
+
+#: templates/bsr-dashboard.php:78
+msgid "Import an SQL file and run a find/replace on it"
+msgstr "SQL ファイルをインポートして、検索/置換を実行します"
+
+#: templates/bsr-dashboard.php:126
+msgid "via WordPress.org"
+msgstr "WordPress.org から"
+
+#: templates/bsr-dashboard.php:79
+msgid "Detailed report of exactly what was replaced"
+msgstr "何が置換されたかについての詳細なレポート"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://bettersearchreplace.com"
+msgstr "https://bettersearchreplace.com"
+
+#. Author of the plugin
+msgid "Delicious Brains"
+msgstr "Delicious Brains"
+
+#: includes/class-bsr-admin.php:232
+msgid "seconds"
+msgstr "秒"
+
+#: includes/class-bsr-admin.php:73
+msgid "Processing..."
+msgstr "処理中…"
+
+#: includes/class-bsr-ajax.php:153
+msgid "Processing table %d of %d: %s"
+msgstr "テーブル %d/%d を処理中: %s"
+
+#: templates/bsr-dashboard.php:47
+msgid "Settings"
+msgstr "設定"
+
+#: templates/bsr-dashboard.php:48
+msgid "Help"
+msgstr "ヘルプ"
+
+#: includes/class-bsr-admin.php:211
+msgid "Table"
+msgstr "テーブル"
+
+#: templates/bsr-dashboard.php:74 includes/class-bsr-admin.php:288
+msgid "Upgrade to Pro"
+msgstr "プロ版へアップグレード"
+
+#: includes/class-bsr-admin.php:211
+msgid "Time"
+msgstr "時刻"
+
+#: includes/class-bsr-admin.php:71
+msgid "Please select the tables that you want to update."
+msgstr "更新したいテーブルを選んでください。"
+
+#. Plugin Name of the plugin
+#: templates/bsr-dashboard.php:34 includes/class-bsr-admin.php:85
+msgid "Better Search Replace"
+msgstr "Better Search Replace"
+
+#: includes/class-bsr-admin.php:211
+msgid "Changes Found"
+msgstr "検出数"
+
+#: includes/class-bsr-admin.php:211
+msgid "Rows Updated"
+msgstr "更新行数"
+
+#: includes/class-bsr-db.php:85
+msgid "(%s MB)"
+msgstr "(%s MB)"
+
+#: templates/bsr-dashboard.php:46
+msgid "Search/Replace"
+msgstr "検索/置換"
+
+#: templates/bsr-help.php:17
+msgid "Help & Troubleshooting"
+msgstr "ヘルプ & トラブルシューティング"
+
+#: includes/class-bsr-db.php:285
+msgid "Error updating row: %d."
+msgstr "更新エラーの行: %d."
+
+#: includes/class-bsr-admin.php:241
+msgid "Learn more about the pro version"
+msgstr "プロ版の詳細について"
+
+#: templates/bsr-search-replace.php:62
+msgid "Run as dry run?"
+msgstr "dry run(リハーサル)を実行しますか?"
+
+#: templates/bsr-settings.php:27
+msgid "Max Page Size"
+msgstr "最大ページサイズ"
+
+#: templates/bsr-search-replace.php:76
+msgid "Run Search/Replace"
+msgstr "検索 / 置換の実行"
+
+#: templates/bsr-settings.php:31
+msgid "Current Setting: "
+msgstr "現在の設定:"
+
+#: templates/bsr-search-replace.php:46
+msgid "Case-Insensitive?"
+msgstr "大文字小文字を区別しない ?"
+
+#: templates/bsr-search-replace.php:41
+msgid "Select multiple tables with Ctrl-Click for Windows or Cmd-Click for Mac."
+msgstr "WindowsはCtrl + クリック、Macは Cmd + クリックで複数のテーブルを選択します。"
+
+#: templates/bsr-search-replace.php:49
+msgid "Searches are case-sensitive by default."
+msgstr "検索はデフォルトでは大文字と小文字を区別します。"
+
+#: templates/bsr-search-replace.php:38
+msgid "Select tables"
+msgstr "テーブルを選択"
+
+#: templates/bsr-help.php:30
+msgid "Download System Info"
+msgstr "システム情報をダウンロード"
+
+#: templates/bsr-search-replace.php:23
+msgid "<strong>WARNING:</strong> Make sure you backup your database before using this plugin!"
+msgstr "<strong>警告:</strong> このプラグインを使う前に必ずデータベースのバックアップを取ってください。"
+
+#: templates/bsr-search-replace.php:21
+msgid "This tool allows you to search and replace text in your database (supports serialized arrays and objects)."
+msgstr "このツールを使うと、データベース内のテキストを検索して置換できます (シリアライズされた配列やオブジェクトをサポートしています)。"
+
+#: templates/bsr-search-replace.php:28
+msgid "Search for"
+msgstr "検索:"
+
+#: templates/bsr-search-replace.php:54
+msgid "Replace GUIDs<a href=\"http://codex.wordpress.org/Changing_The_Site_URL#Important_GUID_Note\" target=\"_blank\">?</a>"
+msgstr "GUID を置き換えますか<a href=\"https://ja.wordpress.org/support/article/changing-the-site-url#GUID に関する重要な注記\" target=\"_blank\">?</a>"
+
+#: templates/bsr-help.php:19
+msgid "Free support is available on the <a href=\"%s\">plugin support forums</a>."
+msgstr "<a href=\"%s\">プラグインサポートフォーラム</a>で無料サポートを利用できます。"
+
+#: templates/bsr-search-replace.php:33
+msgid "Replace with"
+msgstr "次と置換:"
+
+#. Description of the plugin
+msgid "A small plugin for running a search/replace on your WordPress database."
+msgstr "WordPress データベースで検索/置換を実行するための小さなプラグイン。"
+
+#: includes/class-bsr-admin.php:72
+msgid "An error occurred processing your request. Try decreasing the \"Max Page Size\", or contact support."
+msgstr "リクエストの処理中にエラーが発生しました。「最大ページサイズ」を小さくするか、サポートにお問い合わせください。"
+
+#: includes/class-bsr-admin.php:240
+msgid "Want even more details, easy database migrations, and saved search/replace profiles?"
+msgstr "さらに詳細な情報、簡単なデータベース移行、検索/置換プロフィールの保存をご希望ですか ?"
+
+#: templates/bsr-search-replace.php:22
+msgid "To get started, use the form below to enter the text to be replaced and select the tables to update."
+msgstr "開始するには、以下のフォームを使用して置換するテキストを入力し、更新するテーブルを選択します。"
+
+#: includes/class-bsr-admin.php:70
+msgid "No search string was defined, please enter a URL or string to search for."
+msgstr "検索文字列が定義されていません。URL または文字列を入力して検索してください。"
+
+#: templates/bsr-settings.php:33
+msgid "If you're noticing timeouts or getting a white screen while running a search replace, try decreasing this value."
+msgstr "検索置換の実行中にタイムアウトが発生したり、画面が真っ白に表示されたりする場合は、この値を小さくしてみてください。"
+
+#: templates/bsr-search-replace.php:57
+msgid "If left unchecked, all database columns titled 'guid' will be skipped."
+msgstr "チェックを外したままにしておくと、\"guid\" と言う名称のデータベースの列がすべてスキップされます。"
+
+#: templates/bsr-search-replace.php:65
+msgid "If checked, no changes will be made to the database, allowing you to check the results beforehand."
+msgstr "チェックした場合はデータベースに変更が加えられないため、事前に結果を確認できます。"
+
+#: templates/bsr-help.php:23
+msgid "Found a bug or have a feature request? Please submit an issue on <a href=\"%s\">GitHub</a>!"
+msgstr "バグを発見したり、機能リクエストがある場合は <a href=\"%s\">GitHub</a> でイシューを作成して下さい。"

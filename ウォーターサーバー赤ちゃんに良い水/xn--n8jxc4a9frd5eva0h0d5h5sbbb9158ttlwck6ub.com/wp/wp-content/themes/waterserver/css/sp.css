@@ -1,0 +1,1047 @@
+#top #main_contents dl dt:after, #top #main_contents dl#easy_search ul:after,
+#main_contents dl dt:after, #main_contents dl#easy_search ul:after{
+	visibility: visible;
+}
+#top #main_contents dl#campaign_info dt,
+#top #main_contents dl#direct_search dt,
+#top #main_contents dl#easy_search dt,
+#top #main_contents dl#easy_search,
+#top #main_contents dl#campaign_info,
+#top #main_contents dl#direct_search,
+#main_contents dl#campaign_info dt,
+#main_contents dl#direct_search dt,
+#main_contents dl#easy_search dt,
+#main_contents dl#easy_search,
+#main_contents dl#campaign_info,
+#main_contents dl#direct_search{
+	background: none;
+	background-color: #fff;
+
+}
+button, fieldset, form, input, label, legend, select, textarea{
+	margin: 0;
+	padding: 0;
+}
+body *{
+	max-width: 100%;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+#entirety{
+	width: 100%;
+	overflow-x: hidden;
+	background: #eff8ff;
+}
+#header{
+	width: 100%;
+}
+#contents{
+	width: 100%;
+}
+#sub_contents{
+	float: right;
+	width: 100%;
+}
+#main_contents{
+	width: 100%;
+	float: left;
+	padding-bottom: 0;
+}
+#top #main_contents dl#easy_search table,
+#main_contents dl#easy_search table{
+	width: 100%;
+}
+#top #main_contents dl#easy_search li{
+	margin: 4px 0;
+}
+#titlebar{
+	display: block;
+	text-align: center;
+	text-decoration: none;
+	color: #fff;
+	font-weight: bold;
+}
+#header{
+	position: relative;
+	width: 100%;
+	/*height: 72px;
+	 Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#d1edfe+0,ccebfe+100 */
+background: rgb(209,237,254); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(209,237,254,1) 0%, rgba(204,235,254,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(209,237,254,1) 0%,rgba(204,235,254,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(209,237,254,1) 0%,rgba(204,235,254,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d1edfe', endColorstr='#ccebfe',GradientType=0 ); /* IE6-9 */
+
+	margin-bottom: 20px;
+	box-shadow: 0px -1px rgba(255,255,255,1) inset;
+	overflow: visible;
+	z-index: 10;
+}
+#header:after{
+	display: block;
+	content: "";
+	width: 98%;
+	position: absolute;
+	bottom: -6px;
+	left: 50%;
+	height: 1px;
+	background-color: rgba(0,0,0,0.05);
+	visibility: visible;
+	-webkit-transform: translate(-50%, 0);
+	-ms-transform: translate(-50%, 0);
+	-o-transform: translate(-50%, 0);
+	transform: translate(-50%, 0);
+
+}
+#header h1{
+	position: relative;
+	width: 100%;
+	height: 48px;
+	display: block;
+	padding: 0 20px;
+	float: none;
+}
+#header h1 a{
+	position: relative;
+	width: 100%;
+	display: block;
+	text-decoration: none;
+	background-color: #0D4FA3;
+	line-height: 40px;
+	height: 44px;
+	font-size: 20px;
+	font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	border-radius: 0 0 3px 3px;
+	box-shadow: 0px 2px 2px rgba(0,0,0,0.2);
+}
+#header h1 a div{
+	position: absolute;
+
+	background-image: url(../spimg/t_c.png);
+	display: block;
+	height: 44px;
+	width: 100%;
+	background-size: auto 50px;
+	background-position: center;
+	background-repeat: repeat-x;
+}
+#header h1 a:before,
+#header h1 a:after{
+	position: absolute;
+	left: 0;
+	background-image: url(../spimg/t_l.png);
+	display: block;
+	content: "";
+	width: 20px;
+	height: 10px;
+	margin-left: -20px;
+	top: 0;
+	background-color: transparent;
+	background-repeat: no-repeat;
+	background-size: 20px;
+
+}
+#header h1 a:before{
+	left: auto;
+	right: -20px;
+	background-image: url(../spimg/t_r.png);
+}
+#header h1 div{
+	height: 100%;
+	line-height: 44px;
+}
+#sub_title{
+	font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	color: #2c3b82;
+	font-weight: bold;
+	padding: 0 20px;
+	padding-top: 3px;
+	text-align: center;
+	font-size: 11px;
+	letter-spacing: -1px;
+}
+#header #favorite{
+	float: none;
+	position: absolute;
+	right: 20px;
+	margin: 0;
+	margin-top: -26px;
+	background: none;
+	background-color: #eff8ff;
+	border-radius: 3px 3px 0 0;
+	padding: 8px 12px;
+	padding-bottom: 12px;
+	z-index: 100;
+}
+#fav_button{
+	border-radius: 100px;
+	width: 116px;
+	height: 24px;
+	background-image: url(../spimg/fab_b.png);
+	border: none;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+	height: 24px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: auto 24px;
+	box-shadow: 0px 1px 2px rgba(0,0,0,0.1);
+}
+#top #main_contents dl#easy_search dt,
+#main_contents dl#easy_search dt,
+dl dt,
+#contents #main_contents .result.pickup dt{
+	position: relative;
+	font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	color: #2c3b82;
+	font-weight: bold;
+	background-image: url(../spimg/key.png);
+	background-size: 372px;
+	background-position: center top;
+	height: 112px;
+	padding-bottom: 0;
+	padding-top: 20px;
+	padding-left: 28px;
+	font-size: 16px;
+	line-height: 24px;
+	text-shadow: 0px 1px 3px rgba(0,0,0,0.3), 0 -1px 0px rgba(255,255,255,0.2);
+	border-radius: 3px 3px 0 0;
+}
+.result.pickup dt{
+	background-image: url(../spimg/pick.png) !important;
+	background-size: 372px !important;
+	background-position: center top !important;
+	font-size: 24px !important;
+	padding-top: 43px !important;
+}
+dl#easy_search dt .sss,
+#top #main_contents dl#easy_search dt .sss{
+	font-size: 21px;
+	margin-right: 2px;
+	margin-left: 2px;
+}
+#side_menu_page dl.ranking dt,
+dl dt{
+	height: 60px;
+	background: none;
+}
+.sc1{
+	position: relative;
+	top: -4px;
+}
+#top #main_contents dl#easy_search dd,
+#main_contents dl#easy_search dd{
+	background: none;
+}
+#contents #main_contents .result.pickup dt:after,
+#top #main_contents dl#easy_search>dt:first-child:after,
+#main_contents dl#easy_search>dt:first-child:after,
+dl>dt:first-child:after,
+.contents_title:after{
+	height: 8px;
+	width: 12px;
+	background-color: #FED130;
+	display: block;
+	content: "";
+	position: absolute;
+	left: 0px;
+	top: 50%;
+	margin-top: -4px;
+	visibility: visible;
+}
+dl>dt.boxtitle:first-child:after{
+	height: 8px !important;
+}
+.ranking_resultsp{
+	padding: 0 20px;
+}
+.box h2{
+	position: relative;
+	border: 4px solid #EEEEEE;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#347dd4+0,2869b7+100 */
+background: rgb(52,125,212); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(52,125,212,1) 0%, rgba(40,105,183,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(52,125,212,1) 0%,rgba(40,105,183,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(52,125,212,1) 0%,rgba(40,105,183,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#347dd4', endColorstr='#2869b7',GradientType=0 ); /* IE6-9 */
+height: 60px;
+color: #fff;
+line-height: 60px;
+padding-left: 84px;
+}
+.official_site{
+	position: relative;
+	width: 100%;
+	height: 60px;
+	border: 4px solid #eeeeee;
+	display: block;
+	margin-top: 12px;
+	color: #fff !important;
+	text-decoration: none !important;
+}
+.official_site span{
+	width: 100%;
+	height: 100%;
+	background-image: url(../spimg/button2.png);
+	background-size: auto 60px;
+	background-position: center;
+	font-size: 20px;
+	color: #fff !important;
+	text-align: center;
+	line-height: 52px;
+	font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	text-decoration: none !important;
+	display: block;
+	box-shadow: 0 2px 4px rgba(0,0,0,0.4);
+}
+.official_site span:before,
+.official_site span:after{
+	content: "";
+	display: block;
+	visibility: visible !important;
+	-webkit-transform: rotate(29deg);
+	-ms-transform: rotate(29deg);
+	-o-transform: rotate(29deg);
+	transform: rotate(29deg);
+	border: 6px solid transparent;
+	border-right: 11px solid transparent;
+	border-top: 6px solid #fff;
+	position: absolute;
+	top: 50%;
+	right: 10px;
+	margin-top: -3px;
+}
+.official_site span:before{
+	border-top: 6px solid transparent;
+	border-bottom: 6px solid #ddd;
+	-webkit-transform: rotate(-29deg);
+	-ms-transform: rotate(-29deg);
+	-o-transform: rotate(-29deg);
+	transform: rotate(-29deg);
+	margin-top: -6px;
+
+}
+.box h2 a{
+	color: #fff;
+	position: absolute;
+	font-size: 14px;
+	top: 50%;
+	-webkit-transform: translate(0, -50%);
+	-ms-transform: translate(0, -50%);
+	-o-transform: translate(0, -50%);
+	transform: translate(0, -50%);
+}
+.box h2 img{
+	background-color: #fff;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	height: 100%;
+	width: auto;
+}
+#footer_menu_page dl.wp_contents dt{
+	background-image: none;
+}
+#footer_menu_page dl.wp_contents dd{
+	background: none;
+	padding: 0;
+}
+#top #main_contents dl#easy_search,
+#top #main_contents dl#campaign_info,
+#top #main_contents dl#direct_search,
+#main_contents dl#easy_search,
+#main_contents dl#campaign_info,
+#main_contents dl#direct_search,
+dl#rank, .box,
+#search_result dl.result,
+#side_menu_page dl.ranking,
+#footer_menu_page dl.wp_contents{
+	margin: 0 auto;
+	background-image: none;
+	width: 100% !important;
+	max-width: 372px !important;
+	border-radius: 3px;
+	box-shadow: 0px 3px 5px rgba(0,0,0,0.1);
+	border-top:  8px solid #2c3b82;
+	background-color: #fff;
+	margin-bottom: 20px;
+}
+#top #main_contents dl#easy_search td,
+#main_contents dl#easy_search td{
+	position: relative;
+}
+.list_wide li{
+	font-size: 11px;
+}
+.list_wide li,
+.list_widesp li{
+	width: 50% !important;
+}
+.list_widesp{
+	position: relative;
+}
+.list_widesp:after{
+	position: absolute;
+	content: "";
+	display: block;
+	height: 100% !important;
+	width: 1px;
+	background-color: #e5e5e5;
+	top: 0px;
+	left: 50%;
+	visibility: visible !important;
+}
+#top #main_contents dl#easy_search .list_widesp li:last-child,
+#main_contents dl#easy_search .list_widesp li:last-child{
+	padding-left: 20px;
+}
+#top #main_contents dl#easy_search table,
+#main_contents dl#easy_search table{
+	border-top: none;
+}
+#top #main_contents dl#easy_search dl#search_more dt,
+#main_contents dl#easy_search dl#search_more dt{
+	height: 40px;
+	padding: 0 20px;
+	margin-top: 12px;
+}
+#morebutton{
+	position: relative;
+	background-color: #C9E7FF;
+	border: none;
+	border-bottom: 6px solid #99CDFF;
+	border-radius: 3px;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+	width: 100%;
+	display: block;
+	height: 100%;
+	font-family: "Hiragino Kaku Gothic ProN","メイリオ", sans-serif;
+	text-shadow: none;
+	font-size: 12px;
+	text-align: center;
+	line-height: 34px;
+}
+#morebutton:before,#morebutton:after{
+	height: 0;
+	top: 50%;
+	left: 20px;
+	border: 5px solid transparent;
+	border-left: 10px solid #fff;
+	margin-top: -5px;
+	position: absolute;
+	content: "";
+	display: block;
+	visibility: visible !important;
+}
+#morebutton:after{
+	border-left: 3px solid #C9E7FF;
+}
+#top #main_contents dl#easy_search dl#search_more,
+#main_contents dl#easy_search dl#search_more{
+	margin-bottom: 16px;
+}
+#top #main_contents dl#easy_search dd,
+#main_contents dl#easy_search dd{
+	padding-bottom: 20px;
+}
+#btn_search_start{
+	position: relative;
+	margin: 0 20px !important;
+	height: 60px;
+	width: auto !important;
+	border-radius: 300px;
+	background-position: center;
+	display: block;
+	background-image: url(../spimg/button.png);
+	background-size: auto 56px;
+	box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+	text-align: center;
+	line-height: 52px;
+	font-size: 18px;
+	font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	color: #fff;
+	text-decoration: none;
+	border: 4px solid #ddd;
+}
+
+
+#btn_search_start:before,
+#btn_search_start:after{
+	content: "";
+	display: block;
+	visibility: visible !important;
+	-webkit-transform: rotate(29deg);
+	-ms-transform: rotate(29deg);
+	-o-transform: rotate(29deg);
+	transform: rotate(29deg);
+	border: 6px solid transparent;
+	border-right: 11px solid transparent;
+	border-top: 6px solid #fff;
+	position: absolute;
+	top: 50%;
+	right: 12px;
+	margin-top: -3px;
+}
+#btn_search_start:before{
+	border-top: 6px solid transparent;
+	border-bottom: 6px solid #ddd;
+	-webkit-transform: rotate(-29deg);
+	-ms-transform: rotate(-29deg);
+	-o-transform: rotate(-29deg);
+	transform: rotate(-29deg);
+	margin-top: -6px;
+
+}
+.rank_caption{
+	position: relative;
+	display: table;
+	table-layout: fixed;
+	width: 100%;
+	margin-bottom: 12px;
+}
+.rank_caption:after{
+}
+.rank_left_img{
+	position: relative;
+	left: 0;
+	width: 92px;
+	height: auto;
+	height: 80px;
+	display: table-cell;
+}
+.rank_left_img img{
+	width: 80px;
+}
+.rankright{
+	vertical-align: top;
+	height: auto;
+	display: table-cell;
+	color: #e72323;
+	font-size: 14px;
+	font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+}
+.box.ranking table{
+	border: 1px solid #D9EEFE;
+	border-radius: 3px;
+	margin: 12px 0;
+	width: 100%;
+}
+.box.ranking table th{
+	background-color: #CAE7FE;
+	padding: 8px 12px;
+	white-space: nowrap;
+}
+.box.ranking table th,
+.box.ranking table td,
+.box.ranking table{
+	border-collapse: collapse;
+	border: 1px solid #D9EEFE;
+}
+.box.ranking table td{
+	padding: 0 12px;
+}
+.ranking_resultsp{
+	padding-bottom: 20px;
+	margin-top: 20px;
+	border-bottom: 1px solid #eee;
+}
+.moreranklink{
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#fdca68+0,fcc04c+100 */
+background: rgb(253,202,104); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(253,202,104,1) 0%, rgba(252,192,76,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(253,202,104,1) 0%,rgba(252,192,76,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(253,202,104,1) 0%,rgba(252,192,76,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fdca68', endColorstr='#fcc04c',GradientType=0 ); /* IE6-9 */
+
+	font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-size: 20px;
+	color: #fff !important;
+	text-decoration: none !important;
+	text-align: center;
+	border-radius: 3px;
+	line-height: 52px;
+	text-shadow: 0 2px 4px rgba(0,0,0,0,0.3);
+	width: auto;
+	height: 52px;
+	display: block;
+	margin: 0 20px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+	text-shadow: 0 2px 6px rgba(0,0,0,0.2);
+
+}
+.flist{
+
+}
+.flist li{
+	border-bottom: 1px solid #eee;
+	position: relative;
+}
+.flist li:last-child{
+	border: none;
+
+}
+.flist li a{
+	display: block;
+	width: 100%;
+	height: 100%;
+	padding: 0 20px;
+	position: relative;
+	padding-left: 80px;
+	height: 64px;
+	line-height: 64px;
+}
+.flist li a:after,
+.flist li a:before{
+	position: absolute;
+	right: 0px;
+	top: 50%;
+	border: 8px solid transparent;
+	border-left: 14px solid #FCC55C;
+	content: "";
+	display: block;
+	visibility: visible !important;
+	margin-top: -8px;
+	margin-right: 4px;
+}
+.flist li a:after{
+	border-left: 4px solid #fff;
+	margin-right: 14px;
+}
+.flist li:after{
+	position: absolute;
+	left: 8px;
+	top: 6px;
+	width: 52px;
+	height: 52px;
+	background-size: 52px;
+	background-color: #fff;
+	visibility: visible !important;
+	content: "";
+	display: block !important;
+	box-shadow: inset 0 0 0 1px #ccc;
+}
+.flist li:nth-child(1):after{
+	background-image: url(../spimg/tennen.png);
+}
+.flist li:nth-child(2):after{
+	background-image: url(../spimg/ro.png);
+}
+.flist li:nth-child(3):after{
+	background-image: url(../spimg/ele.png);
+}
+.flist li:nth-child(4):after{
+	background-image: url(../spimg/kakaku.png);
+}
+.flist li:nth-child(5):after{
+	background-image: url(../spimg/bin.png);
+}
+.flist li:nth-child(6):after{
+	background-image: url(../spimg/riben.png);
+}
+
+.clist,.clist th, .clist td{
+	border: 1px solid #eee;
+	text-align: center;
+}
+.clist{
+	width: 100%;
+	table-layout: fixed;
+	border-collapse: collapse;
+}
+.clist th{
+	width: 44px;
+	font-size: 11px;
+	padding: 12px 16px;
+	color: #fff;
+	font-weight: bold;
+	background-color: #4779B9;
+}
+.clist td{
+	padding: 12px 0;
+}
+.folist{
+	padding: 0 20px;
+}
+.folist li{
+	width: 100% !important;
+	float: none !important;
+	margin-bottom: 12px !important;
+}
+.folist li a{
+	position: relative;
+	display: block;
+	height: 72px;
+
+
+	width: 100%;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#4fa0d2+0,69aed8+100 */
+background: rgb(79,160,210); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(79,160,210,1) 0%, rgba(105,174,216,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(79,160,210,1) 0%,rgba(105,174,216,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(79,160,210,1) 0%,rgba(105,174,216,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4fa0d2', endColorstr='#69aed8',GradientType=0 ); /* IE6-9 */
+	color: #fff !important;
+	text-decoration: none !important;
+	border-radius: 3px;
+	box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+.folist span{
+	position: absolute;
+	padding-left: 52px;
+	font-size: 14px;
+	line-height: 22px;
+	text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+	top: 50%;
+	-webkit-transform: translate(0, -50%);
+	-ms-transform: translate(0, -50%);
+	-o-transform: translate(0, -50%);
+	transform: translate(0, -50%);
+
+}
+.folist li a:before{
+	height: 20px;
+	width: 20px;
+	position: absolute;
+	content: "";
+	display: block;
+	visibility: visible !important;
+	border-radius: 100px;
+	box-shadow: 0px 4px 10px rgba(0,0,0,0.1) inset,
+				0 0 1px rgba(0,0,0,0.2);
+	left: 14px;
+	top: 50%;
+	margin-top: -10px;
+	border: none;
+}
+.folist li a:after{
+	position: absolute;
+	border: 5px solid transparent;
+	border-left: 9px solid #FCC55C;
+	left: 20px;
+	top: 50%;
+	margin-top: -5px;
+	content: "";
+	display: block;
+	visibility: visible !important;
+}
+#footer_navi01 dt{
+	font-size: 16px;
+	color: #fff !important;
+	padding-left: 20px !important;
+	padding-top: 8px !important;
+}
+.titlecap{
+	margin-top: 0px;
+	color: #666;
+	margin-bottom: 12px;
+	padding: 0 20px;
+}
+.rank_item_title{
+	margin-bottom: 12px !important;
+}
+.contents_title{
+	padding-left: 0 !important;
+	background: none !important;
+	float: none !important;
+	margin-top: 0 !important;
+	font-size: 16px !important;
+}
+#footer_menu_page dl.wp_contents dt{
+	padding: 20px;
+	height: auto;
+}
+#footer_menu_page #main_contents .entry{
+	margin: 0;
+}
+#footer_menu_page #main_contents h1{
+	max-width: 372px;
+	width: 100%;
+	margin: 0 auto;
+	margin-bottom: 8px;
+}
+#footmark{
+	width: 100%;
+	max-width: 372px;
+	margin: 0 auto;
+	margin-bottom: 12px;
+	position: relative;
+	background-image: none;
+	margin-top: 4px;
+}
+#footmark:after{
+	position: absolute;
+	content: "";
+	display: block;
+	left: 0px;
+	height: 100%;
+	width: 6px;
+	background-color: #ddd;
+	top: 0;
+
+}
+#ranking_notice{
+	width: 100%;
+	max-width: 372px;
+	margin: 0 auto !important;
+	padding: 20px;
+}
+#side_menu_page #main_contents h1,
+#search_result #main_contents h1{
+	width: 100%;
+	margin: 0 auto;
+
+	max-width: 372px;
+}
+#search_result #main_contents h1 img{
+	height: auto !important;
+}
+#search_result dl.result{
+	background-image: none;
+}
+#search_result dl.result dt{
+	background: none;
+}
+.s_items{
+	padding: 0 12px;
+	padding-bottom: 12px;
+	padding-top: 12px;
+}
+.pickup .s_items{
+	padding-top: 4px;
+}
+.search_result_items{
+	margin-top: 20px;
+}
+.s_items_header{
+	display: table;
+	table-layout: fixed;
+	width: 100%;
+}
+.upper_left{
+	width: 72px;
+	height: 60px;
+	display: table-cell;
+	vertical-align: middle;
+}
+.upper_left img{
+	width: 60px;
+	height: 60px;
+}
+.list_item_title{
+	display: table-cell;
+	font-size: 20px;
+	position: relative;
+	height: 100%;
+	font-weight: bold;
+	font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	color: #2c3b82;
+	text-shadow: 0px 1px 3px rgba(0,0,0,0.3), 0 -1px 0px rgba(255,255,255,0.2);
+}
+.list_item_title a{
+	position: absolute;
+	top: 50%;
+	width: 100%;
+	-webkit-transform: translate(0, -50%);
+	-ms-transform: translate(0, -50%);
+	-o-transform: translate(0, -50%);
+	transform: translate(0, -50%);
+	color: #2c3b82;
+	text-decoration: none;
+	font-weight: bold;
+}
+.s_items_upper{
+	display: table;
+	width: 100%;
+	padding: 10px 0;
+	table-layout: fixed;
+}
+.s_items_upper .upper_right{
+	width: 100%;
+	height: auto;
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.s_items_table table,
+#search_result dl.result table{
+	width: 100%;
+	border-collapse: collapse;
+	border: 1px solid #eee;
+}
+.s_items_table td,
+#search_result dl.result td{
+	font-size: 11px;
+	padding: 4px;
+	border: 1px solid #eee !important;
+}
+.s_items_table th,
+#search_result dl.result th,
+#search_result dl.result.pickup th{
+	border: none;
+	background-color: #ff8d1c;
+	width: 80px;
+	font-size: 11px !important;
+	text-align: center !important;
+	padding: 4px !important;
+	border: 1px solid #eee;
+}
+.s_items_table th,
+#search_result dl.result th{
+	background-color: #FFE69D;
+	width: 80px;
+	font-size: 11px;
+}
+.s_items_table th.vl,
+#search_result dl.result th.vl{
+	font-size: 10px;
+}
+.s_items_table.quad,
+#search_result dl.result .quad{
+	margin-bottom: -1px !important;
+	table-layout: fixed;
+}
+.s_items_table table{
+	margin-top: 0 !important;
+}
+.s_items_table.quad table{
+	margin-bottom: 0 !important;
+	margin-top: 0px !important;
+}
+.s_items_table.quad table,
+.quad table{
+	table-layout: fixed;
+}
+
+.s_items_table.quad th,
+#search_result dl.result .quad th{
+	width: auto;
+	font-size: 11px;
+	width: 80px;
+}
+#search_result dl.result .sort_box_a{
+	table-layout: fixed;
+}
+#search_result dl.result .sort_box_a,
+#search_result dl.result .sort_box_a tr,
+#search_result dl.result .sort_box_a td,
+#search_result dl.result .sort_box_a th{
+
+	border: none !important;
+}
+#search_result dl.result .sort_box{
+	width: 100%;
+	table-layout: fixed;
+	font-size: 12px;
+	font-weight: normal;
+	border: none ;
+	margin-bottom: 0px ;
+}
+.s_items_table td,
+#search_result dl.result .sort_box td{
+	padding: 8px 0;
+}
+.s_items_table td,
+#search_result dl.result td{
+	width: auto;
+	border: none;
+	text-align: center;
+}
+.s_items_table td span,
+#search_result dl.result .sort_box_a td span{
+	width: 100%;
+	text-align: center;
+	display: inline-block;
+	padding: 8px 0;
+	position: relative;
+	font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-size: 13px;
+	color: #2c3b82;
+	font-weight: bold;
+}
+#search_result dl.result .sort_box_a td span:after{
+	height: 1px;
+	width: 70%;
+	left: 50%;
+	bottom: 4px;
+	-webkit-transform: translate(-50%, 0);
+	-ms-transform: translate(-50%, 0);
+	-o-transform: translate(-50%, 0);
+	transform: translate(-50%, 0);
+	position: absolute;
+	display: block;
+	content: "";
+	background-color: #bddbf2;
+}
+
+.s_items_table td a,
+#search_result dl.result .sort_box_a td a{
+	margin: 0 8px;
+}
+
+.top_rank_banner{
+	margin-bottom: 12px;
+	display: block;
+}
+.sprankbanner{
+	width: 100%;
+	max-width: 372px;
+	display: block;
+	margin: 0 auto;
+	box-shadow: 0 3px 3px rgba(0,0,0,0.2);
+}
+.campbanner{
+	max-width: 372px;
+	width: 100%;
+
+	padding: 12px;
+	padding-top: 0;
+	margin: 0 auto;
+	display: block;
+}
+.spbanner{
+	width: 100%;
+	height: auto;
+	display: block;
+}
+.spbanner.b2{
+	margin-top: 12px;
+}
+
+strong{
+	color: #e00;
+}
+
+.entry img{
+	width: 100%;
+	height: auto;
+}
+.sp_top_txt{
+	background-color: #fff;
+	margin: 12px 0;
+	padding: 12px;
+	font-size: 13px;
+	border: 1px dotted #aaa;
+	color: #555;
+}
+
+@media screen and (max-width: 340px) {
+#header h1{
+	padding: 0;
+}
+#header #favorite{
+	right: -8px;
+}
+#sub_title{
+	padding-left: 4px;
+}
+}
+
+
+
+

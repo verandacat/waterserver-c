@@ -1,0 +1,93 @@
+# Translation of Plugins - Prime Strategy Bread Crumb - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - Prime Strategy Bread Crumb - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-12-07 10:48:03+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Prime Strategy Bread Crumb - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://www.warna.info/"
+msgstr "http://www.warna.info/"
+
+#. Author of the plugin/theme
+msgid "Hitoshi Omagari"
+msgstr "大曲仁"
+
+#. Description of the plugin/theme
+msgid "This plugin adds the function to display breadcrumbs (topic path) navigation. You can use display styles, lots of parameters of styles and original plugin hooks of breadcrumbs navigation, and you can customize navigations flexibly."
+msgstr "パンくずナビ（トピックパス）表示機能を追加します。表示タイプ、スタイルに関する多数のパラメータやパンくずナビ独自のプラグインフックが用意されており、フレキシブルなカスタマイズが可能です。"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.warna.info/archives/1310/"
+msgstr "http://www.warna.info/archives/1310/"
+
+#. Plugin Name of the plugin/theme
+msgid "Prime Strategy Bread Crumb"
+msgstr "Prime Strategy Bread Crumb"
+
+#: prime-strategy-bread-crumb.php:40
+msgid " &gt; "
+msgstr " &gt; "
+
+#: prime-strategy-bread-crumb.php:39
+msgctxt "post type label"
+msgid "%s"
+msgstr "%s"
+
+#: prime-strategy-bread-crumb.php:38
+msgctxt "day label"
+msgid "%s"
+msgstr "%s日"
+
+#: prime-strategy-bread-crumb.php:37
+msgctxt "month label"
+msgid "%s"
+msgstr "%s月"
+
+#: prime-strategy-bread-crumb.php:36
+msgctxt "year label"
+msgid "%s"
+msgstr "%s年"
+
+#: prime-strategy-bread-crumb.php:35
+msgctxt "attachment label"
+msgid "%s"
+msgstr "%s"
+
+#: prime-strategy-bread-crumb.php:34
+msgctxt "author label"
+msgid "%s"
+msgstr "%s"
+
+#: prime-strategy-bread-crumb.php:33
+msgctxt "taxonomy label"
+msgid "%s"
+msgstr "%s"
+
+#: prime-strategy-bread-crumb.php:32
+msgctxt "tag label"
+msgid "%s"
+msgstr "%s"
+
+#: prime-strategy-bread-crumb.php:31
+msgctxt "category label"
+msgid "%s"
+msgstr "%s"
+
+#: prime-strategy-bread-crumb.php:30
+msgid "404 Not Found"
+msgstr "404 Not Found"
+
+#: prime-strategy-bread-crumb.php:29
+msgid "Search Result of \"%s\""
+msgstr "『%s』の検索結果"
+
+#: prime-strategy-bread-crumb.php:28
+msgid "Home"
+msgstr "トップページ"

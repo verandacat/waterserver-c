@@ -1,0 +1,182 @@
+@charset "UTF-8";
+
+/* ===================================
+	File Name   : search.css
+	Description : Search Result Page Layout CSS
+====================================== */
+
+/*========== Style Contents ==========
+
+	1. Individual Redefinition
+	2. Main Contents Setting
+	*. Clear Fix
+
+====================================== */
+
+
+
+
+
+/*===== ■1. Individual Redefinition =====*/
+#search_result #main_contents {
+	float: none;
+	width: 960px;
+}
+
+#search_result dl#easy_search {
+	width: 960px;
+	margin-bottom: 0px;
+	background: url(../img/search/bg-contents-body-wide.jpg) repeat-y;
+}
+
+#search_result dl#easy_search dt { background: url(../img/search/bg-search-head-wide.jpg) no-repeat;}
+#search_result dl#easy_search dd { background: url(../img/search/bg-search-bottom-wide.jpg) no-repeat bottom;}
+
+#search_result dl#easy_search table {
+	width: 956px;
+	margin: 0px auto 5px;
+	border-top: 1px solid #e5e5e5;
+}
+
+#search_result dl#easy_search table li.list_wide_normal {	width: 110px;}
+
+#search_result dl#easy_search dl#search_more dt img { width: 946px;}
+
+
+
+
+
+/*===== ■2. Main Contents Setting =====*/
+#search_result #main_contents h1 { margin-bottom: 7px;}
+
+#search_result dl.result {
+	width: 960px;
+	margin-bottom: 26px;
+	background: url(../img/search/bg-contents-body-wide.jpg) repeat-y;
+}
+
+#search_result dl.result dt {
+	padding-bottom: 20px;
+	background: url(../img/search/bg-contents-head-wide.jpg) no-repeat;
+}
+
+#search_result dl.result dt img.contents_title {
+	float: left;
+	margin: 18px 0px 0px 1px;
+	padding-left: 33px;
+	background: url(../img/common/mark-square-yellow.gif) no-repeat 0px center;
+}
+
+#search_result dl.result dt img.contents_title_en {
+	float: right;
+	margin: 20px 22px 0px 0px;
+}
+
+#search_result dl.result dd {
+	padding-bottom: 13px;
+	background: url(../img/search/bg-contents-bottom-wide.jpg) no-repeat bottom;
+}
+
+
+#search_result dl.result table {
+	width: 936px;
+	margin: 0px auto;
+	border: 1px solid #e6e6e6;
+}
+
+#search_result dl.result th,
+#search_result dl.result td {
+	padding: 10px;
+	font-size: 108%;
+	text-align: center;
+}
+
+#search_result dl.result th {
+	width: 150px;
+	border-bottom: 10px solid #ffcd3c;
+}
+
+#search_result dl.result.pickup th {
+	width: 150px;
+	border-bottom: 10px solid #ff8d1c;
+}
+
+#search_result dl.result td {
+	width: 112px;
+	border-left: 1px solid #e6e6e6;
+	border-bottom: 1px solid #e6e6e6;
+}
+
+#search_result dl.result td.point,
+#search_result dl.result td.site_link {	border-bottom: 10px solid #ffe69d;}
+
+#search_result dl.result.pickup td.point,
+#search_result dl.result.pickup td.site_link {	border-bottom: 10px solid #ffad2c;}
+
+#search_result dl.result th.underbar_none,
+#search_result dl.result td.underbar_none { border-bottom: none;}
+
+#search_result dl.result tr#item_name th,
+#search_result dl.result tr#item_name td { font-weight: bold;}
+
+#search_result dl.result tr#item_name th {
+	border: none;
+	background: #ffcd3c;
+}
+#search_result dl.result.pickup tr#item_name th {
+	background: #ff8d1c;
+}
+#search_result dl.result tr#item_name td {
+	border-left: 1px solid #fff3ce;
+	background: #ffe69d;
+}
+#search_result dl.result.pickup tr#item_name td {
+	border-left: 1px solid #fff3ce;
+	background: #ffad2c;
+}
+
+
+#search_result dl.result th img { margin: 0px auto 10px;}
+#search_result dl.result th a {
+	font-weight: bold;
+	font-size: 116%;
+}
+
+#search_result dl.result td em { font-size: 85%;}
+
+#search_result dl.result td.point {
+	padding: 15px 10px 10px 100px;
+	background: url(../img/search/mark-arrow-point.gif) no-repeat 0px 10px;
+	text-align: left;
+	vertical-align: top;
+}
+
+#search_result dl.result td.point strong {
+	display: block;
+	margin-bottom: 10px;
+	color: #d83300;
+	font-weight: bold;
+	font-size: 146.5%;
+}
+#search_result dl.result td.point p { font-size: 100%;}
+
+#search_result dl.result td.site_link a {
+	display: block;
+	width: 310px;
+	height: 60px;
+	margin: 0px auto;
+}
+
+
+
+
+/*===== ■*.Clear Fix  =====*/
+#natural_water dl.ranking dd .ranking_result h3:after,
+#natural_water dl.ranking dd .ranking_result .server_caption:after {
+	display: block;
+	visibility: hidden;
+	clear: both;
+	height: 0;
+	font-size: 0;
+	content: " ";
+}

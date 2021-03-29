@@ -1,0 +1,334 @@
+@charset "UTF-8";
+
+/* ===================================
+	File Name   : common.css
+	Description : Base Layout CSS
+====================================== */
+
+/*========== Style Contents ==========
+
+	1. Global Redefinition
+	2. Font Size Redefinition
+	3. Box Setting
+	4. Common Items Setting
+		- Basic Link
+		- Header Contents
+		- Sub Contents
+	 	- Footer Contents
+		- Footmark
+		- Title Setting
+
+====================================== */
+
+
+
+
+
+/*===== ■1. Global Redefinition =====*/
+body {
+	margin: 0px auto;
+	color: #333333;
+	line-height: 150%;
+}
+
+
+
+
+
+/*===== ■2. Font Size Redefinition =====*/
+body {
+	font: 13px/1.231 "メイリオ","Meiryo","ヒラギノ角ゴ Pro W3","Hiragio Kaku Gothic Pro","ＭＳ Ｐゴシック","MS PGothic","arial","verdana","Osaka",sans-serif;
+}
+
+p,span,em,strong { font-size: 93%;}
+
+
+
+
+
+/*===== ■3. Box Setting =====*/
+#entirety {
+	margin: 0px auto;
+/*	background: #eff8ff url(../img/common/bg-header.jpg) repeat-x;*/
+}
+
+#header {
+	width: 980px;
+	margin: 0px auto;
+	padding-bottom: 25px;
+}
+
+#contents {
+	width: 960px;
+	margin: 0px auto;
+	padding-bottom: 30px;
+}
+
+#sub_contents {
+	float: left;
+	width: 230px;
+	padding-bottom: 30px;
+}
+
+#main_contents {
+	float: right;
+	width: 700px;
+	padding-bottom: 30px;
+}
+
+#footer { background: #ffffff;}
+
+#footer_inner {
+	padding: 20px 0px 15px;
+	background: #0059b2 url(../img/common/bg-footer.jpg) repeat-x bottom;
+}
+
+
+/* Clear Fix Only Box  */
+#header:after,
+#contents:after,
+#main_contents dl dt:after,
+#main_contents dl#easy_search ul:after,
+#footer_inner dl#footer_navi01 dt:after,
+#footer_inner dl#footer_navi01 dd ul:after,
+#footer #footer_item02:after,
+#footer #footer_item02 ul#footer_navi02 ul:after {
+	display: block;
+	visibility: hidden;
+	clear: both;
+	height: 0;
+	font-size: 0;
+	content: " ";
+}
+
+
+
+
+
+/*===== ■4. Common Items Setting =====*/
+/* Basic Link */
+a {
+	color: #0059b2;
+	text-decoration: underline;
+	outline: hidden;
+}
+
+a:link {
+	color: #0059b2;
+	text-decoration: underline;
+}
+
+a:visited {
+	color: #0059b2;
+	text-decoration: underline;
+}
+
+a:hover {
+	color: #1b2774;
+	text-decoration: none;
+}
+
+
+/* Header Contents */
+#header #site_copy {
+	float: left;
+	margin-top: 28px;
+}
+
+#header #favorite {
+	float: right;
+	margin: 27px 7px 0px 0px;
+	padding: 6px 17px 0px 17px;
+	background: url(../img/common/bg-favorite.png) no-repeat;
+}
+
+#header #favorite img { cursor:pointer;}
+
+
+/* Sub Contents */
+#sub_contents a#banner_ranking_sub {
+	display: block;
+	margin-bottom: 26px;
+}
+
+#sub_contents #side_menu dt {
+	width: 230px;
+	height: 50px;
+	padding-bottom: 10px;
+}
+
+#sub_contents #side_menu dd li {
+	width: 230px;
+	height: 50px;
+	margin: 0px;
+}
+
+
+/* Footer Contents */
+#footer_inner #footer_item01 {
+	position: relative;
+	width: 930px;
+	margin: 0px auto;
+}
+
+#footer_inner a#btn_pagetop {
+	position: absolute;
+	top: -50px;
+	right: -30px;
+}
+
+#footer_inner dl#footer_navi01 { margin: 0px auto;}
+
+#footer_inner dl#footer_navi01 dt { padding: 0px 15px 15px 5px;}
+
+#footer_inner dl#footer_navi01 dt img#about_column { float: left;}
+#footer_inner dl#footer_navi01 dt img#about_column_en {
+	float: right;
+	margin-top: 5px;
+}
+
+#footer_inner dl#footer_navi01 dd li {
+	float: left;
+	width: 304px;
+	margin: 0px 6px 6px 0px;
+}
+
+
+#footer #footer_item02 {
+	width: 900px;
+	margin: 0px auto;
+	padding: 10px;
+}
+
+#footer #footer_item02 ul#footer_navi02 {	float: left;}
+
+#footer #footer_item02 ul#footer_navi02 li {
+	float: left;
+	margin-right: 50px;
+	padding-left: 10px;
+	background: url(../img/common/mark-arrow-yellow-small.png) no-repeat 0px center;
+	font-size: 93%;
+}
+
+#footer #footer_item02 address {
+	float: right;
+	color: #999999;
+	font-size: 93%;
+}
+
+
+/* Footmark */
+#footmark {
+	margin: 0px 0px 10px 10px;
+	padding-left: 15px;
+	background: url(../img/common/mark-footmark.jpg) no-repeat;
+}
+
+#footmark a,
+#footmark span { font-size: 77%;}
+
+#footmark a { font-weight: bold;}
+
+
+/* Title Setting */
+#top h1,
+#header h1 {
+	float: left;
+	margin: 0px 20px 0px 0px;
+}
+
+
+/* easy search */
+#main_contents dl#easy_search {
+	width: 700px;
+	margin-bottom: 26px;
+	background: url(../img/common/bg-contents-body.jpg) repeat-y;
+}
+
+#main_contents dl#easy_search dt {	background: url(../img/top/bg-search-head.jpg) no-repeat;}
+
+#main_contents dl#easy_search dd {
+	padding-bottom: 45px;
+	background: url(../img/top/bg-search-bottom.jpg) no-repeat bottom;
+}
+
+#main_contents dl#easy_search dt { padding-bottom: 23px;}
+
+#main_contents dl#easy_search dt img.contents_title {
+	float: left;
+	margin: 29px 0px 0px 1px;
+	padding-left: 33px;
+	background: url(../img/common/mark-square-light-blue.gif) no-repeat 0px center;
+}
+
+#main_contents dl#easy_search dt img.contents_title_en {
+	float: right;
+	margin: 36px 25px 0px 0px;
+}
+
+
+#main_contents dl#easy_search table {
+	width: 696px;
+	margin: 0px auto 5px;
+	border-top: 1px solid #e5e5e5;
+}
+#main_contents dl#easy_search th { border-right: 1px solid #e5e5e5;}
+#main_contents dl#easy_search th,
+#main_contents dl#easy_search td {
+	padding: 10px 20px;
+	border-bottom: 1px solid #e5e5e5;
+}
+
+#main_contents dl#easy_search th {	width: 160px;}
+
+#main_contents dl#easy_search th img {
+	padding-left: 20px;
+	background: url(../img/common/mark-arrow-yellow.png) no-repeat 0px center;
+}
+
+#main_contents dl#easy_search li {
+	float: left;
+	width: 110px;
+	margin: 2px 0px;
+}
+#main_contents dl#easy_search ul.list_wide li { width: 220px;}
+#main_contents dl#easy_search li.list_float_none { float: none;}
+
+
+#main_contents dl#easy_search dl#search_more {
+	margin-bottom: 30px;
+	background: none;
+}
+
+#main_contents dl#easy_search dl#search_more dt {
+	display: block;
+	padding: 0px;
+	border: none;
+	background: none;
+	cursor: pointer;
+}
+
+#main_contents dl#easy_search dl#search_more dt img {
+	display: block;
+	width: 686px;
+	height: 40px;
+	margin: 0px auto 0px;
+}
+
+#main_contents dl#easy_search dl#search_more dd {
+	display: none;
+	padding: 10px 20px;
+	border-bottom: 1px solid #e5e5e5;
+	background: none;
+}
+
+
+#main_contents dl#easy_search dd img#txt_search_start,
+#main_contents dl#easy_search dd a#btn_search_start {
+	display: block;
+	margin: 0px auto;
+}
+
+#main_contents dl#easy_search dd img#txt_search_start { margin-bottom: 10px;}
+
+#main_contents dl#easy_search dd a#btn_search_start { width: 610px;}

