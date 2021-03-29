@@ -822,7 +822,7 @@
                                                         <strong><a
                                                                 href="https://ウォーターサーバー最新人気ランキング.com/link/frecious.html"
                                                                 target="_blank"
-                                                                class="prrrr red">全員に初回の水1箱を無料0円でプレゼント！さらにもれなく全員にAmazonギフト券500円分もプレゼント！</a>
+                                                                class="prrrr red">全員に初回の水1箱を無料0円でプレゼント！さらに、今ならオリジナルグッズも数量限定でプレゼント！</a>
                                                         </strong>
                                                     </p>
                                                 </div>
