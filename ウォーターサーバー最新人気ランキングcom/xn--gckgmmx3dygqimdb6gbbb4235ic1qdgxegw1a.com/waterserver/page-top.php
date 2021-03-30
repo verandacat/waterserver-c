@@ -397,17 +397,17 @@
                                 </tr>
                                 <tr>
                                     <TD style="border:1px solid #CACAFF;
-" align="center" width="154">3,800円（12L×2本）<br />
+" align="center" width="154">4,104円（税込）/12L×2本<br />
                                         <FONT size="-1">※天然水、１ヶ月の夫婦2人分で計算</FONT>
                                         </p>
                                     </TD>
                                     <TD style="border:1px solid #CACAFF;
-" align="center" width="183">400円<br />
+" align="center" width="183">474円<br />
                                         <FONT size="-1">※エコモデル（通常1ヶ月1,000円、電気代約60％カット）で計算</FONT>
                                         </p>
                                     </TD>
                                     <TD style="border:1px solid #CACAFF;
-" align="center" width="177">約4,200円<br />
+" align="center" width="177">約4,581円（税込）<br />
                                         <FONT size="-1">※全費用の合計</FONT>
                                         </p>
                                     </TD>
@@ -682,7 +682,7 @@
                                 </tr>
                                 <tr>
                                     <TD style="border:1px solid #CACAFF;
-" align="center" width="154">4,560円～（7.2L×4個）<br />
+" align="center" width="154">4,924円（税込）～/7.2L×4個<br />
                                         <FONT size="-1">※1ヶ月の夫婦2人分</FONT>
                                         </p>
                                     </TD>
@@ -692,7 +692,7 @@
                                         </p>
                                     </TD>
                                     <TD style="border:1px solid #CACAFF;
-" align="center" width="177">約4,890円～<br />
+" align="center" width="177">約5,254円（税込）～<br />
                                         <FONT size="-1">※全費用の合計</FONT>
                                         </p>
                                     </TD>
@@ -1242,7 +1242,7 @@
                                 </tr>
                                 <tr>
                                     <TD style="border:1px solid #CACAFF;
-" align="center" width="154">3年パック：3,680円（12L×2本）<br />基本プラン：3,920円（12L×2本）<br />
+" align="center" width="154">3年パック：3,974円（税込）/12L×2本<br />基本プラン：4,233円（税込）/12L×2本<br />
                                         <FONT size="-1">※1ヶ月の夫婦2人分</FONT>
                                         </p>
                                     </TD>
@@ -1250,7 +1250,7 @@
 " align="center" width="183">約500円<br />※エコモード使用時（サーバーによって金額が異なります）</p>
                                     </TD>
                                     <TD style="border:1px solid #CACAFF;
-" align="center" width="177">約4,180円<br />
+" align="center" width="177">約4,474円（税込）<br />
                                         <FONT size="-1">※全費用の合計</FONT>
                                         </p>
                                     </TD>
@@ -1451,7 +1451,7 @@
                                     </p>
                                     <TD style="border:1px solid #CACAFF;
 " align="center" width="177">
-                                        <FONT size="-1">&nbsp;月2900円</FONT>
+                                        <FONT size="-1">&nbsp;月3,190円（税込）</FONT>
                                     </TD>
                                     </p>
                                 </tr>
@@ -1512,7 +1512,7 @@
 " align="center" width="183">475円</p>
                                     </TD>
                                     <TD style="border:1px solid #CACAFF;
-" align="center" width="177">約3,436円<br />
+" align="center" width="177">約3,726円（税込）<br />
                                         <FONT size="-1">※全費用の合計</FONT>
                                         </p>
                                     </TD>
@@ -1556,7 +1556,7 @@
                                                 class="lbg">ハミングウォーターのおすすめポイントはここ！</span></div>
                                         <p>&nbsp;</p>
                                         <p>　<span style="font-size:16px"
-                                                class="lbg">・月額2900円でおいしいお水が飲み放題！</span><br />　<span
+                                                class="lbg">・月額3,190円（税込）でおいしいお水が飲み放題！</span><br />　<span
                                                 style="font-size:16px"
                                                 class="lbg">・水道水を浄水して使用する浄水型ウォーターサーバー！</span><br />　<span
                                                 style="font-size:16px" class="lbg">・業界最小サイズのコンパクトボディ！</span><br />　<span
@@ -1567,7 +1567,7 @@
                                             <p><span style="font-size:18px" class="lbg">調査委員会のコメント</span></p>
                                             <p>&nbsp;</p>
                                             <p><span style="font-size:16px"
-                                                    class="lbg">浄水型ウォーターサーバーでおすすめなのがハミングウォーターです。月額定額2900円で水道水を浄化してお水を好きなだけお使いいただけますので、飲んだりご飯を炊いたり贅沢に使ってもお水代を気にする必要が全くなし！当サイトランキング1位の<a
+                                                    class="lbg">浄水型ウォーターサーバーでおすすめなのがハミングウォーターです。月額定額3,190円（税込）で水道水を浄化してお水を好きなだけお使いいただけますので、飲んだりご飯を炊いたり贅沢に使ってもお水代を気にする必要が全くなし！当サイトランキング1位の<a
                                                         href="https://ウォーターサーバー最新人気ランキング.com/link/cosmo.html"
                                                         target="_blank"
                                                         class="prrrr">コスモウォーター</a>が販売するサーバーなので、スリム設計で使いやすく、デザインもグッド、ユーザーの気持ち良く理解して開発されています。天然水にこだわりのない方はぜひ検討してみてくださいね。</span>
@@ -1707,7 +1707,7 @@
                                 </tr>
                                 <tr>
                                     <TD style="border:1px solid #CACAFF;
-" align="center" width="154">3,750円（7.8L×3箱）<br />
+" align="center" width="154">4,050円（税込）/7.8L×3箱<br />
                                         <FONT size="-1">※1ヶ月の夫婦2人分</FONT>
                                         </p>
                                     </TD>
@@ -1717,7 +1717,7 @@
                                         </p>
                                     </TD>
                                     <TD style="border:1px solid #CACAFF;
-" align="center" width="177">約5,100円<br />
+" align="center" width="177">約5,400円（税込）<br />
                                         <FONT size="-1">※表の水代＋サーバー代＋電気代で計算</FONT>
                                         </p>
                                     </TD>
@@ -1934,7 +1934,7 @@
                                 </tr>
                                 <tr>
                                     <TD style="border:1px solid #CACAFF;
-" align="center" width="154">2500円（12L×2本）<br />
+" align="center" width="154">2,700円（税込）/12L×2本<br />
                                         <FONT size="-1">※RO水、1ヶ月の夫婦2人分</FONT>
                                         </p>
                                     </TD>
@@ -1942,7 +1942,7 @@
 " align="center" width="183">403円</p>
                                     </TD>
                                     <TD style="border:1px solid #CACAFF;
-" align="center" width="177">約2,903円<br />
+" align="center" width="177">約3,103円（税込）<br />
                                         <FONT size="-1">※全費用の合計</FONT>
                                         </p>
                                     </TD>
@@ -2082,7 +2082,7 @@
                                     </p>
                                     <TD style="border:1px solid #CACAFF;
 " align="center" width="177">
-                                        <FONT size="-1">&nbsp;月300円</FONT><br />
+                                        <FONT size="-1">&nbsp;月330円（税込）</FONT><br />
                                         <FONT size="-1">※エコサーバーの場合&nbsp;</FONT>
                                     </TD>
                                     </p>
@@ -2139,7 +2139,7 @@
                                 </tr>
                                 <tr>
                                     <TD style="border:1px solid #CACAFF;
-" align="center" width="154">3,000円（12L×2本） </span><br />
+" align="center" width="154">3,240円（税込）/11.4L×2本</span><br />
                                         <FONT size="-1">※2ヶ月の夫婦2人分</FONT>
                                         </p>
                                     </TD>
@@ -2147,7 +2147,7 @@
 " align="center" width="183">580円</p>
                                     </TD>
                                     <TD style="border:1px solid #CACAFF;
-" align="center" width="177">約3,880円<br />
+" align="center" width="177">約4,150円（税込）<br />
                                         <FONT size="-1">※全費用の合計</FONT>
                                         </p>
                                     </TD>
@@ -2191,7 +2191,7 @@
                                                 class="lbg">信濃湧水のおすすめポイントはここ！</span></div>
                                         <p>&nbsp;</p>
                                         <p>　<span style="font-size:16px"
-                                                class="lbg">・天然水１２Ｌ１５００円は業界最安級でお得！</span><br />　<span
+                                                class="lbg">・天然水11.4L 1,620円（税込）は業界最安級でお得！</span><br />　<span
                                                 style="font-size:16px"
                                                 class="lbg">・北アルプスの美味しい天然水が飲める！</span><br />　<span
                                                 style="font-size:16px"
@@ -2204,7 +2204,7 @@
                                             <p><span style="font-size:18px" class="lbg">調査委員会のコメント</span></p>
                                             <p>&nbsp;</p>
                                             <p><span style="font-size:16px"
-                                                    class="lbg">ウォーターサーバーは富士山の天然水が主流ですが、信濃湧水は北アルプスの美味しい天然水を飲むことが出来ます。新発売したばかりのお水ですが、１２Ｌ１５００円と天然水の中では業界最安値級を実現、硬度１６の超軟水は赤ちゃんのミルク作りにも適しています。サーバーは２種類あり、レンタル代無料のものもありますが、月300円と有料のエコサーバーの方が節電が出来て機能も優れているため、コスト面でもこちらがおすすめです。</span>
+                                                    class="lbg">ウォーターサーバーは富士山の天然水が主流ですが、信濃湧水は北アルプスの美味しい天然水を飲むことが出来ます。新発売したばかりのお水ですが、11.4L 1,620円（税込）と天然水の中では業界最安値級を実現、硬度１６の超軟水は赤ちゃんのミルク作りにも適しています。サーバーは２種類あり、レンタル代無料のものもありますが、月330円（税込）と有料のエコサーバーの方が節電が出来て機能も優れているため、コスト面でもこちらがおすすめです。</span>
                                             </p>
                                         </div>
                                         <p>&nbsp;</p>
@@ -2513,7 +2513,7 @@
                                     </p>
                                     <TD style="border:1px solid #CACAFF;
 " align="center" width="177">
-                                        <FONT size="-1">762円&nbsp;</FONT>
+                                        <FONT size="-1">838円（税込）&nbsp;</FONT>
                                     </TD>
                                     </p>
                                 </tr>
@@ -2569,7 +2569,7 @@
                                 </tr>
                                 <tr>
                                     <TD style="border:1px solid #CACAFF;
-" align="center" width="154">3048円（12L×2本）<br />
+" align="center" width="154">3,290円（税込）/12L×2本<br />
                                         <FONT size="-1">※RO水、1ヶ月の夫婦2人分</FONT>
                                         </p>
                                     </TD>
@@ -2577,7 +2577,7 @@
 " align="center" width="183">680円</p>
                                     </TD>
                                     <TD style="border:1px solid #CACAFF;
-" align="center" width="177">約4,490円<br />
+" align="center" width="177">約4,808円（税込）<br />
                                         <FONT size="-1">※全費用の合計</FONT>
                                         </p>
                                     </TD>
@@ -2770,13 +2770,13 @@
                                 </tr>
                                 <tr>
                                     <TD style="border:1px solid #CACAFF;
-" align="center" width="154">3,100円（8L×2本）<br>※1ヶ月の夫婦2人分</p>
+" align="center" width="154">3,348円（税込）/8L×2本<br>※1ヶ月の夫婦2人分</p>
                                     </TD>
                                     <TD style="border:1px solid #CACAFF;
 " align="center" width="183">500円</p>
                                     </TD>
                                     <TD style="border:1px solid #CACAFF;
-" align="center" width="177">3,600円<br />
+" align="center" width="177">3,848円（税込）<br />
                                         <FONT size="-1">※全費用の合計</FONT>
                                         </p>
                                     </TD>
