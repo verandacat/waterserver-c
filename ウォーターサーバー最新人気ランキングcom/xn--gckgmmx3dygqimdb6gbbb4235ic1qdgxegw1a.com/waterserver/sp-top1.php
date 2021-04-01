@@ -880,11 +880,94 @@
 
 
 
-                    <!--  6位 6?? サントリー  -->
+                    
+
+
+                    <!--  6位 ワンウェイウォーター-->
                     <div class="rank">
                         <div class="rank-container">
                             <div class="rank-inner">
-                                <div class="rank6"><a href="http://ウォーターサーバー最新人気ランキング.com/link/suntory.html"
+                                <div class="rank6"><a href="https://ウォーターサーバー最新人気ランキング.com/link/oneway.html"
+                                        target="_blank" class="prrrr">ワンウェイウォーター</a></div>
+                                <div class="rankbox">
+                                    <div class="rankbox-inner">
+                                        <div class="float-l">
+                                            <p><a href="https://ウォーターサーバー最新人気ランキング.com/link/oneway.html" target="_blank"
+                                                    class="prrrr"><img
+                                                        src="<?php bloginfo('template_directory'); ?>/imgi/oneway_125-125-2.jpg"
+                                                        alt="ウォーターサーバー ランキング／スマートフォンサイト" /></a></p>
+                                        </div>
+                                        <div class="feature"><span>ワンウェイウォーターのポイント！</span></div>
+                                        <p>・１ヶ月当たりのトータル費用は業界最安でお得！<br /><span
+                                                style="line-height:130%;font-size:10pt">（ROミネラルウォーターを選んだ場合）</span><br /><br />・人気No.1のプラスプレミアムは低価格なのに飲んで美味しい！<br /><br />・らく楽スタイルウォーターサーバーsmartだから便利で楽！<br /><br />・省エネ設計＆押すだけ簡単エコモード使用で５０～６０％省エネ可能！
+                                        </p>
+                                    </div>
+                                    <table class="rank-table">
+                                        <tr>
+                                            <th>水の価格</th>
+                                            <td>2,700円（税込）/12L×2本）※RO水、1ヶ月の夫婦２人分</td>
+                                        </tr>
+                                        <tr>
+                                            <th>配送料</th>
+                                            <td>無料</td>
+                                        </tr>
+                                        <tr>
+                                            <th>サーバー料金</th>
+                                            <td>無料</td>
+                                        </tr>
+                                        <tr>
+                                            <th>メンテナンス料金</th>
+                                            <td>無料</td>
+                                        </tr>
+                                        <tr>
+                                            <th>電気代</th>
+                                            <td>403円（節電時）</td>
+                                        </tr>
+                                        <tr>
+                                            <th>1ヶ月当たりのトータル費用</th>
+                                            <td><span style="color:#FF0A0A"><strong>約3,103円（税込）（全費用の合計）</strong></span></td>
+                                        </tr>
+                                        <tr>
+                                            <th>水の種類</th>
+                                            <td>ＲＯ水、天然水の２種類</td>
+                                        </tr>
+                                        <tr>
+                                            <th>ボトルの種類</th>
+                                            <td>ワンウェイ方式（使い捨て）</td>
+                                        </tr>
+                                        <tr>
+                                            <th>宅配エリア</th>
+                                            <td>本州、四国、九州</td>
+                                        </tr>
+                                        <tr>
+                                            <th>総合評価</th>
+                                            <td><span style="font-size:13px" class="lbg"><span
+                                                        style="color:#FF0A0A"><strong>４．０点</strong></span></span>／５．０点
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </div>
+                                <div class="comment">
+                                    <div class="comment-inner">
+                                        <div class="comment-tit"><span>調査委員会のコメント</span></div>
+                                        <p>当サイト期待のウォーターサーバーです。公式サイトではRO水をイチオシしていますが、天然水も取り扱っています。いま話題のらく楽スタイルウォーターサーバーを導入しているため、衛生面、安全面、便利さは折り紙付きで、さらに節電も可能です。RO水のプラスプレミアムを選んだ場合、よほど大量に消費しない限り１ヶ月のトータル費用は業界最安で、コストを抑えたい方に良いでしょう。
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="more"><a class="gBtn prrrr"
+                                        href="https://ウォーターサーバー最新人気ランキング.com/link/oneway.html"
+                                        target="_blank">ワンウェイウォーター<br>公式サイトはこちら</a></div>
+                            </div>
+                        </div>
+                    </div>
+                    <p>&nbsp;</p>
+
+
+                    <!--  7位 サントリー  -->
+                    <div class="rank">
+                        <div class="rank-container">
+                            <div class="rank-inner">
+                                <div class="rank7"><a href="http://ウォーターサーバー最新人気ランキング.com/link/suntory.html"
                                         target="_blank" class="prrrr">サントリー天然水サーバー</a></div>
                                 <div class="rankbox">
                                     <div class="rankbox-inner">
@@ -962,7 +1045,7 @@
                                         <tr>
                                             <th>総合評価</th>
                                             <td><span style="font-size:13px" class="lbg"><span
-                                                        style="color:#FF0A0A"><strong>４．０点</strong></span></span>／５．０点
+                                                        style="color:#FF0A0A"><strong>３．９点</strong></span></span>／５．０点
                                             </td>
                                         </tr>
                                     </table>
@@ -984,91 +1067,100 @@
                     <p>&nbsp;</p>
 
 
-                    <!--  7位 7?? 信濃湧水9位->ワンウェイ  -->
-                    <div class="rank">
-                        <div class="rank-container">
-                            <div class="rank-inner">
-                                <div class="rank7"><a href="https://ウォーターサーバー最新人気ランキング.com/link/oneway.html"
-                                        target="_blank" class="prrrr">ワンウェイウォーター</a></div>
-                                <div class="rankbox">
-                                    <div class="rankbox-inner">
-                                        <div class="float-l">
-                                            <p><a href="https://ウォーターサーバー最新人気ランキング.com/link/oneway.html" target="_blank"
-                                                    class="prrrr"><img
-                                                        src="<?php bloginfo('template_directory'); ?>/imgi/oneway_125-125-2.jpg"
-                                                        alt="ウォーターサーバー ランキング／スマートフォンサイト" /></a></p>
-                                        </div>
-                                        <div class="feature"><span>ワンウェイウォーターのポイント！</span></div>
-                                        <p>・１ヶ月当たりのトータル費用は業界最安でお得！<br /><span
-                                                style="line-height:130%;font-size:10pt">（ROミネラルウォーターを選んだ場合）</span><br /><br />・人気No.1のプラスプレミアムは低価格なのに飲んで美味しい！<br /><br />・らく楽スタイルウォーターサーバーsmartだから便利で楽！<br /><br />・省エネ設計＆押すだけ簡単エコモード使用で５０～６０％省エネ可能！
-                                        </p>
-                                    </div>
-                                    <table class="rank-table">
-                                        <tr>
-                                            <th>水の価格</th>
-                                            <td>2,700円（税込）/12L×2本）※RO水、1ヶ月の夫婦２人分</td>
-                                        </tr>
-                                        <tr>
-                                            <th>配送料</th>
-                                            <td>無料</td>
-                                        </tr>
-                                        <tr>
-                                            <th>サーバー料金</th>
-                                            <td>無料</td>
-                                        </tr>
-                                        <tr>
-                                            <th>メンテナンス料金</th>
-                                            <td>無料</td>
-                                        </tr>
-                                        <tr>
-                                            <th>電気代</th>
-                                            <td>403円（節電時）</td>
-                                        </tr>
-                                        <tr>
-                                            <th>1ヶ月当たりのトータル費用</th>
-                                            <td><span style="color:#FF0A0A"><strong>約3,103円（税込）（全費用の合計）</strong></span></td>
-                                        </tr>
-                                        <tr>
-                                            <th>水の種類</th>
-                                            <td>ＲＯ水、天然水の２種類</td>
-                                        </tr>
-                                        <tr>
-                                            <th>ボトルの種類</th>
-                                            <td>ワンウェイ方式（使い捨て）</td>
-                                        </tr>
-                                        <tr>
-                                            <th>宅配エリア</th>
-                                            <td>本州、四国、九州</td>
-                                        </tr>
-                                        <tr>
-                                            <th>総合評価</th>
-                                            <td><span style="font-size:13px" class="lbg"><span
-                                                        style="color:#FF0A0A"><strong>３．９点</strong></span></span>／５．０点
-                                            </td>
-                                        </tr>
-                                    </table>
-                                </div>
-                                <div class="comment">
-                                    <div class="comment-inner">
-                                        <div class="comment-tit"><span>調査委員会のコメント</span></div>
-                                        <p>当サイト期待のウォーターサーバーです。公式サイトではRO水をイチオシしていますが、天然水も取り扱っています。いま話題のらく楽スタイルウォーターサーバーを導入しているため、衛生面、安全面、便利さは折り紙付きで、さらに節電も可能です。RO水のプラスプレミアムを選んだ場合、よほど大量に消費しない限り１ヶ月のトータル費用は業界最安で、コストを抑えたい方に良いでしょう。
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="more"><a class="gBtn prrrr"
-                                        href="https://ウォーターサーバー最新人気ランキング.com/link/oneway.html"
-                                        target="_blank">ワンウェイウォーター<br>公式サイトはこちら</a></div>
-                            </div>
-                        </div>
-                    </div>
-                    <p>&nbsp;</p>
+
+                    <!-- 8位 クリクラ -->
+					<div class="rank">
+						<div class="rank-container">
+							<div class="rank-inner">
+								<div class="rank8"><a href="https://ウォーターサーバー最新人気ランキング.com/link/crecla.html" target="_blank" class="prrrr">クリクラ</a></div>
+								<div class="rankbox">
+									<div class="rankbox-inner">
+										<div class="float-l">
+											<p><a href="https://ウォーターサーバー最新人気ランキング.com/link/crecla.html" target="_blank" class="prrrr"><img src="<?php bloginfo('template_directory'); ?>/imgi/crecla_ninki125x125_20190401.jpg" alt="ウォーターサーバー ランキング／スマートフォンサイト" /></a></p>
+										</div>
+										<div class="feature"><span>クリクラのポイント！</span></div>
+
+										<p>
+											・クリクラは<span style="color:#FF0A0A"><strong>9年連続お客様満足度No.1、「たまひよ赤ちゃんグッズ大賞2020」RO水ウォーターサーバー部門第1位</strong></span><br /><br />
+
+
+											・<span class="ylw"><span style="color:#FF0A0A"><strong>安心・安全な美味しいお水</strong></span></span>を飲むことが出来ると人気！<strong>赤ちゃんにも安心！</strong><br /><br />
+
+											・<span style="color:#FF0A0A"><strong>今年も産院利用数No.1</strong></span>を受賞しました♪<br /><br />
+
+											・<span class="ylw"><strong>サーバーレンタル代無料、業界最安値圏の料金</strong></span>で費用が安い！<br /><br />
+
+											・<strong>電源が無くても常温のお水が出る</strong>ので災害時の備蓄水に！<br /><br />
+
+											・全国各地に拠点があるから<span style="color:#FF0A0A"><strong><span class="ylw">トラブル時も安心！</span></strong></span><br /><br />
+
+											・<span style="color:#FF0A0A"><strong>専門スタッフによる年1回の定期メンテンナスを実施</strong></span>してるからサーバーはずっと衛生的＆安全！<br /><br />
+
+											・<strong>今なら<span style="color:#FF0A0A">ギフト券5,000円分</span>などかならずもらえる選べる特典付きでお得！</strong><br /><br />
+
+											・さらに他社ウォーターサーバーから乗り換える方限定で総額7,500円分のプレゼント特典も♪</p>
+									</div>
+									<table class="rank-table">
+										<tr>
+											<th>水の価格</th>
+											<td>2,920円（税込）（12Ｌ×2本）※1カ月の夫婦２人分</td>
+										</tr>
+										<tr>
+											<th>配送料</th>
+											<td>無料</td>
+										</tr>
+										<tr>
+											<th>あんしんサポートパック料</th>
+											<td>月460円（税込）（※サーバーレンタル代は無料）</td>
+										</tr>
+										<tr>
+											<th>メンテナンス料金</th>
+											<td>無料</td>
+										</tr>
+										<tr>
+											<th>電気代</th>
+											<td>700円</td>
+										</tr>
+										<tr>
+											<th>1カ月当たりのトータル費用</th>
+											<td><span style="color:#FF0A0A"><strong>約4,080円（全費用の合計）</strong></span></td>
+										</tr>
+										<tr>
+											<th>水の種類</th>
+											<td>RO水</td>
+										</tr>
+										<tr>
+											<th>ボトルの種類</th>
+											<td>リターナブル方式（返却）</td>
+										</tr>
+										<tr>
+											<th>宅配エリア</th>
+											<td>全国（沖縄、離島除く）</td>
+										</tr>
+										<tr>
+											<th>総合評価</th>
+											<td><span style="font-size:13px" class="lbg"><span style="color:#FF0A0A"><strong>３．８点</strong></span></span>／５．０点</td>
+										</tr>
+									</table>
+								</div>
+								<div class="comment">
+									<div class="comment-inner">
+										<div class="comment-tit"><span>調査委員会のコメント</span></div>
+										<p>クリクラはウォーターサーバーの中でも知名度が高く、一度は聞いたことがある方、病院や薬局や銀行等で見かけたことがある方、お飲みになったことがある方も少なくないのではないかと思います。９年連続お客様満足度No.1、「たまひよ赤ちゃんグッズ大賞2020」RO水ウォーターサーバー部門第1位に選ばれており、とても満足度の高いウォーターサーバーです。徹底的な品質管理をしているため安心・安全にお飲みいただけます。また、不純物を徹底的にろ過したまろやかな軟水なので、赤ちゃんのミルク作りや離乳食にも最適。RO水でお水の値段が天然水の約３分の２と安いため、コスパの高さが多くのユーザーに選ばれるポイントの１つです。年１回の定期メンテナンスを実施しているのでサーバーの衛生面も安心、全国各地に拠点があり専門スタッフがいるため故障時など何かあった時の対応も万全です。今ならギフト券5,000円分などかならずもらえる！選べる特典付きでお得なのでお申込みは今がチャンスです！</p>
+									</div>
+								</div>
+								<div class="more"><a class="gBtn prrrr" href="https://ウォーターサーバー最新人気ランキング.com/link/crecla.html" target="_blank">クリクラ<br>公式サイトはこちら</a></div>
+							</div>
+						</div>
+					</div>
+					<p>&nbsp;</p>
                     
 
-                    <!--  8位 8?? サントリー->Locca  -->
+                    <!--  9位 信濃湧水  -->
                     <div class="rank">
                         <div class="rank-container">
                             <div class="rank-inner">
-                                <div class="rank8"><a href="https://ウォーターサーバー最新人気ランキング.com/link/shinano.html"
+                                <div class="rank9"><a href="https://ウォーターサーバー最新人気ランキング.com/link/shinano.html"
                                         target="_blank" class="prrrr">信濃湧水</a></div>
                                 <div class="rankbox">
                                     <div class="rankbox-inner">
@@ -1124,7 +1216,7 @@
                                         <tr>
                                             <th>総合評価</th>
                                             <td><span style="font-size:13px" class="lbg"><span
-                                                        style="color:#FF0A0A"><strong>３．８点</strong></span></span>／５．０点
+                                                        style="color:#FF0A0A"><strong>３．７点</strong></span></span>／５．０点
                                             </td>
                                         </tr>
                                     </table>
@@ -1165,104 +1257,15 @@
                         </div>
                     </div>
                     <p>&nbsp;</p>
-                    <!-- <div class="rank">
-                        <div class="rank-container">
-                            <div class="rank-inner">
-                                <div class="rank8"><a href="http://ウォーターサーバー最新人気ランキング.com/link/locca.html"
-                                        target="_blank" class="prrrr">Locca</a></div>
-                                <div class="rankbox">
-                                    <div class="rankbox-inner">
-                                        <div class="float-l">
-                                            <p><a href="http://ウォーターサーバー最新人気ランキング.com/link/locca.html" target="_blank"
-                                                    class="prrrr"><img
-                                                        src="<?php bloginfo('template_directory'); ?>/imgi/locca.jpg"
-                                                        alt="ウォーターサーバー ランキング／スマートフォンサイト" /></a></p>
-                                        </div>
-                                        <div class="feature"><span>Loccaのおすすめポイント！</span></div>
-
-                                        <p>
-                                            ・<span class="ylw"><strong><span style="color:#FF0A0A">水道水を入れるだけ</span></strong></span>の浄水型ウォーターサーバー！<br /><br />
-
-                                            ・<span
-                                                style="color:#FF0A0A"><strong>月々2,860円（税抜）</strong></span>の定額でお水を好きなだけ使い放題！</span><br /><br />
-
-                                            ・ミネラル成分は残したまま11種類の不純物を除去！<br /><br />
-
-                                            ・重たいボトル交換が毎回不要！<br /><br />
-                                            
-                                        </p>
-                                    </div>
-                                    <table class="rank-table">
-                                        <tr>
-                                            <th>水の価格</th>
-                                            <td>61円（水道水300L）</td>
-                                        </tr>
-                                        <tr>
-                                            <th>配送料</th>
-                                            <td>無料</td>
-                                        </tr>
-                                        <tr>
-                                            <th>サーバー料金</th>
-                                            <td><span style="color:#FF0A0A"><strong>2860円</strong></span></td>
-                                        </tr>
-                                        <tr>
-                                            <th>メンテナンス料金</th>
-                                            <td>無料</td>
-                                        </tr>
-                                        <tr>
-                                            <th>電気代</th>
-                                            <td>616円</td>
-                                        </tr>
-                                        <tr>
-                                            <th>1ヶ月当たりのトータル費用</th>
-                                            <td><span style="color:#FF0A0A"><strong>3537円（全費用の合計）</strong></span></td>
-                                        </tr>
-                                        <tr>
-                                            <th>水の種類</th>
-                                            <td>RO水</td>
-                                        </tr>
-                                        <tr>
-                                            <th>ボトルの種類</th>
-                                            <td>浄水型</td>
-                                        </tr>
-                                        <tr>
-                                            <th>宅配エリア</th>
-                                            <td>全国（沖縄、離島除く）</td>
-                                        </tr>
-                                        <tr>
-                                            <th>総合評価</th>
-                                            <td><span style="font-size:13px" class="lbg"><span
-                                                        style="color:#FF0A0A"><strong>３．８点</strong></span></span>／５．０点
-                                            </td>
-                                        </tr>
-                                    </table>
-                                </div>
-                                <div class="comment">
-                                    <div class="comment-inner">
-                                        <div class="comment-tit"><span>調査委員会のコメント</span></div>
-                                        <p>
-                                        いま人気急上昇中の浄水型ウォーターサーバーからまた新しいタイプが新登場しました！Loccaはどれだけ飲んでも月々2,860円（税抜）の定額料金以外の費用は一切不要！
-                                        冷水・温水の両方がすぐに作れますので、飲料や料理、洗顔、コーヒーなど不純物が除去されたきれいなお水を好きなだけお使いいただけます。
-                                        水道水を入れるだけなので、重たいボトル交換不要、ウォーターサーバーと違ってボトルの置き場にも困らないので、一度使うとその便利さに手放せなくなるかも！？
-                                        サーバーはブラック・ホワイトの2色から選べてデザインもなかなかおしゃれ、エコモード（節電機能）付きなど機能も優れています。
-                                        料金を気にせず大量のお水を使いたい方は、ぜひLoccaを検討候補に加えてくださいね。
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="more"><a class="gBtn prrrr"
-                                        href="http://ウォーターサーバー最新人気ランキング.com/link/locca.html"
-                                        target="_blank">Locca<br>公式サイトはこちら</a></div>
-                            </div>
-                        </div>
-                    </div>
-                    <p>&nbsp;</p> -->
 
 
-                    <!--  9位 9?? 富士の湧水X -> 信濃湧水  -->
+
+
+                    <!--  10位 富士の湧水 -->
                     <div class="rank">
                         <div class="rank-container">
                             <div class="rank-inner">
-                                <div class="rank9"><a href="https://ウォーターサーバー最新人気ランキング.com/link/fujinoyusui.html"
+                                <div class="rank10"><a href="https://ウォーターサーバー最新人気ランキング.com/link/fujinoyusui.html"
                                         target="_blank" class="prrrr">富士の湧水</a></div>
                                 <div class="rankbox">
                                     <div class="rankbox-inner">
@@ -1316,7 +1319,7 @@
                                         <tr>
                                             <th>総合評価</th>
                                             <td><span style="font-size:13px" class="lbg"><span
-                                                        style="color:#FF0A0A"><strong>３．７点</strong></span></span>／５．０点
+                                                        style="color:#FF0A0A"><strong>３．５点</strong></span></span>／５．０点
                                             </td>
                                         </tr>
                                     </table>
