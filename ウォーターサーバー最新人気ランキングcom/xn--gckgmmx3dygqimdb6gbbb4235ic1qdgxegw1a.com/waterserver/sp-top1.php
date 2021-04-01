@@ -1081,7 +1081,7 @@
 										<div class="feature"><span>クリクラのポイント！</span></div>
 
 										<p>
-											・クリクラは<span style="color:#FF0A0A"><strong>9年連続お客様満足度No.1、「たまひよ赤ちゃんグッズ大賞2020」RO水ウォーターサーバー部門第1位</strong></span><br /><br />
+											・クリクラは<span style="color:#FF0A0A"><strong>10年連続お客様満足度No.1、「たまひよ赤ちゃんグッズ大賞2021」RO水ウォーターサーバー部門入賞</strong></span><br /><br />
 
 
 											・<span class="ylw"><span style="color:#FF0A0A"><strong>安心・安全な美味しいお水</strong></span></span>を飲むことが出来ると人気！<strong>赤ちゃんにも安心！</strong><br /><br />
@@ -1146,7 +1146,7 @@
 								<div class="comment">
 									<div class="comment-inner">
 										<div class="comment-tit"><span>調査委員会のコメント</span></div>
-										<p>クリクラはウォーターサーバーの中でも知名度が高く、一度は聞いたことがある方、病院や薬局や銀行等で見かけたことがある方、お飲みになったことがある方も少なくないのではないかと思います。９年連続お客様満足度No.1、「たまひよ赤ちゃんグッズ大賞2020」RO水ウォーターサーバー部門第1位に選ばれており、とても満足度の高いウォーターサーバーです。徹底的な品質管理をしているため安心・安全にお飲みいただけます。また、不純物を徹底的にろ過したまろやかな軟水なので、赤ちゃんのミルク作りや離乳食にも最適。RO水でお水の値段が天然水の約３分の２と安いため、コスパの高さが多くのユーザーに選ばれるポイントの１つです。年１回の定期メンテナンスを実施しているのでサーバーの衛生面も安心、全国各地に拠点があり専門スタッフがいるため故障時など何かあった時の対応も万全です。今ならギフト券5,000円分などかならずもらえる！選べる特典付きでお得なのでお申込みは今がチャンスです！</p>
+										<p>クリクラはウォーターサーバーの中でも知名度が高く、一度は聞いたことがある方、病院や薬局や銀行等で見かけたことがある方、お飲みになったことがある方も少なくないのではないかと思います。10年連続お客様満足度No.1、「たまひよ赤ちゃんグッズ大賞2021」RO水ウォーターサーバー部門第1位に選ばれており、とても満足度の高いウォーターサーバーです。徹底的な品質管理をしているため安心・安全にお飲みいただけます。また、不純物を徹底的にろ過したまろやかな軟水なので、赤ちゃんのミルク作りや離乳食にも最適。RO水でお水の値段が天然水の約３分の２と安いため、コスパの高さが多くのユーザーに選ばれるポイントの１つです。年１回の定期メンテナンスを実施しているのでサーバーの衛生面も安心、全国各地に拠点があり専門スタッフがいるため故障時など何かあった時の対応も万全です。今ならギフト券5,000円分などかならずもらえる！選べる特典付きでお得なのでお申込みは今がチャンスです！</p>
 									</div>
 								</div>
 								<div class="more"><a class="gBtn prrrr" href="https://ウォーターサーバー最新人気ランキング.com/link/crecla.html" target="_blank">クリクラ<br>公式サイトはこちら</a></div>
@@ -1339,85 +1339,6 @@
                     </div>
                     <p>&nbsp;</p>
 
-
-                    <!--  10位   リセットタイム  -->
-                    <div class="rank">
-                        <div class="rank-container">
-                            <div class="rank-inner">
-                                <div class="rank10"><a href="https://ウォーターサーバー最新人気ランキング.com/link/reset.html"
-                                        target="_blank" class="prrrr">リセットタイム</a></div>
-                                <div class="rankbox">
-                                    <div class="rankbox-inner">
-                                        <div class="float-l">
-                                            <p><a href="https://ウォーターサーバー最新人気ランキング.com/link/reset.html" target="_blank"
-                                                    class="prrrr"><img
-                                                        src="<?php bloginfo('template_directory'); ?>/imgi/reset_sp.jpg"
-                                                        alt="ウォーターサーバー ランキング／スマートフォンサイト" /></a></p>
-                                        </div>
-                                        <div class="feature"><span>リセットタイムのポイント！</span></div>
-                                        <p>・南雲先生もご愛飲のテレビでもおなじみの天然水！<br /><br />・体に影響を及ぼす成分硝酸態窒素ゼロ！<br /><br />・ボトルとサーバーは清潔クリーン！<br /><br />・3段階の温度調節機能とECOモード搭載で省エネ！
-                                        </p>
-                                    </div>
-                                    <table class="rank-table">
-                                        <tr>
-                                            <th>水の価格</th>
-                                            <td>3,348円（税込）/8L×2本 ※1ヶ月の夫婦2人分</td>
-                                        </tr>
-                                        <tr>
-                                            <th>配送料</th>
-                                            <td>無料</td>
-                                        </tr>
-                                        <tr>
-                                            <th>サーバー料金</th>
-                                            <td>無料</td>
-                                        </tr>
-                                        <tr>
-                                            <th>メンテナンス料金</th>
-                                            <td>無料</td>
-                                        </tr>
-                                        <tr>
-                                            <th>電気代</th>
-                                            <td>500円</td>
-                                        </tr>
-                                        <tr>
-                                            <th>1ヶ月当たりのトータル費用</th>
-                                            <td><span style="color:#FF0A0A"><strong>3,848円（税込）（全費用の合計）</strong></span></td>
-                                        </tr>
-                                        <tr>
-                                            <th>水の種類</th>
-                                            <td>天然水</td>
-                                        </tr>
-                                        <tr>
-                                            <th>ボトルの種類</th>
-                                            <td>ワンウェイ方式（使い捨て）</td>
-                                        </tr>
-                                        <tr>
-                                            <th>宅配エリア</th>
-                                            <td>北海道、本州、四国、九州（沖縄県、一部離島を除く）</td>
-                                        </tr>
-                                        <tr>
-                                            <th>総合評価</th>
-                                            <td><span style="font-size:13px" class="lbg"><span
-                                                        style="color:#FF0A0A"><strong>３．５点</strong></span></span>／５．０点
-                                            </td>
-                                        </tr>
-                                    </table>
-                                </div>
-                                <div class="comment">
-                                    <div class="comment-inner">
-                                        <div class="comment-tit"><span>調査委員会のコメント</span></div>
-                                        <p>南雲先生も飲んでいるテレビでもおなじみの天然水です。自然豊かな島根県金城町で採水、酸性に傾きやすい人の体と相性抜群の弱アルカリ性、体に影響を及ぼす成分「硝酸態窒素」ゼロ、おいしさとミネラルを失わないための非加熱処理、ととにかくお水にこだわりたい方におすすめです。奇跡の見た目と言われる美と健康のプロフェッショナル65歳の南雲先生も飲んでいるのも納得ですね。今なら新規で定期コースを申し込むと8L天然水8.0ℓ合計4本プレゼント（2か月分）とかなりお得に始めることができます。
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="more"><a class="gBtn prrrr"
-                                        href="https://ウォーターサーバー最新人気ランキング.com/link/reset.html"
-                                        target="_blank">リセットタイム<br>公式サイトはこちら</a></div>
-                            </div>
-                        </div>
-                    </div>
-                    <p>&nbsp;</p>
-                    <p>&nbsp;</p>
 
 
                     <!-- まとめ -->
