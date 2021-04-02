@@ -2048,7 +2048,7 @@
                                         <p>&nbsp;</p>
                                         <p>
                                             <center><a href="https://ウォーターサーバー最新人気ランキング.com/link/crecla.html"
-                                                    rel="nofollow" target="_blank"><img
+                                                    rel="nofollow" target="_blank" class="prrrr"><img
                                                         src="<?php bloginfo('template_directory'); ?>/imgi/crecla468_0531.jpg"
                                                         alt="ウォーターサーバー ランキング" /></a></center>
                                         </p>
@@ -2205,9 +2205,9 @@
                                                     style="color:#FF0A0A"><strong>専門スタッフによる年1回の定期メンテンナスを実施</strong></span>してるからサーバーはずっと衛生的＆安全！
                                             </p>
                                             <p><strong>今なら<span
-                                                        style="color:#FF0A0A">ギフト券5,000円分</span>などかならずもらえる選べる特典付きでお得！</strong>
+                                                        style="color:#FF0A0A">QUOカード3,000円分+ボトル1本</span>などかならずもらえる選べる特典付きでお得！</strong>
                                             </p>
-                                            <p>さらに他社ウォーターサーバーから乗り換える方限定で総額7,500円分のプレゼント特典も♪</p>
+                                            <p>さらに他社ウォーターサーバーから乗り換える方限定で総額7,920円分のプレゼント特典も♪</p>
 
                                         </div>
                                         <p>&nbsp;</p>
@@ -2216,16 +2216,37 @@
                                             <p><span style="font-size:18px" class="lbg">調査委員会のコメント</span></p>
                                             <p>&nbsp;</p>
                                             <p><span style="font-size:16px"
-                                                    class="lbg">クリクラはウォーターサーバーの中でも知名度が高く、一度は聞いたことがある方、病院や薬局や銀行等で見かけたことがある方、お飲みになったことがある方も少なくないのではないかと思います。10年連続お客様満足度No.1、「たまひよ赤ちゃんグッズ大賞2021」RO水ウォーターサーバー部門第1位に選ばれており、とても満足度の高いウォーターサーバーです。徹底的な品質管理をしているため安心・安全にお飲みいただけます。また、不純物を徹底的にろ過したまろやかな軟水なので、赤ちゃんのミルク作りや離乳食にも最適。RO水でお水の値段が天然水の約３分の２と安いため、コスパの高さが多くのユーザーに選ばれるポイントの１つです。年１回の定期メンテナンスを実施しているのでサーバーの衛生面も安心、全国各地に拠点があり専門スタッフがいるため故障時など何かあった時の対応も万全です。今ならギフト券5,000円分などかならずもらえる！選べる特典付きでお得なのでお申込みは今がチャンスです！</span>
+                                                    class="lbg">クリクラはウォーターサーバーの中でも知名度が高く、一度は聞いたことがある方、病院や薬局や銀行等で見かけたことがある方、お飲みになったことがある方も少なくないのではないかと思います。10年連続お客様満足度No.1、「たまひよ赤ちゃんグッズ大賞2021」RO水ウォーターサーバー部門第1位に選ばれており、とても満足度の高いウォーターサーバーです。徹底的な品質管理をしているため安心・安全にお飲みいただけます。また、不純物を徹底的にろ過したまろやかな軟水なので、赤ちゃんのミルク作りや離乳食にも最適。RO水でお水の値段が天然水の約３分の２と安いため、コスパの高さが多くのユーザーに選ばれるポイントの１つです。年１回の定期メンテナンスを実施しているのでサーバーの衛生面も安心、全国各地に拠点があり専門スタッフがいるため故障時など何かあった時の対応も万全です。今ならQUOカード3,000円分+ボトル1本などかならずもらえる！選べる特典付きでお得なのでお申込みは今がチャンスです！</span>
                                             </p>
                                         </div>
                                         <p>&nbsp;</p>
+
+                                        <div class="cam-box cam-2">
+
+                                            <div class="left-con">
+                                                <strong class="title">期間限定キャンペーン</strong>
+                                                <span class="check-box">Check!</span>
+                                            </div>
+                                            <div class="right-con">
+                                                <div class="right-box">
+                                                    <p class="cam-descript">
+                                                        <strong><a
+                                                                href="https://ウォーターサーバー最新人気ランキング.com/link/crecla.html"
+                                                                target="_blank"
+                                                                class="prrrr red" style="background: none">月額費用の見直しなら"安くて安心"のクリクラがお得！今なら乗り換えで「QUOカード5,000円分＋初回ボトル２本無料」ほか必ずもらえる！選べる特典。</a>
+                                                        </strong>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                            <img src="<?php bloginfo('template_directory'); ?>/img/present-3.png"
+                                                alt="">
+                                        </div>
 
                                         <div style="margin:0 60px;">
                                             <p style="text-align:right;"><strong><span style="font-size:20px"
                                                         class="lbg"><a
                                                             href="https://ウォーターサーバー最新人気ランキング.com/link/crecla.html"
-                                                            target="_blank">⇒クリクラの公式サイトはこちら</a></span></strong></p>
+                                                            target="_blank" class="prrrr">⇒クリクラの公式サイトはこちら</a></span></strong></p>
                                         </div>
                                         <p>&nbsp;</p>
                                         <p>&nbsp;</p>

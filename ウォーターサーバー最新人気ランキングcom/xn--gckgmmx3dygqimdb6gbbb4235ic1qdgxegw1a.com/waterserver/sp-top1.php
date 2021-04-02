@@ -284,7 +284,8 @@
                                         </tr>
                                         <tr>
                                             <th>1ヶ月当たりのトータル費用</th>
-                                            <td><span style="color:#FF0A0A"><strong>約4,581円（税込）（全費用の合計）</strong></span></td>
+                                            <td><span style="color:#FF0A0A"><strong>約4,581円（税込）（全費用の合計）</strong></span>
+                                            </td>
                                         </tr>
                                         <tr>
                                             <th>水の種類</th>
@@ -413,8 +414,10 @@
 
                                             ・サーバー・水ともに外気を通さないエアレス構造なので、<strong>天然水がいつでも新鮮</strong></span><br /><br />
 
-                                            ・<strong><span style="color:#FF0A0A">【早くも話題】人気の<a href="https://xn--gckgmmx3dygqimdb6gbbb4235ic1qdgxegw1a.com/link/frecious-newdewo.html" target="_blank">dewo</a>におしゃれな新色「ローズトープ」登場！</span></strong><br /><br />
-                                            
+                                            ・<strong><span style="color:#FF0A0A">【早くも話題】人気の<a
+                                                        href="https://xn--gckgmmx3dygqimdb6gbbb4235ic1qdgxegw1a.com/link/frecious-newdewo.html"
+                                                        target="_blank">dewo</a>におしゃれな新色「ローズトープ」登場！</span></strong><br /><br />
+
 
                                             ・<span class="ylw">他社サーバーからフレシャスへ<a
                                                     href="https://xn--gckgmmx3dygqimdb6gbbb4235ic1qdgxegw1a.com/link/frecious-norikae.html"
@@ -452,7 +455,8 @@
                                         </tr>
                                         <tr>
                                             <th>1ヶ月当たりのトータル費用</th>
-                                            <td><span style="color:#FF0A0A"><strong>約5,254円（税込）～（全費用の合計）</strong></span></td>
+                                            <td><span style="color:#FF0A0A"><strong>約5,254円（税込）～（全費用の合計）</strong></span>
+                                            </td>
                                         </tr>
                                         <tr>
                                             <th>水の種類</th>
@@ -504,7 +508,8 @@
                                         <div class="right-box">
                                             <p class="cam-descript">
                                                 <a href="https://ウォーターサーバー最新人気ランキング.com/link/frecious.html"
-                                                    target="_blank" class="prrrr red">全員に初回の水1箱を無料0円でプレゼント！さらに、今ならオリジナルグッズも数量限定でプレゼント！
+                                                    target="_blank"
+                                                    class="prrrr red">全員に初回の水1箱を無料0円でプレゼント！さらに、今ならオリジナルグッズも数量限定でプレゼント！
                                                 </a>
                                             </p>
                                         </div>
@@ -543,7 +548,7 @@
 
                                             ・グッドデザイン賞受賞！どんな空間にも馴染むAQUA FAB！<br /><br />
 
-                                            
+
 
                                             ・<span
                                                 style="color:#FF0A0A"><strong>9年連続モンドセレクション優秀品質最高金賞を受賞</strong></span>したお水がご家庭で毎日飲める！<br /><br />
@@ -591,7 +596,8 @@
                                         </tr>
                                         <tr>
                                             <th>1ヶ月当たりのトータル費用</th>
-                                            <td><span style="color:#FF0A0A"><strong>4,383円（税込）～（全費用の合計）</strong></span></td>
+                                            <td><span style="color:#FF0A0A"><strong>4,383円（税込）～（全費用の合計）</strong></span>
+                                            </td>
                                         </tr>
                                         <tr>
                                             <th>水の種類</th>
@@ -656,7 +662,7 @@
                         </div>
                     </div>
                     <p>&nbsp;</p>
-                    
+
 
 
 
@@ -675,9 +681,10 @@
                                                 style="display:flex; align-items: center; justify-content: space-around;">
                                                 <a href="https://ウォーターサーバー最新人気ランキング.com/link/premium.html"
                                                     target="_blank" class="prrrr">
-                                                    <img src="<?php bloginfo('template_directory'); ?>/imgi/pre-120x120.jpg"　alt="ウォーターサーバー ランキング／スマートフォンサイト" />
+                                                    <img src="<?php bloginfo('template_directory'); ?>/imgi/pre-120x120.jpg"
+                                                        　alt="ウォーターサーバー ランキング／スマートフォンサイト" />
                                                 </a>
-                                                
+
                                             </p>
                                         </div>
 
@@ -735,7 +742,8 @@
                                         </tr>
                                         <tr>
                                             <th>1ヶ月当たりのトータル費用</th>
-                                            <td><span style="color:#FF0A0A"><strong>約4,474円（税込）（全費用の合計）</strong></span></td>
+                                            <td><span style="color:#FF0A0A"><strong>約4,474円（税込）（全費用の合計）</strong></span>
+                                            </td>
                                         </tr>
                                         <tr>
                                             <th>水の種類</th>
@@ -794,7 +802,7 @@
                         </div>
                     </div>
                     <p>&nbsp;</p>
-                    
+
 
 
 
@@ -839,7 +847,8 @@
                                         </tr>
                                         <tr>
                                             <th>1ヶ月当たりのトータル費用</th>
-                                            <td><span style="color:#FF0A0A"><strong>約3,726円（税込）（全費用の合計）</strong></span></td>
+                                            <td><span style="color:#FF0A0A"><strong>約3,726円（税込）（全費用の合計）</strong></span>
+                                            </td>
                                         </tr>
                                         <tr>
                                             <th>水の種類</th>
@@ -880,7 +889,7 @@
 
 
 
-                    
+
 
 
                     <!--  6位 ワンウェイウォーター-->
@@ -925,7 +934,8 @@
                                         </tr>
                                         <tr>
                                             <th>1ヶ月当たりのトータル費用</th>
-                                            <td><span style="color:#FF0A0A"><strong>約3,103円（税込）（全費用の合計）</strong></span></td>
+                                            <td><span style="color:#FF0A0A"><strong>約3,103円（税込）（全費用の合計）</strong></span>
+                                            </td>
                                         </tr>
                                         <tr>
                                             <th>水の種類</th>
@@ -1028,7 +1038,8 @@
                                         </tr>
                                         <tr>
                                             <th>1ヶ月当たりのトータル費用</th>
-                                            <td><span style="color:#FF0A0A"><strong>約5,400円（税込）（電気代含む）</strong></span></td>
+                                            <td><span style="color:#FF0A0A"><strong>約5,400円（税込）（電気代含む）</strong></span>
+                                            </td>
                                         </tr>
                                         <tr>
                                             <th>水の種類</th>
@@ -1069,92 +1080,126 @@
 
 
                     <!-- 8位 クリクラ -->
-					<div class="rank">
-						<div class="rank-container">
-							<div class="rank-inner">
-								<div class="rank8"><a href="https://ウォーターサーバー最新人気ランキング.com/link/crecla.html" target="_blank" class="prrrr">クリクラ</a></div>
-								<div class="rankbox">
-									<div class="rankbox-inner">
-										<div class="float-l">
-											<p><a href="https://ウォーターサーバー最新人気ランキング.com/link/crecla.html" target="_blank" class="prrrr"><img src="<?php bloginfo('template_directory'); ?>/imgi/crecla_ninki125x125_20190401.jpg" alt="ウォーターサーバー ランキング／スマートフォンサイト" /></a></p>
-										</div>
-										<div class="feature"><span>クリクラのポイント！</span></div>
+                    <div class="rank">
+                        <div class="rank-container">
+                            <div class="rank-inner">
+                                <div class="rank8"><a href="https://ウォーターサーバー最新人気ランキング.com/link/crecla.html"
+                                        target="_blank" class="prrrr">クリクラ</a></div>
+                                <div class="rankbox">
+                                    <div class="rankbox-inner">
+                                        <div class="float-l">
+                                            <p><a href="https://ウォーターサーバー最新人気ランキング.com/link/crecla.html" target="_blank"
+                                                    class="prrrr"><img
+                                                        src="<?php bloginfo('template_directory'); ?>/imgi/crecla_ninki125x125_20190401.jpg"
+                                                        alt="ウォーターサーバー ランキング／スマートフォンサイト" /></a></p>
+                                        </div>
+                                        <div class="feature"><span>クリクラのポイント！</span></div>
 
-										<p>
-											・クリクラは<span style="color:#FF0A0A"><strong>10年連続お客様満足度No.1、「たまひよ赤ちゃんグッズ大賞2021」RO水ウォーターサーバー部門入賞</strong></span><br /><br />
+                                        <p>
+                                            ・クリクラは<span
+                                                style="color:#FF0A0A"><strong>10年連続お客様満足度No.1、「たまひよ赤ちゃんグッズ大賞2021」RO水ウォーターサーバー部門入賞</strong></span><br /><br />
 
 
-											・<span class="ylw"><span style="color:#FF0A0A"><strong>安心・安全な美味しいお水</strong></span></span>を飲むことが出来ると人気！<strong>赤ちゃんにも安心！</strong><br /><br />
+                                            ・<span class="ylw"><span
+                                                    style="color:#FF0A0A"><strong>安心・安全な美味しいお水</strong></span></span>を飲むことが出来ると人気！<strong>赤ちゃんにも安心！</strong><br /><br />
 
-											・<span style="color:#FF0A0A"><strong>今年も産院利用数No.1</strong></span>を受賞しました♪<br /><br />
+                                            ・<span
+                                                style="color:#FF0A0A"><strong>今年も産院利用数No.1</strong></span>を受賞しました♪<br /><br />
 
-											・<span class="ylw"><strong>サーバーレンタル代無料、業界最安値圏の料金</strong></span>で費用が安い！<br /><br />
+                                            ・<span
+                                                class="ylw"><strong>サーバーレンタル代無料、業界最安値圏の料金</strong></span>で費用が安い！<br /><br />
 
-											・<strong>電源が無くても常温のお水が出る</strong>ので災害時の備蓄水に！<br /><br />
+                                            ・<strong>電源が無くても常温のお水が出る</strong>ので災害時の備蓄水に！<br /><br />
 
-											・全国各地に拠点があるから<span style="color:#FF0A0A"><strong><span class="ylw">トラブル時も安心！</span></strong></span><br /><br />
+                                            ・全国各地に拠点があるから<span style="color:#FF0A0A"><strong><span
+                                                        class="ylw">トラブル時も安心！</span></strong></span><br /><br />
 
-											・<span style="color:#FF0A0A"><strong>専門スタッフによる年1回の定期メンテンナスを実施</strong></span>してるからサーバーはずっと衛生的＆安全！<br /><br />
+                                            ・<span
+                                                style="color:#FF0A0A"><strong>専門スタッフによる年1回の定期メンテンナスを実施</strong></span>してるからサーバーはずっと衛生的＆安全！<br /><br />
 
-											・<strong>今なら<span style="color:#FF0A0A">ギフト券5,000円分</span>などかならずもらえる選べる特典付きでお得！</strong><br /><br />
+                                            ・<strong>今なら<span
+                                                    style="color:#FF0A0A">QUOカード3,000円分+ボトル1本</span>などかならずもらえる選べる特典付きでお得！</strong><br /><br />
 
-											・さらに他社ウォーターサーバーから乗り換える方限定で総額7,500円分のプレゼント特典も♪</p>
-									</div>
-									<table class="rank-table">
-										<tr>
-											<th>水の価格</th>
-											<td>2,920円（税込）（12Ｌ×2本）※1カ月の夫婦２人分</td>
-										</tr>
-										<tr>
-											<th>配送料</th>
-											<td>無料</td>
-										</tr>
-										<tr>
-											<th>あんしんサポートパック料</th>
-											<td>月460円（税込）（※サーバーレンタル代は無料）</td>
-										</tr>
-										<tr>
-											<th>メンテナンス料金</th>
-											<td>無料</td>
-										</tr>
-										<tr>
-											<th>電気代</th>
-											<td>700円</td>
-										</tr>
-										<tr>
-											<th>1カ月当たりのトータル費用</th>
-											<td><span style="color:#FF0A0A"><strong>約4,080円（全費用の合計）</strong></span></td>
-										</tr>
-										<tr>
-											<th>水の種類</th>
-											<td>RO水</td>
-										</tr>
-										<tr>
-											<th>ボトルの種類</th>
-											<td>リターナブル方式（返却）</td>
-										</tr>
-										<tr>
-											<th>宅配エリア</th>
-											<td>全国（沖縄、離島除く）</td>
-										</tr>
-										<tr>
-											<th>総合評価</th>
-											<td><span style="font-size:13px" class="lbg"><span style="color:#FF0A0A"><strong>３．８点</strong></span></span>／５．０点</td>
-										</tr>
-									</table>
-								</div>
-								<div class="comment">
-									<div class="comment-inner">
-										<div class="comment-tit"><span>調査委員会のコメント</span></div>
-										<p>クリクラはウォーターサーバーの中でも知名度が高く、一度は聞いたことがある方、病院や薬局や銀行等で見かけたことがある方、お飲みになったことがある方も少なくないのではないかと思います。10年連続お客様満足度No.1、「たまひよ赤ちゃんグッズ大賞2021」RO水ウォーターサーバー部門第1位に選ばれており、とても満足度の高いウォーターサーバーです。徹底的な品質管理をしているため安心・安全にお飲みいただけます。また、不純物を徹底的にろ過したまろやかな軟水なので、赤ちゃんのミルク作りや離乳食にも最適。RO水でお水の値段が天然水の約３分の２と安いため、コスパの高さが多くのユーザーに選ばれるポイントの１つです。年１回の定期メンテナンスを実施しているのでサーバーの衛生面も安心、全国各地に拠点があり専門スタッフがいるため故障時など何かあった時の対応も万全です。今ならギフト券5,000円分などかならずもらえる！選べる特典付きでお得なのでお申込みは今がチャンスです！</p>
-									</div>
-								</div>
-								<div class="more"><a class="gBtn prrrr" href="https://ウォーターサーバー最新人気ランキング.com/link/crecla.html" target="_blank">クリクラ<br>公式サイトはこちら</a></div>
-							</div>
-						</div>
-					</div>
-					<p>&nbsp;</p>
-                    
+                                            ・さらに他社ウォーターサーバーから乗り換える方限定で総額7,920円分のプレゼント特典も♪</p>
+                                    </div>
+                                    <table class="rank-table">
+                                        <tr>
+                                            <th>水の価格</th>
+                                            <td>2,920円（税込）（12Ｌ×2本）※1カ月の夫婦２人分</td>
+                                        </tr>
+                                        <tr>
+                                            <th>配送料</th>
+                                            <td>無料</td>
+                                        </tr>
+                                        <tr>
+                                            <th>あんしんサポートパック料</th>
+                                            <td>月460円（税込）（※サーバーレンタル代は無料）</td>
+                                        </tr>
+                                        <tr>
+                                            <th>メンテナンス料金</th>
+                                            <td>無料</td>
+                                        </tr>
+                                        <tr>
+                                            <th>電気代</th>
+                                            <td>700円</td>
+                                        </tr>
+                                        <tr>
+                                            <th>1カ月当たりのトータル費用</th>
+                                            <td><span style="color:#FF0A0A"><strong>約4,080円（全費用の合計）</strong></span></td>
+                                        </tr>
+                                        <tr>
+                                            <th>水の種類</th>
+                                            <td>RO水</td>
+                                        </tr>
+                                        <tr>
+                                            <th>ボトルの種類</th>
+                                            <td>リターナブル方式（返却）</td>
+                                        </tr>
+                                        <tr>
+                                            <th>宅配エリア</th>
+                                            <td>全国（沖縄、離島除く）</td>
+                                        </tr>
+                                        <tr>
+                                            <th>総合評価</th>
+                                            <td><span style="font-size:13px" class="lbg"><span
+                                                        style="color:#FF0A0A"><strong>３．８点</strong></span></span>／５．０点
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </div>
+                                <div class="comment">
+                                    <div class="comment-inner">
+                                        <div class="comment-tit"><span>調査委員会のコメント</span></div>
+                                        <p>クリクラはウォーターサーバーの中でも知名度が高く、一度は聞いたことがある方、病院や薬局や銀行等で見かけたことがある方、お飲みになったことがある方も少なくないのではないかと思います。10年連続お客様満足度No.1、「たまひよ赤ちゃんグッズ大賞2021」RO水ウォーターサーバー部門第1位に選ばれており、とても満足度の高いウォーターサーバーです。徹底的な品質管理をしているため安心・安全にお飲みいただけます。また、不純物を徹底的にろ過したまろやかな軟水なので、赤ちゃんのミルク作りや離乳食にも最適。RO水でお水の値段が天然水の約３分の２と安いため、コスパの高さが多くのユーザーに選ばれるポイントの１つです。年１回の定期メンテナンスを実施しているのでサーバーの衛生面も安心、全国各地に拠点があり専門スタッフがいるため故障時など何かあった時の対応も万全です。今ならQUOカード3,000円分+ボトル1本などかならずもらえる！選べる特典付きでお得なのでお申込みは今がチャンスです！
+                                        </p>
+                                    </div>
+                                </div>
+
+                                <div class="cam-box cam-2">
+
+                                    <div class="left-con">
+                                        <strong class="title">期間限定キャンペーン</strong>
+                                        <!-- <span class="check-box">Check!</span> -->
+                                    </div>
+                                    <div class="right-con">
+                                        <div class="right-box">
+                                            <p class="cam-descript">
+                                                <span class="red" style="background: none">月額費用の見直しなら"安くて安心"のクリクラがお得！今なら乗り換えで「QUOカード5,000円分＋初回ボトル２本無料」ほか必ずもらえる！選べる特典。
+                                                </span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <img src="<?php bloginfo('template_directory'); ?>/img/present-3.png" alt="">
+
+                                </div>
+                                <div class="more"><a class="gBtn prrrr"
+                                        href="https://ウォーターサーバー最新人気ランキング.com/link/crecla.html"
+                                        target="_blank" class="prrrr">クリクラ<br>公式サイトはこちら</a></div>
+                            </div>
+                        </div>
+                    </div>
+                    <p>&nbsp;</p>
+
 
                     <!--  9位 信濃湧水  -->
                     <div class="rank">
@@ -1302,7 +1347,8 @@
                                         </tr>
                                         <tr>
                                             <th>1ヶ月当たりのトータル費用</th>
-                                            <td><span style="color:#FF0A0A"><strong>約4,808円（税込）（全費用の合計）</strong></span></td>
+                                            <td><span style="color:#FF0A0A"><strong>約4,808円（税込）（全費用の合計）</strong></span>
+                                            </td>
                                         </tr>
                                         <tr>
                                             <th>水の種類</th>
