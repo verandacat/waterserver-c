@@ -1451,7 +1451,7 @@
                                     </p>
                                     <TD style="border:1px solid #CACAFF;
 " align="center" width="177">
-                                        <FONT size="-1">&nbsp;月3,190円（税込）</FONT>
+                                        <FONT size="-1">&nbsp;月3,300円（税込）</FONT>
                                     </TD>
                                     </p>
                                 </tr>
@@ -1512,7 +1512,7 @@
 " align="center" width="183">475円</p>
                                     </TD>
                                     <TD style="border:1px solid #CACAFF;
-" align="center" width="177">約3,726円（税込）<br />
+" align="center" width="177">約3,836円（税込）<br />
                                         <FONT size="-1">※全費用の合計</FONT>
                                         </p>
                                     </TD>
@@ -1556,7 +1556,7 @@
                                                 class="lbg">ハミングウォーターのおすすめポイントはここ！</span></div>
                                         <p>&nbsp;</p>
                                         <p>　<span style="font-size:16px"
-                                                class="lbg">・月額3,190円（税込）でおいしいお水が飲み放題！</span><br />　<span
+                                                class="lbg">・月額3,300円（税込）でおいしいお水が飲み放題！</span><br />　<span
                                                 style="font-size:16px"
                                                 class="lbg">・水道水を浄水して使用する浄水型ウォーターサーバー！</span><br />　<span
                                                 style="font-size:16px" class="lbg">・業界最小サイズのコンパクトボディ！</span><br />　<span
@@ -1567,7 +1567,7 @@
                                             <p><span style="font-size:18px" class="lbg">調査委員会のコメント</span></p>
                                             <p>&nbsp;</p>
                                             <p><span style="font-size:16px"
-                                                    class="lbg">浄水型ウォーターサーバーでおすすめなのがハミングウォーターです。月額定額3,190円（税込）で水道水を浄化してお水を好きなだけお使いいただけますので、飲んだりご飯を炊いたり贅沢に使ってもお水代を気にする必要が全くなし！当サイトランキング1位の<a
+                                                    class="lbg">浄水型ウォーターサーバーでおすすめなのがハミングウォーターです。月額定額3,300円（税込）で水道水を浄化してお水を好きなだけお使いいただけますので、飲んだりご飯を炊いたり贅沢に使ってもお水代を気にする必要が全くなし！当サイトランキング1位の<a
                                                         href="https://ウォーターサーバー最新人気ランキング.com/link/cosmo.html"
                                                         target="_blank"
                                                         class="prrrr">コスモウォーター</a>が販売するサーバーなので、スリム設計で使いやすく、デザインもグッド、ユーザーの気持ち良く理解して開発されています。天然水にこだわりのない方はぜひ検討してみてくださいね。</span>
