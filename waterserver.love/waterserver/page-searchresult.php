@@ -234,9 +234,12 @@ get_header(); ?>
         $posts[] = array(
           'id' => get_the_ID(),
           "water_cost" => get_sub_field('water_cost'),
+          "water_cost2" => get_sub_field('water_cost2'),
           "server_cost" => get_sub_field('server_cost'),
+          "server_cost2" => get_sub_field('server_cost2'),
           "shipping_cost" => get_sub_field('shipping_cost'),
           "electricity_cost" => get_sub_field('electricity_cost'),
+          "electricity_cost2" => get_sub_field('electricity_cost2'),
           'water_types' => $water_type_array,
           'bottle' => $label,
           'shipping_area' => $shipping_areas[get_field("shipping_area", $post->ID)],
@@ -288,10 +291,26 @@ get_header(); ?>
                 <a href="<?php the_permalink($pickup_id); ?>" rel="external nofollow"><?php echo get_post($pickup_id)->post_title; ?></a>
               </th>
               <?php $spec = get_field('spec', $pickup_id); ?>
-              <td><?php echo $spec['water_cost']; ?></td>
-              <td><?php echo $spec['server_cost']; ?></td>
+              <td><?php echo number_format($spec['water_cost']); ?>円<?php echo $spec['water_cost2']; ?></td>
+              <td>
+              <?php if(!preg_match("/[0-9]{4}/",$spec['server_cost'])) : ?>
+                    <?php echo $spec['server_cost']; ?>
+                    <?php echo $spec['server_cost2']; ?>
+                    <?php else : ?>
+                    <?php echo number_format($spec['server_cost']); ?>円
+                    <?php echo $spec['server_cost2']; ?>
+                <?php endif; ?>
+              </td>
               <td><?php echo $spec['shipping_cost']; ?></td>
-              <td><?php echo $spec['electricity_cost']; ?></td>
+              <td>
+              <?php if(!preg_match("/[0-9]{4}/",$spec['electricity_cost'])) : ?>
+                    <?php echo $spec['electricity_cost']; ?>
+                    <?php echo $spec['electricity_cost2']; ?>
+                    <?php else : ?>
+                    <?php echo number_format($spec['electricity_cost']); ?>円
+                    <?php echo $spec['electricity_cost2']; ?>
+                <?php endif; ?>
+              </td>
               <td><?php
                   $field = get_field_object('water_type', $pickup_id);
                   $water = $field['value'];
@@ -439,10 +458,26 @@ get_header(); ?>
                   <a href="<?php the_permalink($post['id']); ?>" rel="external nofollow"><?php echo get_post($post['id'])->post_title; ?></a>
                 </th>
                 <?php $spec = get_field('spec', $post['id']); ?>
-                <td><?php echo $spec["water_cost"]; ?></td>
-                <td><?php echo $spec["server_cost"]; ?></td>
+                <td><?php echo number_format($spec['water_cost']); ?>円<?php echo $spec['water_cost2']; ?></td>
+                <td>
+                <?php if(!preg_match("/[0-9]{4}/",$spec['server_cost'])) : ?>
+                    <?php echo $spec['server_cost']; ?>
+                    <?php echo $spec['server_cost2']; ?>
+                    <?php else : ?>
+                    <?php echo number_format($spec['server_cost']); ?>円
+                    <?php echo $spec['server_cost2']; ?>
+                <?php endif; ?>
+                </td>
                 <td><?php echo $spec["shipping_cost"]; ?></td>
-                <td><?php echo $spec["electricity_cost"]; ?></td>
+                <td>
+                <?php if(!preg_match("/[0-9]{4}/",$spec['electricity_cost'])) : ?>
+                    <?php echo $spec['electricity_cost']; ?>
+                    <?php echo $spec['electricity_cost2']; ?>
+                    <?php else : ?>
+                    <?php echo number_format($spec['electricity_cost']); ?>円
+                    <?php echo $spec['electricity_cost2']; ?>
+                <?php endif; ?>
+                </td>
                 <td><?php echo implode('、', $post['water_types']); ?></td>
                 <td><?php echo $post["bottle"]; ?><br />タイプ</td>
                 <td><?php echo $post["shipping_area"]; ?></td>

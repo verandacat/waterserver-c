@@ -35,11 +35,19 @@
 <?php $spec = get_field('spec'); ?>
 <tr>
   <th colspan="2">価格</th>
-  <td colspan="4"><?php echo $spec['water_cost']; ?></td>
+  <td colspan="4"><?php echo number_format($spec['water_cost']); ?>円<?php echo $spec['water_cost2']; ?></td>
 </tr>
 <tr>
   <th colspan="2">サーバー料金</th>
-  <td colspan="4"><?php echo $spec['server_cost']; ?></td>
+  <td colspan="4">
+  <?php if(!preg_match("/[0-9]{4}/",$spec['server_cost'])) : ?>
+      <?php echo $spec['server_cost']; ?>
+      <?php echo $spec['server_cost2']; ?>
+      <?php else : ?>
+      <?php echo number_format($spec['server_cost']); ?>円
+      <?php echo $spec['server_cost2']; ?>
+  <?php endif; ?>
+  </td>
 </tr>
 <tr>
   <th colspan="2">配送料</th>
@@ -47,7 +55,15 @@
 </tr>
 <tr>
   <th colspan="2">電気代(月)</th>
-  <td colspan="4"><?php echo $spec['electricity_cost']; ?></td>
+  <td colspan="4">
+  <?php if(!preg_match("/[0-9]{4}/",$spec['electricity_cost'])) : ?>
+      <?php echo $spec['electricity_cost']; ?>
+      <?php echo $spec['electricity_cost2']; ?>
+      <?php else : ?>
+      <?php echo number_format($spec['electricity_cost']); ?>円
+      <?php echo $spec['electricity_cost2']; ?>
+  <?php endif; ?>
+  </td>
 </tr>
 <tr>
 </tr>

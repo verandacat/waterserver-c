@@ -282,9 +282,15 @@ while ( $loop->have_posts() ) : $loop->the_post();
 		'product_name' => get_post_meta($post->ID,"product_name", true),
 		'id' => get_the_ID(),
 		"water_cost" => get_post_meta($post->ID,"water_cost", true),
+		"water_cost2" => get_post_meta($post->ID,"water_cost2", true),
+
 		"server_cost" => get_post_meta($post->ID,"server_cost", true),
+		"server_cost2" => get_post_meta($post->ID,"server_cost2", true),
+
 		"shipping_cost" => get_post_meta($post->ID,"shipping_cost", true),
 		"electricity_cost" => get_post_meta($post->ID,"electricity_cost", true),
+		"electricity_cost2" => get_post_meta($post->ID,"electricity_cost2", true),
+
 		'water_types' => $water_type_array,
 		'bottle' => $bottles[get_field("bottle",$post->ID)],
 		'shipping_area' => $shipping_areas[get_field("shipping_area",$post->ID)],
@@ -350,7 +356,8 @@ if(strpos($ref,'/b/') !== false){ ?>
                             rel="external nofollow"
                             class="prrrr"><?php echo get_post_meta($pickup_id,"product_name", true); ?></a>
                     </th>
-                    <td><?php echo get_post_meta($pickup_id,"water_cost", true);?></td>
+                    <td><?php echo number_format(get_post_meta($pickup_id,"water_cost", true));?>円<?php echo get_post_meta($pickup_id,"water_cost2", true);?>
+					</td>
                     <td><?php echo get_post_meta($pickup_id,"server_cost", true);?></td>
                     <td><?php echo get_post_meta($pickup_id,"shipping_cost", true);?></td>
                     <td><?php echo get_post_meta($pickup_id,"electricity_cost", true);?></td>
@@ -501,10 +508,26 @@ foreach ($posts as $post) {
                         <a href="<?php bloginfo('url'); ?>/links?link_id=<?php echo $post['id'];?>"
                             rel="external nofollow" class="prrrr"><?php echo $post["product_name"]; ?></a>
                     </th>
-                    <td><?php echo $post["water_cost"];?></td>
-                    <td><?php echo $post["server_cost"];?></td>
+                    <td><?php echo number_format($post["water_cost"]); ?>円<?php echo $post["water_cost2"]; ?></td>
+                    <td>
+					<?php if(!preg_match("/[0-9]{4}/",$post["server_cost"])) : ?>
+						<?php echo $post["server_cost"]; ?>
+						<?php echo $post["server_cost2"]; ?>
+						<?php else : ?>
+						<?php echo number_format($post["server_cost"]); ?>円
+						<?php echo $post["server_cost2"]; ?>
+					<?php endif; ?>
+					</td>
                     <td><?php echo $post["shipping_cost"];?></td>
-                    <td><?php echo $post["electricity_cost"];?></td>
+                    <td>
+					<?php if(!preg_match("/[0-9]{4}/",$post["electricity_cost"])) : ?>
+						<?php echo $post["electricity_cost"]; ?>
+						<?php echo $post["electricity_cost2"]; ?>
+						<?php else : ?>
+						<?php echo number_format($post["electricity_cost"]); ?>円
+						<?php echo $post["electricity_cost2"]; ?>
+					<?php endif; ?>
+					</td>
                     <td><?php echo implode('、',$post['water_types']);?></td>
                     <td><?php echo $post["bottle"];?><br />タイプ</td>
                     <td><?php echo $post["shipping_area"];?></td>

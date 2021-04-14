@@ -21,8 +21,17 @@
           </a>
           <a href="<?php the_permalink(); ?>&type=pickup" rel="external nofollow"><?php echo get_post( $pickup_id )->post_title; ?></a>
         </td>
-        <td colspan="3"><?php echo $spec['water_cost']; ?></td>
-        <td colspan="3"><?php echo $spec['server_cost']; ?></td>
+        <?php $spec = get_field('spec', $post['id']); ?>
+        <td colspan="3"><?php echo number_format($spec['water_cost']); ?>円<?php echo $spec['water_cost2']; ?></td>
+        <td colspan="3">
+        <?php if(!preg_match("/[0-9]{4}/",$spec['server_cost'])) : ?>
+            <?php echo $spec['server_cost']; ?>
+            <?php echo $spec['server_cost2']; ?>
+            <?php else : ?>
+            <?php echo number_format($spec['server_cost']); ?>円
+            <?php echo $spec['server_cost2']; ?>
+        <?php endif; ?>
+        </td>
       </tr>
       <tr id="item_name">
         <td colspan="3">配送料</td>
@@ -30,7 +39,15 @@
       </tr>
       <tr>
         <td colspan="3"><?php echo $spec['shipping_cost']; ?></td>
-        <td colspan="3"><?php echo $spec['electricity_cost']; ?></td>
+        <td colspan="3">
+        <?php if(!preg_match("/[0-9]{4}/",$spec['electricity_cost'])) : ?>
+            <?php echo $spec['electricity_cost']; ?>
+            <?php echo $spec['electricity_cost2']; ?>
+            <?php else : ?>
+            <?php echo number_format($spec['electricity_cost']); ?>円
+            <?php echo $spec['electricity_cost2']; ?>
+        <?php endif; ?>
+        </td>
       </tr>
       <tr id="item_name">
         <td colspan="2">お水の種類</td>
