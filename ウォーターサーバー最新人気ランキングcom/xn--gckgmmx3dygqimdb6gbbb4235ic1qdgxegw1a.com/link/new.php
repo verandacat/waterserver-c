@@ -65,6 +65,7 @@
   $redirect[53] = "https://h.accesstrade.net/sp/cc?rk=0100o9ad00b8mb";  //frecious-slat2.html
 
   $redirect[54] = "https://ac.breakthrough.host/cl/9b23f5cL3e02d65L/?bid=7pc279e5O539pdfa"; //reset.html
+  $redirect[55] = "https://h.accesstrade.net/sp/cc?rk=0100ol6a00jtgz"; //every 
 
   if( isset($_GET['id']) ){
     $id = intval($_GET['id']);
