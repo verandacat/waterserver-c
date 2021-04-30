@@ -208,7 +208,7 @@
                     <p>&nbsp;</p>
 
 
-                    <!-- 1位 1??-->
+                    <!-- 1位 コスモウォーター -->
                     <div class="rank">
                         <div class="rank-container">
                             <div class="rank-inner">
@@ -328,7 +328,7 @@
                                             抽選で３００名様に調理ができる保存容器5点セット＋抽選で
                                             １００名様にお米とぎにも使えるザル・ボウルセットが当たるお得なキャンペーン実施中ですので、
                                             <a href="https://ウォーターサーバー最新人気ランキング.com/link/cosmo.html" target="_blank"
-                                                class="prrrr">コスモウォーター</a>に決めた方は春を快適に過ごすためにもぜひ今のうちにお申込みしておきましょう♪
+                                                class="prrrr">コスモウォーター</a>に決めた方は夏を快適に過ごすためにもぜひ今のうちにお申込みしておきましょう♪
                                         </p>
                                     </div>
                                 </div>
@@ -365,7 +365,7 @@
 
 
 
-                    <!-- 2位 2?? -->
+                    <!-- 2位 フレシャス -->
                     <div class="rank">
                         <div class="rank-container">
                             <div class="rank-inner">
@@ -527,7 +527,7 @@
                     <p>&nbsp;</p>
 
 
-                    <!--  3位 3?? フレシャス -->
+                    <!--  3位 フレシャス -->
                     <div class="rank">
                         <div class="rank-container">
                             <div class="rank-inner">
@@ -666,7 +666,7 @@
 
 
 
-                    <!-- 4位 4?? アクアクララ -->
+                    <!-- 4位 アクアクララ -->
                     <div class="rank">
                         <div class="rank-container">
                             <div class="rank-inner">
@@ -806,7 +806,7 @@
 
 
 
-                    <!--  5位 5?? ハミング -->
+                    <!--  5位 ハミング -->
                     <div class="rank">
                         <div class="rank-container">
                             <div class="rank-inner">
@@ -972,12 +972,225 @@
                     </div>
                     <p>&nbsp;</p>
 
-
-                    <!--  7位 サントリー  -->
+                    
+                    <!-- 7位 クリクラ -->
                     <div class="rank">
                         <div class="rank-container">
                             <div class="rank-inner">
-                                <div class="rank7"><a href="http://ウォーターサーバー最新人気ランキング.com/link/suntory.html"
+                                <div class="rank7"><a href="https://ウォーターサーバー最新人気ランキング.com/link/crecla.html"
+                                        target="_blank" class="prrrr">クリクラ</a></div>
+                                <div class="rankbox">
+                                    <div class="rankbox-inner">
+                                        <div class="float-l">
+                                            <p><a href="https://ウォーターサーバー最新人気ランキング.com/link/crecla.html" target="_blank"
+                                                    class="prrrr"><img
+                                                        src="<?php bloginfo('template_directory'); ?>/imgi/crecla_ninki125x125_20190401.jpg"
+                                                        alt="ウォーターサーバー ランキング／スマートフォンサイト" /></a></p>
+                                        </div>
+                                        <div class="feature"><span>クリクラのポイント！</span></div>
+
+                                        <p>
+                                            ・クリクラは<span
+                                                style="color:#FF0A0A"><strong>10年連続お客様満足度No.1、「たまひよ赤ちゃんグッズ大賞2021」RO水ウォーターサーバー部門入賞</strong></span><br /><br />
+
+
+                                            ・<span class="ylw"><span
+                                                    style="color:#FF0A0A"><strong>安心・安全な美味しいお水</strong></span></span>を飲むことが出来ると人気！<strong>赤ちゃんにも安心！</strong><br /><br />
+
+                                            ・<span
+                                                style="color:#FF0A0A"><strong>今年も産院利用数No.1</strong></span>を受賞しました♪<br /><br />
+
+                                            ・<span
+                                                class="ylw"><strong>サーバーレンタル代無料、業界最安値圏の料金</strong></span>で費用が安い！<br /><br />
+
+                                            ・<strong>電源が無くても常温のお水が出る</strong>ので災害時の備蓄水に！<br /><br />
+
+                                            ・全国各地に拠点があるから<span style="color:#FF0A0A"><strong><span
+                                                        class="ylw">トラブル時も安心！</span></strong></span><br /><br />
+
+                                            ・<span
+                                                style="color:#FF0A0A"><strong>専門スタッフによる年1回の定期メンテンナスを実施</strong></span>してるからサーバーはずっと衛生的＆安全！<br /><br />
+
+                                            ・<strong>今なら<span
+                                                    style="color:#FF0A0A">「選べる国産和牛 カタログギフト」</span>などかならずもらえる選べる特典付きでお得！</strong></p>
+                                    </div>
+                                    <table class="rank-table">
+                                        <tr>
+                                            <th>水の価格</th>
+                                            <td>2,920円（税込）（12Ｌ×2本）※1カ月の夫婦２人分</td>
+                                        </tr>
+                                        <tr>
+                                            <th>配送料</th>
+                                            <td>無料</td>
+                                        </tr>
+                                        <tr>
+                                            <th>あんしんサポートパック料</th>
+                                            <td>月460円（税込）（※サーバーレンタル代は無料）</td>
+                                        </tr>
+                                        <tr>
+                                            <th>メンテナンス料金</th>
+                                            <td>無料</td>
+                                        </tr>
+                                        <tr>
+                                            <th>電気代</th>
+                                            <td>700円</td>
+                                        </tr>
+                                        <tr>
+                                            <th>1カ月当たりのトータル費用</th>
+                                            <td><span style="color:#FF0A0A"><strong>約4,080円（全費用の合計）</strong></span></td>
+                                        </tr>
+                                        <tr>
+                                            <th>水の種類</th>
+                                            <td>RO水</td>
+                                        </tr>
+                                        <tr>
+                                            <th>ボトルの種類</th>
+                                            <td>リターナブル方式（返却）</td>
+                                        </tr>
+                                        <tr>
+                                            <th>宅配エリア</th>
+                                            <td>全国（沖縄、離島除く）</td>
+                                        </tr>
+                                        <tr>
+                                            <th>総合評価</th>
+                                            <td><span style="font-size:13px" class="lbg"><span
+                                                        style="color:#FF0A0A"><strong>３．９点</strong></span></span>／５．０点
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </div>
+                                <div class="comment">
+                                    <div class="comment-inner">
+                                        <div class="comment-tit"><span>調査委員会のコメント</span></div>
+                                        <p>クリクラはウォーターサーバーの中でも知名度が高く、一度は聞いたことがある方、病院や薬局や銀行等で見かけたことがある方、お飲みになったことがある方も少なくないのではないかと思います。10年連続お客様満足度No.1、「たまひよ赤ちゃんグッズ大賞2021」RO水ウォーターサーバー部門第1位に選ばれており、とても満足度の高いウォーターサーバーです。徹底的な品質管理をしているため安心・安全にお飲みいただけます。また、不純物を徹底的にろ過したまろやかな軟水なので、赤ちゃんのミルク作りや離乳食にも最適。RO水でお水の値段が天然水の約３分の２と安いため、コスパの高さが多くのユーザーに選ばれるポイントの１つです。年１回の定期メンテナンスを実施しているのでサーバーの衛生面も安心、全国各地に拠点があり専門スタッフがいるため故障時など何かあった時の対応も万全です。今なら「選べる国産和牛 カタログギフト(5,000円相当)」などかならずもらえる！選べる特典付きでお得なので、お申込みは今がチャンスです！
+                                        </p>
+                                    </div>
+                                </div>
+
+                                <div class="cam-box cam-2">
+
+                                    <div class="left-con">
+                                        <strong class="title">期間限定キャンペーン</strong>
+                                        <!-- <span class="check-box">Check!</span> -->
+                                    </div>
+                                    <div class="right-con">
+                                        <div class="right-box">
+                                            <p class="cam-descript">
+                                                <span class="red" style="background: none">月額費用の見直しなら"安くて安心"のクリクラがお得！今なら新規ご契約・乗り換えで「選べる国産和牛 カタログギフト」ほか必ずもらえる！選べる特典。
+                                                </span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <img src="<?php bloginfo('template_directory'); ?>/img/present-3.png" alt="">
+
+                                </div>
+                                <div class="more"><a class="gBtn prrrr"
+                                        href="https://ウォーターサーバー最新人気ランキング.com/link/crecla.html"
+                                        target="_blank" class="prrrr">クリクラ<br>公式サイトはこちら</a></div>
+                            </div>
+                        </div>
+                    </div>
+                    <p>&nbsp;</p>
+
+
+
+                     <!-- 8位 every frecious -->
+                     <div class="rank">
+                        <div class="rank-container">
+                            <div class="rank-inner">
+                                <div class="rank8"><a href="https://ウォーターサーバー最新人気ランキング.com/link/every.html"
+                                        target="_blank" class="prrrr">every frecious</a></div>
+                                <div class="rankbox">
+                                    <div class="rankbox-inner">
+                                        <div class="float-l">
+                                            <p><a href="https://ウォーターサーバー最新人気ランキング.com/link/every.html" target="_blank"
+                                                    class="prrrr"><img
+                                                        src="<?php bloginfo('template_directory'); ?>/imgi/every_120_120.jpg"
+                                                        alt="ウォーターサーバー ランキング／スマートフォンサイト" /></a></p>
+                                        </div>
+                                        <div class="feature"><span>every freciousのポイント！</span></div>
+
+                                        <p>
+                                            ・1日約97円！【お得な定額制】で好きなだけおいしいお水が楽しめる♪<br /><br />
+
+                                            ・浄水型では初の卓上タイプ！コンパクトな浄水型ウォーターサーバー！<br /><br />
+
+                                            ・プロダクトデザイナーが手がけた美しく使いやすいデザイン！<br /><br />
+
+                                            ・無料カートリッジを6ヶ月に1度お届け！定期交換できれいをキープ！
+                                        </p>
+
+                                    </div>
+                                    <table class="rank-table">
+                                        <tr>
+                                            <th>水の価格</th>
+                                            <td>61円（水道水300L）</td>
+                                        </tr>
+                                        <tr>
+                                            <th>配送料</th>
+                                            <td>無料</td>
+                                        </tr>
+                                        <tr>
+                                            <th>サーバー料金</th>
+                                            <td>月3,300円（税込）</td>
+                                        </tr>
+                                        <tr>
+                                            <th>メンテナンス料金</th>
+                                            <td>無料</td>
+                                        </tr>
+                                        <tr>
+                                            <th>電気代</th>
+                                            <td>410円</td>
+                                        </tr>
+                                        <tr>
+                                            <th>1カ月当たりのトータル費用</th>
+                                            <td><span style="color:#FF0A0A"><strong>約3,771円（税込）※全費用の合計</strong></span></td>
+                                        </tr>
+                                        <tr>
+                                            <th>水の種類</th>
+                                            <td>RO水</td>
+                                        </tr>
+                                        <tr>
+                                            <th>ボトルの種類</th>
+                                            <td>浄水型</td>
+                                        </tr>
+                                        <tr>
+                                            <th>宅配エリア</th>
+                                            <td>全国（沖縄、離島除く）</td>
+                                        </tr>
+                                        <tr>
+                                            <th>総合評価</th>
+                                            <td><span style="font-size:13px" class="lbg"><span style="color:#FF0A0A"><strong>３．８点</strong></span></span>／５．０点
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </div>
+                                <div class="comment">
+                                    <div class="comment-inner">
+                                        <div class="comment-tit"><span>調査委員会のコメント</span></div>
+                                        <p>2021年4月に新登場の浄水型では初の卓上タイプとなるコンパクトな浄水型ウォーターサーバーです。キッチン・リビング・一人暮らしのお部屋に置いても省スペース。おしゃれなデザインでインテリアにも最適です。月額3,300円（税込）の定額で、水道水を注ぐだけでおいしいお水が飲み放題＆使い放題。冷水・温水両方がこの1台でお使いいただけます。TVでも紹介され、早くも話題沸騰中♪要チェックのウォーターサーバーです。
+
+                                        </p>
+                                    </div>
+                                </div>
+
+                               
+                                <div class="more">
+                                    <a class="gBtn prrrr" href="https://ウォーターサーバー最新人気ランキング.com/link/every.html"
+                                        target="_blank" class="prrrr">every frecious<br>公式サイトはこちら
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <p>&nbsp;</p>
+
+
+                    <!--  9位 サントリー  -->
+                    <div class="rank">
+                        <div class="rank-container">
+                            <div class="rank-inner">
+                                <div class="rank9"><a href="http://ウォーターサーバー最新人気ランキング.com/link/suntory.html"
                                         target="_blank" class="prrrr">サントリー天然水サーバー</a></div>
                                 <div class="rankbox">
                                     <div class="rankbox-inner">
@@ -1056,7 +1269,7 @@
                                         <tr>
                                             <th>総合評価</th>
                                             <td><span style="font-size:13px" class="lbg"><span
-                                                        style="color:#FF0A0A"><strong>３．９点</strong></span></span>／５．０点
+                                                        style="color:#FF0A0A"><strong>３．７点</strong></span></span>／５．０点
                                             </td>
                                         </tr>
                                     </table>
@@ -1076,231 +1289,6 @@
                         </div>
                     </div>
                     <p>&nbsp;</p>
-
-
-
-                    <!-- 8位 クリクラ -->
-                    <div class="rank">
-                        <div class="rank-container">
-                            <div class="rank-inner">
-                                <div class="rank8"><a href="https://ウォーターサーバー最新人気ランキング.com/link/crecla.html"
-                                        target="_blank" class="prrrr">クリクラ</a></div>
-                                <div class="rankbox">
-                                    <div class="rankbox-inner">
-                                        <div class="float-l">
-                                            <p><a href="https://ウォーターサーバー最新人気ランキング.com/link/crecla.html" target="_blank"
-                                                    class="prrrr"><img
-                                                        src="<?php bloginfo('template_directory'); ?>/imgi/crecla_ninki125x125_20190401.jpg"
-                                                        alt="ウォーターサーバー ランキング／スマートフォンサイト" /></a></p>
-                                        </div>
-                                        <div class="feature"><span>クリクラのポイント！</span></div>
-
-                                        <p>
-                                            ・クリクラは<span
-                                                style="color:#FF0A0A"><strong>10年連続お客様満足度No.1、「たまひよ赤ちゃんグッズ大賞2021」RO水ウォーターサーバー部門入賞</strong></span><br /><br />
-
-
-                                            ・<span class="ylw"><span
-                                                    style="color:#FF0A0A"><strong>安心・安全な美味しいお水</strong></span></span>を飲むことが出来ると人気！<strong>赤ちゃんにも安心！</strong><br /><br />
-
-                                            ・<span
-                                                style="color:#FF0A0A"><strong>今年も産院利用数No.1</strong></span>を受賞しました♪<br /><br />
-
-                                            ・<span
-                                                class="ylw"><strong>サーバーレンタル代無料、業界最安値圏の料金</strong></span>で費用が安い！<br /><br />
-
-                                            ・<strong>電源が無くても常温のお水が出る</strong>ので災害時の備蓄水に！<br /><br />
-
-                                            ・全国各地に拠点があるから<span style="color:#FF0A0A"><strong><span
-                                                        class="ylw">トラブル時も安心！</span></strong></span><br /><br />
-
-                                            ・<span
-                                                style="color:#FF0A0A"><strong>専門スタッフによる年1回の定期メンテンナスを実施</strong></span>してるからサーバーはずっと衛生的＆安全！<br /><br />
-
-                                            ・<strong>今なら<span
-                                                    style="color:#FF0A0A">「選べる国産和牛 カタログギフト」</span>などかならずもらえる選べる特典付きでお得！</strong></p>
-                                    </div>
-                                    <table class="rank-table">
-                                        <tr>
-                                            <th>水の価格</th>
-                                            <td>2,920円（税込）（12Ｌ×2本）※1カ月の夫婦２人分</td>
-                                        </tr>
-                                        <tr>
-                                            <th>配送料</th>
-                                            <td>無料</td>
-                                        </tr>
-                                        <tr>
-                                            <th>あんしんサポートパック料</th>
-                                            <td>月460円（税込）（※サーバーレンタル代は無料）</td>
-                                        </tr>
-                                        <tr>
-                                            <th>メンテナンス料金</th>
-                                            <td>無料</td>
-                                        </tr>
-                                        <tr>
-                                            <th>電気代</th>
-                                            <td>700円</td>
-                                        </tr>
-                                        <tr>
-                                            <th>1カ月当たりのトータル費用</th>
-                                            <td><span style="color:#FF0A0A"><strong>約4,080円（全費用の合計）</strong></span></td>
-                                        </tr>
-                                        <tr>
-                                            <th>水の種類</th>
-                                            <td>RO水</td>
-                                        </tr>
-                                        <tr>
-                                            <th>ボトルの種類</th>
-                                            <td>リターナブル方式（返却）</td>
-                                        </tr>
-                                        <tr>
-                                            <th>宅配エリア</th>
-                                            <td>全国（沖縄、離島除く）</td>
-                                        </tr>
-                                        <tr>
-                                            <th>総合評価</th>
-                                            <td><span style="font-size:13px" class="lbg"><span
-                                                        style="color:#FF0A0A"><strong>３．８点</strong></span></span>／５．０点
-                                            </td>
-                                        </tr>
-                                    </table>
-                                </div>
-                                <div class="comment">
-                                    <div class="comment-inner">
-                                        <div class="comment-tit"><span>調査委員会のコメント</span></div>
-                                        <p>クリクラはウォーターサーバーの中でも知名度が高く、一度は聞いたことがある方、病院や薬局や銀行等で見かけたことがある方、お飲みになったことがある方も少なくないのではないかと思います。10年連続お客様満足度No.1、「たまひよ赤ちゃんグッズ大賞2021」RO水ウォーターサーバー部門第1位に選ばれており、とても満足度の高いウォーターサーバーです。徹底的な品質管理をしているため安心・安全にお飲みいただけます。また、不純物を徹底的にろ過したまろやかな軟水なので、赤ちゃんのミルク作りや離乳食にも最適。RO水でお水の値段が天然水の約３分の２と安いため、コスパの高さが多くのユーザーに選ばれるポイントの１つです。年１回の定期メンテナンスを実施しているのでサーバーの衛生面も安心、全国各地に拠点があり専門スタッフがいるため故障時など何かあった時の対応も万全です。今なら「選べる国産和牛 カタログギフト(5,000円相当)」などかならずもらえる！選べる特典付きでお得なので、お申込みは今がチャンスです！
-                                        </p>
-                                    </div>
-                                </div>
-
-                                <div class="cam-box cam-2">
-
-                                    <div class="left-con">
-                                        <strong class="title">期間限定キャンペーン</strong>
-                                        <!-- <span class="check-box">Check!</span> -->
-                                    </div>
-                                    <div class="right-con">
-                                        <div class="right-box">
-                                            <p class="cam-descript">
-                                                <span class="red" style="background: none">月額費用の見直しなら"安くて安心"のクリクラがお得！今なら新規ご契約・乗り換えで「選べる国産和牛 カタログギフト」ほか必ずもらえる！選べる特典。
-                                                </span>
-                                            </p>
-                                        </div>
-                                    </div>
-                                    <img src="<?php bloginfo('template_directory'); ?>/img/present-3.png" alt="">
-
-                                </div>
-                                <div class="more"><a class="gBtn prrrr"
-                                        href="https://ウォーターサーバー最新人気ランキング.com/link/crecla.html"
-                                        target="_blank" class="prrrr">クリクラ<br>公式サイトはこちら</a></div>
-                            </div>
-                        </div>
-                    </div>
-                    <p>&nbsp;</p>
-
-
-                    <!--  9位 信濃湧水  -->
-                    <div class="rank">
-                        <div class="rank-container">
-                            <div class="rank-inner">
-                                <div class="rank9"><a href="https://ウォーターサーバー最新人気ランキング.com/link/shinano.html"
-                                        target="_blank" class="prrrr">信濃湧水</a></div>
-                                <div class="rankbox">
-                                    <div class="rankbox-inner">
-                                        <div class="float-l">
-                                            <p><a href="https://ウォーターサーバー最新人気ランキング.com/link/shinano.html"
-                                                    target="_blank" class="prrrr"><img
-                                                        src="<?php bloginfo('template_directory'); ?>/imgi/shinano120_120.jpg"
-                                                        alt="ウォーターサーバー ランキング／スマートフォンサイト" /></a></p>
-                                        </div>
-                                        <div class="feature"><span>信濃湧水のポイント！</span></div>
-                                        <p>・天然水11.4L　1,620円（税込）は業界最安級でお得！<br /><br />・北アルプスの美味しい天然水が飲める！<br /><br />・硬度１６の超軟水だから赤ちゃんのミルクにも安心<br /><br />・新規ご購入特典でお水ボトル２本無料プレゼント中！
-                                        </p>
-                                    </div>
-                                    <table class="rank-table">
-                                        <tr>
-                                            <th>水の価格</th>
-                                            <td>3,240円（税込）/11.4L×2本　※2カ月の夫婦２人分</td>
-                                        </tr>
-                                        <tr>
-                                            <th>配送料</th>
-                                            <td>無料</td>
-                                        </tr>
-                                        <tr>
-                                            <th>サーバー料金</th>
-                                            <td>月330円（税込）（※エコサーバーの場合）</td>
-                                        </tr>
-                                        <tr>
-                                            <th>メンテナンス料金</th>
-                                            <td>無料</td>
-                                        </tr>
-                                        <tr>
-                                            <th>電気代</th>
-                                            <td>580円</td>
-                                        </tr>
-                                        <tr>
-                                            <th>1ヶ月当たりのトータル費用</th>
-                                            <td><span
-                                                    style="color:#FF0A0A"><strong>約4,150円（税込）（全費用の合計）※お水2本で計算</strong></span>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <th>水の種類</th>
-                                            <td>天然水</td>
-                                        </tr>
-                                        <tr>
-                                            <th>ボトルの種類</th>
-                                            <td>ワンウェイ方式（使い捨て）</td>
-                                        </tr>
-                                        <tr>
-                                            <th>宅配エリア</th>
-                                            <td>全国（沖縄、離島除く）</td>
-                                        </tr>
-                                        <tr>
-                                            <th>総合評価</th>
-                                            <td><span style="font-size:13px" class="lbg"><span
-                                                        style="color:#FF0A0A"><strong>３．７点</strong></span></span>／５．０点
-                                            </td>
-                                        </tr>
-                                    </table>
-                                </div>
-                                <div class="comment">
-                                    <div class="comment-inner">
-                                        <div class="comment-tit"><span>調査委員会のコメント</span></div>
-                                        <p>ウォーターサーバーは富士山の天然水が主流ですが、信濃湧水は北アルプスの美味しい天然水を飲むことが出来ます。新発売したばかりのお水ですが、11.4L　1,620円（税込）と天然水の中では業界最安値級を実現、硬度１６の超軟水は赤ちゃんのミルク作りにも適しています。サーバーは２種類あり、レンタル代無料のものもありますが、月330円（税込）と有料のエコサーバーの方が節電が出来て機能も優れているため、コスト面でもこちらがおすすめです。
-                                        </p>
-                                    </div>
-                                </div>
-
-                                <div class="cam-box cam-1">
-
-                                    <div class="left-con">
-                                        <strong class="title">当サイト限定キャンペーン</strong>
-                                        <!-- <span class="check-box">Check!</span> -->
-                                    </div>
-                                    <div class="right-con">
-                                        <div class="right-box">
-                                            <p class="cam-descript">
-                                                <span class="red">当サイト限定で2回目の注文時のボトル2本分が無料！
-                                                    お申し込みの連絡欄に「TCP004」とご記載ください。</span>
-                                                記載が無い場合、限定キャンペーン対象外となってしまいますのでご注意ください。
-                                                2回目の注文時のボトル2本分が無料となり、それ以外のボトルは有料です。
-                                            </p>
-                                        </div>
-                                    </div>
-                                    <img src="<?php bloginfo('template_directory'); ?>/img/present-3.png" alt="">
-
-                                </div>
-
-
-                                <div class="more"><a class="gBtn prrrr"
-                                        href="https://ウォーターサーバー最新人気ランキング.com/link/shinano.html"
-                                        target="_blank">信濃湧水<br>公式サイトはこちら</a></div>
-                            </div>
-                        </div>
-                    </div>
-                    <p>&nbsp;</p>
-
 
 
 
@@ -1518,7 +1506,7 @@
 
 
                     <p style="text-align:center;"><strong><span style="font-size:22px" class="lbg"><span
-                                    style="color:#C50000">ウォーターサーバーは正しく選んで春を快適に過ごそう♪</span></span></strong></p>
+                                    style="color:#C50000">ウォーターサーバーは正しく選んで夏を快適に過ごそう♪</span></span></strong></p>
                     <p>&nbsp;</p>
 
 
