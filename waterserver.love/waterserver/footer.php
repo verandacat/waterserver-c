@@ -67,7 +67,12 @@ var yahoo_retargeting_label = '';
         advertiser_id: 276
     });
 </script>
+
 <script type="text/javascript" src="//st.nex8.net/js/nexRt.js"
 async="async"></script>
+
+<?php if(is_front_page() || is_page('serversearch')) : ?>
+	<script type="text/javascript" charset="utf-8" src="https://kenga.tech/pop-ups-inhfmkcg.js"></script>
+	<?php endif; ?>
 </body>
 </html>
