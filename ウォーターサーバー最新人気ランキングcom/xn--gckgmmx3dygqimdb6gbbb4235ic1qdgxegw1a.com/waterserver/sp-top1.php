@@ -256,7 +256,7 @@
                                                 style="color:#FF0A0A"><strong>「静音設計」で騒音レベル３０％削減</strong></span>！だからリビングや寝室でも快適に利用できる！<br><br>
 
                                             ・<span
-                                                style="color:#FF0A0A"><strong>最大１０，０００円相当プレゼントの豪華２大特典付き！</strong></span>
+                                                style="color:#FF0A0A"><strong>最大１２，０００円相当プレゼントの豪華２大特典付き！</strong></span>
 
                                         </p>
                                     </div>
@@ -324,9 +324,9 @@
                                                 href="https://ウォーターサーバー最新人気ランキング.com/link/cosmo.html" target="_blank"
                                                 class="prrrr">コスモウォーター</a>の天然水です。
                                             さらに、消費電力も最大６０％カット出来る家計に優しいエコなサーバーです。
-                                            今なら最大１０，０００円相当の豪華２大特典付き！
-                                            抽選で３００名様に調理ができる保存容器5点セット＋抽選で
-                                            １００名様にお米とぎにも使えるザル・ボウルセットが当たるお得なキャンペーン実施中ですので、
+                                            今なら最大１２，０００円相当の豪華２大特典付き！
+                                            抽選で３００名様にKINTO（キントー）コーヒーカラフェ&キャニスターセット＋抽選で
+                                            １００名様にKINTO（キントー）ペアマグカップ&トレイセットが当たるお得なキャンペーン実施中ですので、
                                             <a href="https://ウォーターサーバー最新人気ランキング.com/link/cosmo.html" target="_blank"
                                                 class="prrrr">コスモウォーター</a>に決めた方は夏を快適に過ごすためにもぜひ今のうちにお申込みしておきましょう♪
                                         </p>
@@ -343,7 +343,7 @@
                                         <div class="right-box">
                                             <p class="cam-descript">
                                                 <a href="https://ウォーターサーバー最新人気ランキング.com/link/cosmo.html" target="_blank"
-                                                    class="prrrr red">豪華特典最大１０，０００円相当プレゼント！！オトクにはじめるなら今がチャンス♪</a>
+                                                    class="prrrr red">豪華特典最大１２，０００円相当プレゼント！！オトクにはじめるなら今がチャンス♪</a>
                                             </p>
                                         </div>
                                     </div>
@@ -354,7 +354,7 @@
 
                                 <!-- <div class="point"><span class="ylw"><a style="color:#FF0A0A; text-decoration: none;"
                                             href="https://ウォーターサーバー最新人気ランキング.com/link/cosmo.html" target="_blank"
-                                            class="prrrr">豪華特典最大１１，０００円相当プレゼント！！オトクにはじめるなら今がチャンス♪</a></span></div> -->
+                                            class="prrrr">豪華特典最大１２，０００円相当プレゼント！！オトクにはじめるなら今がチャンス♪</a></span></div> -->
                                 <div class="more"><a class="gBtn prrrr"
                                         href="https://ウォーターサーバー最新人気ランキング.com/link/cosmo.html"
                                         target="_blank">コスモウォーター<br>公式サイトはこちら</a></div>
@@ -538,35 +538,42 @@
                                         <div class="float-l">
                                             <p><a href="https://ウォーターサーバー最新人気ランキング.com/link/aquaclara.html"
                                                     target="_blank" class="prrrr"><img
-                                                        src="<?php bloginfo('template_directory'); ?>/imgi/aquaclara_125_125.gif"
+                                                        src="<?php bloginfo('template_directory'); ?>/imgi/kanamora125_125.gif"
                                                         alt="ウォーターサーバー ランキング／スマートフォンサイト" /></a></p>
                                         </div>
                                         <div class="feature"><span>アクアクララのポイント！</span></div>
-                                        <p>・日本初！ネスレとコラボして誕生したコーヒーが飲めるウォーターサーバーAQUA WITH誕生！<strong><span
+
+                                            <p>
+                                            ・<strong><span style="color:#FF0A0A;" class="ylw">初回999円</span></strong>（税込）でスタートできるサンキューセットを実施中！<br /><br />
+                                            
+                                            ・日本初！ネスレとコラボして誕生したコーヒーが飲めるウォーターサーバーAQUA WITH誕生！<strong><span
                                                     style="color:#FF0A0A">AQUA
                                                     WITHで楽しむスターバックスも新登場！</span></strong><br /><br />
 
                                             ・グッドデザイン賞受賞！どんな空間にも馴染むAQUA FAB！<br /><br />
 
-
-
                                             ・<span
-                                                style="color:#FF0A0A"><strong>9年連続モンドセレクション優秀品質最高金賞を受賞</strong></span>したお水がご家庭で毎日飲める！<br /><br />
-
+                                                style="color:#FF0A0A"><strong>10年連続モンドセレクション優秀品質最高金賞を受賞</strong></span>したお水がご家庭で毎日飲める！<br /><br />
+<!-- 
                                             ・アクアアドバンスはW省エネモード搭載で<span
-                                                style="color:#FF0A0A"><strong>節電機能が優秀。カラーは全8色！</strong></span><br /><br />
+                                                style="color:#FF0A0A"><strong>節電機能が優秀。カラーは全8色！</strong></span><br /><br /> -->
 
                                             ・<strong>初めてで不安な方、お水の味を試してみてから決めたい方</strong>に<strong><a
                                                     href="https://ウォーターサーバー最新人気ランキング.com/link/aquaclara-muryou.html"
                                                     target="_blank"
-                                                    class="prrrr">１週間無料で試せるお試しプラン</a></strong>有り<br /><br />・<span
-                                                style="color:#FF0A0A"><strong>家庭用ウォーターサーバー市場シェアNo.1</strong></span>の実績！<br /><br />・<strong>妊婦の方から6歳以下の未就学児のお子様がいるご家庭</strong>なら、毎月550円OFFで年間6600円おトクな<strong><a
+                                                    class="prrrr">１週間無料で試せるお試しプラン</a></strong>有り<br /><br />
+                                                    
+                                            ・<span style="color:#FF0A0A"><strong>家庭用ウォーターサーバー市場シェアNo.1</strong></span>の実績！<br /><br />
+                                            
+                                            ・<strong>妊婦の方から6歳以下の未就学児のお子様がいるご家庭</strong>なら、毎月550円OFFで年間6600円おトクな<strong><a
                                                     href="https://ウォーターサーバー最新人気ランキング.com/link/aquaclara-baby.html"
                                                     target="_blank"
                                                     class="prrrr">子育てアクアプラン</a></strong>が大人気！<br /><br />
+
                                             ・かならずもらえるキャンペーン実施中で<span
-                                                style="color:#FF0A0A"><strong>選べる人気家電をどちらかかならずプレゼント！</strong></span><br /><br />
-                                            ・<span class="ylw"><span style="color:#FF0A0A"><strong>ボトル２本無料＋<a
+                                                style="color:#FF0A0A"><strong>ソーダストリームなど選べる人気商品をどちらかかならずプレゼント！</strong></span><br /><br />
+
+                                            ・<span class="ylw"><span style="color:#FF0A0A"><strong>初回999円（12Lボトル2本＋あんしんサポート料無料）＋<a
                                                             href="https://ウォーターサーバー最新人気ランキング.com/link/aquaclara.html"
                                                             target="_blank"
                                                             class="prrrr">当サイトからのお申込み限定</a>で、さらに４本無料！！</strong></span></span>
@@ -1111,13 +1118,18 @@
                                         <div class="feature"><span>every freciousのポイント！</span></div>
 
                                         <p>
-                                            ・1日約97円！【お得な定額制】で好きなだけおいしいお水が楽しめる♪<br /><br />
+                                        <strong>・<span style="color:#FF0A0A;" class="ylw">【新発売】今ならなんと初月無料！</span></strong><br /><br />
 
-                                            ・浄水型では初の卓上タイプ！コンパクトな浄水型ウォーターサーバー！<br /><br />
+                                        <strong>・1日約97円！【お得な定額制】で好きなだけおいしいお水が楽しめる♪</strong><br /><br />
 
-                                            ・プロダクトデザイナーが手がけた美しく使いやすいデザイン！<br /><br />
+                                        <strong>・<span class="ylw">水道水を注ぐだけで、冷水・温水がいつでも飲み放題！</span></strong><br /><br />
 
-                                            ・無料カートリッジを6ヶ月に1度お届け！定期交換できれいをキープ！
+                                        <strong>・<span style="color:#FF0A0A">浄水型では初の卓上タイプ！</span>コンパクトな浄水型ウォーターサーバー！</strong><br /><br />
+
+                                        <strong>・世界的プロダクトデザイナーが手がけた<span class="ylw">美しく使いやすいデザイン！</span></strong><br /><br />
+
+                                        <strong>・無料カートリッジを6ヶ月に1度お届け！定期交換できれいをキープ！</strong>
+
                                         </p>
 
                                     </div>
@@ -1483,7 +1495,7 @@
                                                 class="ylw"><strong>サーバーは４種類のデザインから選べ、重たい水ボトルの持ち上げ不要で、足元でらくらく簡単にボトル交換できる「ボトルバスケット」方式</strong></span>。消費電力を最大６０％ＯＦＦ出来るエコモード、Ｗクリーン機能、静音設計などその他機能も充実しています。<span
                                                 class="ylw"><strong>サポート体制も万全で、お客様サービスセンターがあるため安心</strong></span>、万が一故障しても無料で交換してもらえます。お届け設置サービスで設置作業も安心。<span
                                                 class="ylw"><span
-                                                    style="color:#FF0A0A"><strong>今なら最大１０，０００円相当プレゼントの豪華２大特典付きのキャンペーン実施中ですので、</strong></span></span>ぜひ詳細を確認してみてくださいね！
+                                                    style="color:#FF0A0A"><strong>今なら最大１２，０００円相当プレゼントの豪華２大特典付きのキャンペーン実施中ですので、</strong></span></span>ぜひ詳細を確認してみてくださいね！
                                         </p>
                                     </div>
                                     <p>&nbsp;</p>
