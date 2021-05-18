@@ -1974,8 +1974,11 @@
                                             <p><strong>今なら<span style="color:#FF0A0A">「選べる国産和牛
                                                         カタログギフト(5,000円相当)」</span>などかならずもらえる選べる特典付きでお得！</strong>
                                             </p>
+<<<<<<< HEAD
                                             <p><strong><span style="color:#FF0A0A">子育て世代応援プラン「SMILE キッズ」登場！</span>スタートもおトク！お子さまが7歳になるまでおトクが続く！</strong>
                                             </p>
+=======
+>>>>>>> 5bda454cde2d8263a1e66f6f62780b88fa2c9a78
                                         </div>
                                         <p>&nbsp;</p>
 
@@ -2001,7 +2004,12 @@
                                                         <strong><a
                                                                 href="https://ウォーターサーバー最新人気ランキング.com/link/crecla.html"
                                                                 target="_blank" class="prrrr red"
+<<<<<<< HEAD
                                                                 style="background: none">「SMILEキッズ」発売記念！今なら新規ご契約・乗り換えで「選べる国産和牛 カタログギフト」など、かならずもらえる！選べる5,000円相当の特典プレゼント！</a>
+=======
+                                                                style="background: none">月額費用の見直しなら"安くて安心"のクリクラがお得！今なら新規ご契約・乗り換えで「選べる国産和牛
+                                                                カタログギフト」ほか必ずもらえる！選べる特典プレゼント！</a>
+>>>>>>> 5bda454cde2d8263a1e66f6f62780b88fa2c9a78
                                                         </strong>
                                                     </p>
                                                 </div>
