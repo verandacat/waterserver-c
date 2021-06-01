@@ -1,0 +1,78 @@
+@charset "UTF-8";
+
+/* ===================================
+	File Name   : reset.css
+	Description : Reset CSS
+====================================== */
+
+/*========== Style Contents ==========
+
+	1. Primary Selectors Reset
+	2. Individual Reset
+		- List Mark Reset
+	 	- Image Tag
+	 	- Form Selectors
+		- Table Selectors
+
+====================================== */
+
+
+
+
+
+/*===== ■1. Primary Selectors Reset =====*/
+body,
+div,
+ul,ol,li,
+h1,h2,h3,h4,h5,h6,
+p,a,em,
+img,
+table,th,td,
+dl,dt,dd,
+form,
+address {
+	margin: 0;
+	padding: 0;
+	border: none;
+	line-height: 1.5em;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 100%;
+	text-align: left;
+}
+
+
+
+
+
+/*===== ■2. Individual Reset =====*/
+/* List Mark Reset */  
+ul {
+	list-style: none;
+}
+
+/* Image Tag */  
+img {
+	vertical-align: bottom;
+	display: block;
+	border: 0;
+}
+
+/* Form Selectors */  
+button, fieldset, form, input, label, legend, select, textarea {  
+	margin: 0px 1px;  
+	padding: 0px 1px;  
+	vertical-align: middle;  
+}  
+
+/* Table Selectors */  
+table, th, td {  
+	font-size: inherit;
+	border-collapse: collapse;
+	border-spacing: 0;
+}  
+
+
+
+
+

@@ -1,0 +1,135 @@
+#wrapper {
+	padding: 20px;
+	border-left: 1px solid #ccc;
+	border-right: 1px solid #ccc;
+	background: #fff;
+}
+#wrapper h2.content-title {
+	font-size: 1.8em;
+	color: #689BDA;
+	font-weight: bold;
+	margin: 15px 0 0;
+}
+
+#content-wrap p {
+	font-size: 1.1em!important;
+	line-height: 1.8;
+	margin-bottom: 20px;
+}
+#content-wrap img {
+	display: block;
+	margin: 20px auto;
+}
+#content-wrap h2.subtitle2 {
+	font-size: 1.4em;
+	font-weight: bold;
+	margin: 20px 0;
+	position: relative;
+	padding: 0.5em;
+	background: #689BDA;
+	color: white;
+}
+#content-wrap h2.subtitle2:before {
+	position: absolute;
+	content: '';
+	top: 100%;
+	left: 0;
+	border: none;
+	border-bottom: solid 15px transparent;
+	border-right: solid 20px rgb(149, 158, 155);
+}
+#content-wrap h3.subtitle3 {
+	font-size: 1.3em;
+	font-weight: bold;
+	border-bottom: solid 3px skyblue;
+  	position: relative;
+	margin: 20px 0;
+}
+#content-wrap h3.subtitle3:after {
+	position: absolute;
+	content: " ";
+	display: block;
+	border-bottom: solid 3px #ffc778;
+	bottom: -3px;
+	width: 30%;
+}
+p, span, em, strong {
+    font-size: 100%!important;
+}
+
+.category-wrapper {
+    margin: 30px 20px;
+}
+
+.category-wrapper h2.column-title a {
+    font-weight: bold;
+    color: #689BDA;
+    /* background: #689BDA; */
+    padding: 0.5em;
+    text-decoration: none;
+    font-size: 18px;
+    /* width: 100%; */
+    display: block;
+}
+
+.flex-wrpper {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+    margin: 10px;
+    background: #eeeeee;
+}
+
+.flex-wrpper .entry-img {
+    width: 20%;
+}
+
+.flex-wrpper .entry {
+    margin: 10px 40px;
+    font-size: 105%;
+    line-height: 180%;
+    padding-bottom: 10px;
+}
+
+.flex-wrpper .content-box {
+    flex: auto;
+}
+
+.pagination {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 40px 0;
+    position: relative;
+    font-size: 13px;
+}
+@media screen and (max-width: 680px) {
+    #wrapper { 
+        padding: 10px;
+    }
+    .category-wrapper {
+        margin: 10px;
+    }
+    .flex-wrpper {
+        padding: 0;
+        margin: 0;
+    }
+    .flex-wrpper .entry {
+        /* margin-bottom: 7px; */
+        margin: 0;
+        /* margin-right: 10px; */
+        font-size: 0.9em;
+        line-height: 180%;
+        /* padding-bottom: 10px; */
+        padding: 5px;
+    }
+    .flex-wrpper .entry-img {
+        width: 400px;
+        margin: 10px;
+    }
+    .entry-img img {
+        width: 100%!important;
+    }
+
+}

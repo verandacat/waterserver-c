@@ -1,0 +1,218 @@
+@charset "UTF-8";
+
+/* ===================================
+	File Name   : single.css
+	Description : Feature Page Layout CSS
+====================================== */
+
+/*========== Style Contents ==========
+
+	1. Main Contents Setting
+	*. Clear Fix
+	
+====================================== */
+
+
+
+
+
+/*===== ■1. Main Contents Setting =====*/
+#single_campaign #main_contents h1 { margin-bottom: 7px;}
+
+#single_campaign dl.ranking {
+	width: 700px;
+	margin-bottom: 10px;
+	background: url(../img/bg-contents-body.jpg) repeat-y;
+}
+
+#single_campaign dl.ranking dt {
+	padding-bottom: 35px;
+	background: url(../img/bg-contents-head.jpg) no-repeat;
+}
+
+#single_campaign dl.ranking dt img.contents_title {
+	float: left;
+	margin: 18px 0px 0px 1px;
+	padding-left: 33px;
+	background: url(../img/mark-square-pink.gif) no-repeat 0px center;
+}
+
+#single_campaign dl.ranking dt h2.contents_title {
+	margin-bottom: 7px;
+  	font-size: 150%;
+	float: left;
+	color: #0059b2;
+	margin: 18px 0px 0px 1px;
+	padding-left: 33px;
+	font-weight: bold;
+	background: url(../img/mark-square-pink.gif) no-repeat 0px center;
+}
+
+#single_campaign dl.ranking dt img.contents_title_en {
+	float: right;
+	margin: 20px 22px 0px 0px;
+}
+
+#single_campaign dl.ranking dd {
+	padding-bottom: 13px;
+	background: url(../img/bg-contents-bottom.jpg) no-repeat bottom;
+}
+
+#single_campaign dl.ranking dd .ranking_result {
+	width: 656px;
+	margin: 0px 0px 5px 2px;
+	padding: 0px 20px 30px;
+}
+
+
+#single_campaign dl.ranking dd #ranking_no3 {
+	margin-bottom: 0px;
+	padding-bottom: 20px;
+	border: none;
+}
+
+#single_campaign dl.ranking dd .ranking_result h2 {
+	display: block;
+	width: 656px;
+	height: 60px;
+	margin-bottom: 25px;
+	background: url(../img/feature/bg-ranking-title.jpg) no-repeat;
+}
+
+#single_campaign dl.ranking dd .ranking_result h2 img {
+	float: left;
+	margin-left: 20px;
+}
+#single_campaign dl.ranking dd #ranking_no2 h3 img { margin-left: 17px;}
+#single_campaign dl.ranking dd #ranking_no3 h3 img { margin-left: 27px;}
+
+#single_campaign dl.ranking dd .ranking_result h2 a {
+	float: left;
+	margin: 15px 0px 0px 40px;
+	color: #ffffff;
+	font-weight: bold;
+	font-size: 154%;
+}
+#single_campaign dl.ranking dd #ranking_no2 h3 a { margin-left: 37px;}
+#single_campaign dl.ranking dd #ranking_no3 h3 a { margin-left: 43px;}
+
+#single_campaign dl.ranking dd .ranking_result .server_caption img {
+	float: left;
+	margin: 0px 20px 20px 0px;
+}
+
+#single_campaign dl.ranking dd .ranking_result .server_caption strong {
+	display: block;
+	margin-bottom: 15px;
+	color: #d83300;
+	font-weight: bold;
+	font-size: 154%;
+	line-height: 150%;
+}
+
+#single_campaign dl.ranking dd .ranking_result .server_caption p {
+	margin-bottom: 20px;
+	font-size: 108%;
+	line-height: 180%;
+}
+
+#single_campaign dl.ranking dd .ranking_result .server_caption em {
+	background: #ffdf83;
+	color: #d83300;
+	font-weight: bold;
+	font-size: 100%;
+}
+
+#single_campaign dl.ranking dd .ranking_result table {
+	width: 656px;
+	margin-bottom: 20px;
+	border: 1px solid #c9e7ff;
+}
+
+#single_campaign dl.ranking dd .ranking_result th {
+	width: 120px;
+	padding: 10px 5px 10px 25px;
+	background: #c9e7ff url(../img/mark-drop-white.png) no-repeat 10px center;
+}
+
+#single_campaign dl.ranking dd .ranking_result td {
+	width: 155px;
+	padding: 10px 5px 10px 15px;
+}
+
+#single_campaign dl.ranking dd .ranking_result th,
+#single_campaign dl.ranking dd .ranking_result td {	border-bottom: 1px solid #e4f3ff;}
+
+#single_campaign dl.ranking dd .ranking_result tr.last_tr th,
+#single_campaign dl.ranking dd .ranking_result tr.last_tr td { border-bottom: none;}
+
+#single_campaign dl.ranking dd .ranking_result a.official_site {
+	display: block;
+	width: 310px;
+	height: 60px;
+	margin: 0px auto;
+}
+
+#single_campaign p#ranking_notice { margin: 0px 0px 30px 10px;}
+
+
+/* campaign info */
+
+
+#single_campaign #main_contents dl#campaign_info {
+	width: 700px;
+	margin-bottom: 26px;
+	background: url(../img/bg-contents-body.jpg) repeat-y;
+}
+
+#single_campaign #main_contents dl#campaign_info dt { background: url(../img/bg-contents-head.jpg) no-repeat;}
+
+
+#single_campaign dl#campaign_info dd {
+	padding-bottom: 13px;
+	background: url(../img/bg-contents-bottom.jpg) no-repeat bottom;
+}
+
+#single_campaign #main_contents dl#campaign_info dt { padding-bottom: 20px;}
+
+#single_campaign #main_contents dl#campaign_info dt img.contents_title {
+	float: left;
+	margin: 18px 0px 0px 1px;
+	padding-left: 33px;
+	background: url(../img/mark-square-green.gif) no-repeat 0px center;
+}
+
+#single_campaign #main_contents dl#campaign_info dt img.contents_title_en {
+	float: right;
+	margin: 20px 22px 0px 0px;
+}
+
+#single_campaign #main_contents dl#campaign_info dd ul {
+	width: 676px;
+	margin: 0px auto;
+}
+
+#single_campaign #main_contents dl#campaign_info dd li {
+	width: 636px;
+	padding: 10px 20px;
+	border-bottom: 1px solid #e3f6eb;
+	background: #c7edd6;
+}
+
+#single_campaign #main_contents dl#campaign_info dd li span {
+	padding-left: 18px;
+	background: url(../img/mark-drop-white.png) no-repeat 0px center;
+}
+
+
+
+/*===== ■*.Clear Fix  =====*/
+#single_campaign dl.ranking dd .ranking_result h3:after,
+#single_campaign dl.ranking dd .ranking_result .server_caption:after {
+	display: block;
+	visibility: hidden;
+	clear: both;
+	height: 0;
+	font-size: 0;
+	content: " ";
+}

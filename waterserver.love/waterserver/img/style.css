@@ -1,0 +1,33 @@
+/*   
+Theme Name: waterserver
+Theme URI: 
+Description: waterserver Theme template
+Author: Groundstep LLC
+Author URI: 
+Version: 1
+*/
+
+@import "css/reset.css";
+@import "css/common.css";
+
+.headimg{
+    position: relative;
+    width: 900px;
+    height: 335px;}
+.headimg .nose {
+    position: absolute;
+    right: 30px;
+    bottom: -15px;}
+.entry h2 {
+	background-image: url(img/h2.png);
+	background-position: left top;
+	background-repeat: no-repeat;
+	font-size: 18px;
+	line-height: 58px;
+	color: #5b5b5b;
+	height: 58px;
+	margin: 8px auto 8px auto;
+	padding: 0px 0px 0px 80px;
+	overflow: hidden;
+	zoom: 1;
+}

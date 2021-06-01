@@ -893,17 +893,111 @@
                         </div>
                     </div>
                     <p>&nbsp;</p>
+                    」
+
+                     <!-- 6位 every frecious -->
+                     <div class="rank">
+                        <div class="rank-container">
+                            <div class="rank-inner">
+                                <div class="rank6"><a href="https://ウォーターサーバー最新人気ランキング.com/link/every.html"
+                                        target="_blank" class="prrrr">every frecious</a></div>
+                                <div class="rankbox">
+                                    <div class="rankbox-inner">
+                                        <div class="float-l">
+                                            <p><a href="https://ウォーターサーバー最新人気ランキング.com/link/every.html" target="_blank"
+                                                    class="prrrr"><img
+                                                        src="<?php bloginfo('template_directory'); ?>/imgi/every_120_120.jpg"
+                                                        alt="ウォーターサーバー ランキング／スマートフォンサイト" /></a></p>
+                                        </div>
+                                        <div class="feature"><span>every freciousのポイント！</span></div>
+
+                                        <p>
+                                        <strong>・<span style="color:#FF0A0A;" class="ylw">【新発売】今ならなんと初月無料！</span></strong><br /><br />
+
+                                        <strong>・1日約97円！【お得な定額制】で好きなだけおいしいお水が楽しめる♪</strong><br /><br />
+
+                                        <strong>・<span class="ylw">水道水を注ぐだけで、冷水・温水がいつでも飲み放題！</span></strong><br /><br />
+
+                                        <strong>・<span style="color:#FF0A0A">浄水型では初の卓上タイプ！</span>コンパクトな浄水型ウォーターサーバー！</strong><br /><br />
+
+                                        <strong>・世界的プロダクトデザイナーが手がけた<span class="ylw">美しく使いやすいデザイン！</span></strong><br /><br />
+
+                                        <strong>・無料カートリッジを6ヶ月に1度お届け！定期交換できれいをキープ！</strong>
+
+                                        </p>
+
+                                    </div>
+                                    <table class="rank-table">
+                                        <tr>
+                                            <th>水の価格</th>
+                                            <td>61円（水道水300L）</td>
+                                        </tr>
+                                        <tr>
+                                            <th>配送料</th>
+                                            <td>無料</td>
+                                        </tr>
+                                        <tr>
+                                            <th>サーバー料金</th>
+                                            <td>月3,300円（税込）</td>
+                                        </tr>
+                                        <tr>
+                                            <th>メンテナンス料金</th>
+                                            <td>無料</td>
+                                        </tr>
+                                        <tr>
+                                            <th>電気代</th>
+                                            <td>410円</td>
+                                        </tr>
+                                        <tr>
+                                            <th>1カ月当たりのトータル費用</th>
+                                            <td><span style="color:#FF0A0A"><strong>約3,771円（税込）※全費用の合計</strong></span></td>
+                                        </tr>
+                                        <tr>
+                                            <th>水の種類</th>
+                                            <td>RO水</td>
+                                        </tr>
+                                        <tr>
+                                            <th>ボトルの種類</th>
+                                            <td>浄水型</td>
+                                        </tr>
+                                        <tr>
+                                            <th>宅配エリア</th>
+                                            <td>全国（沖縄、離島除く）</td>
+                                        </tr>
+                                        <tr>
+                                            <th>総合評価</th>
+                                            <td><span style="font-size:13px" class="lbg"><span style="color:#FF0A0A"><strong>４．０点</strong></span></span>／５．０点
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </div>
+                                <div class="comment">
+                                    <div class="comment-inner">
+                                        <div class="comment-tit"><span>調査委員会のコメント</span></div>
+                                        <p>2021年4月に新登場の浄水型では初の卓上タイプとなるコンパクトな浄水型ウォーターサーバーです。キッチン・リビング・一人暮らしのお部屋に置いても省スペース。おしゃれなデザインでインテリアにも最適です。月額3,300円（税込）の定額で、水道水を注ぐだけでおいしいお水が飲み放題＆使い放題。冷水・温水両方がこの1台でお使いいただけます。TVでも紹介され、早くも話題沸騰中♪要チェックのウォーターサーバーです。
+
+                                        </p>
+                                    </div>
+                                </div>
+
+                               
+                                <div class="more">
+                                    <a class="gBtn prrrr" href="https://ウォーターサーバー最新人気ランキング.com/link/every.html"
+                                        target="_blank" class="prrrr">every frecious<br>公式サイトはこちら
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <p>&nbsp;</p>
 
 
 
-
-
-
-                    <!--  6位 ワンウェイウォーター-->
+                    <!--  7位 ワンウェイウォーター-->
                     <div class="rank">
                         <div class="rank-container">
                             <div class="rank-inner">
-                                <div class="rank6"><a href="https://ウォーターサーバー最新人気ランキング.com/link/oneway.html"
+                                <div class="rank7"><a href="https://ウォーターサーバー最新人気ランキング.com/link/oneway.html"
                                         target="_blank" class="prrrr">ワンウェイウォーター</a></div>
                                 <div class="rankbox">
                                     <div class="rankbox-inner">
@@ -959,7 +1053,7 @@
                                         <tr>
                                             <th>総合評価</th>
                                             <td><span style="font-size:13px" class="lbg"><span
-                                                        style="color:#FF0A0A"><strong>４．０点</strong></span></span>／５．０点
+                                                        style="color:#FF0A0A"><strong>３．９点</strong></span></span>／５．０点
                                             </td>
                                         </tr>
                                     </table>
@@ -980,11 +1074,11 @@
                     <p>&nbsp;</p>
 
                     
-                    <!-- 7位 クリクラ -->
+                    <!-- 8位 クリクラ -->
                     <div class="rank">
                         <div class="rank-container">
                             <div class="rank-inner">
-                                <div class="rank7"><a href="https://ウォーターサーバー最新人気ランキング.com/link/crecla.html"
+                                <div class="rank8"><a href="https://ウォーターサーバー最新人気ランキング.com/link/crecla.html"
                                         target="_blank" class="prrrr">クリクラ</a></div>
                                 <div class="rankbox">
                                     <div class="rankbox-inner">
@@ -1065,7 +1159,7 @@
                                         <tr>
                                             <th>総合評価</th>
                                             <td><span style="font-size:13px" class="lbg"><span
-                                                        style="color:#FF0A0A"><strong>３．９点</strong></span></span>／５．０点
+                                                        style="color:#FF0A0A"><strong>３．８点</strong></span></span>／５．０点
                                             </td>
                                         </tr>
                                     </table>
@@ -1104,43 +1198,28 @@
                     <p>&nbsp;</p>
 
 
-
-                     <!-- 8位 every frecious -->
-                     <div class="rank">
+                    <!-- 9位 富士の湧水　-->
+                    <div class="rank">
                         <div class="rank-container">
                             <div class="rank-inner">
-                                <div class="rank8"><a href="https://ウォーターサーバー最新人気ランキング.com/link/every.html"
-                                        target="_blank" class="prrrr">every frecious</a></div>
+                                <div class="rank9"><a href="https://ウォーターサーバー最新人気ランキング.com/link/fujinoyusui.html"
+                                        target="_blank" class="prrrr">富士の湧水</a></div>
                                 <div class="rankbox">
                                     <div class="rankbox-inner">
                                         <div class="float-l">
-                                            <p><a href="https://ウォーターサーバー最新人気ランキング.com/link/every.html" target="_blank"
-                                                    class="prrrr"><img
-                                                        src="<?php bloginfo('template_directory'); ?>/imgi/every_120_120.jpg"
+                                            <p><a href="https://ウォーターサーバー最新人気ランキング.com/link/fujinoyusui.html"
+                                                    target="_blank" class="prrrr"><img
+                                                        src="<?php bloginfo('template_directory'); ?>/imgi/fujinoyusui_125.jpg"
                                                         alt="ウォーターサーバー ランキング／スマートフォンサイト" /></a></p>
                                         </div>
-                                        <div class="feature"><span>every freciousのポイント！</span></div>
-
-                                        <p>
-                                        <strong>・<span style="color:#FF0A0A;" class="ylw">【新発売】今ならなんと初月無料！</span></strong><br /><br />
-
-                                        <strong>・1日約97円！【お得な定額制】で好きなだけおいしいお水が楽しめる♪</strong><br /><br />
-
-                                        <strong>・<span class="ylw">水道水を注ぐだけで、冷水・温水がいつでも飲み放題！</span></strong><br /><br />
-
-                                        <strong>・<span style="color:#FF0A0A">浄水型では初の卓上タイプ！</span>コンパクトな浄水型ウォーターサーバー！</strong><br /><br />
-
-                                        <strong>・世界的プロダクトデザイナーが手がけた<span class="ylw">美しく使いやすいデザイン！</span></strong><br /><br />
-
-                                        <strong>・無料カートリッジを6ヶ月に1度お届け！定期交換できれいをキープ！</strong>
-
+                                        <div class="feature"><span>富士の湧水のポイント！</span></div>
+                                        <p>・天然ミネラル配合の高品質の富士山の天然水が飲める！<br /><br />・90年の歴史がある信頼できるブランド！<br /><br />・日本製サーバーだから安心！<br /><br />・初期費用や注文ノルマが無いので初めての方にもオススメ！
                                         </p>
-
                                     </div>
                                     <table class="rank-table">
                                         <tr>
                                             <th>水の価格</th>
-                                            <td>61円（水道水300L）</td>
+                                            <td>3048円（12Ｌ×2本）※1ヶ月の夫婦２人分</td>
                                         </tr>
                                         <tr>
                                             <th>配送料</th>
@@ -1148,7 +1227,7 @@
                                         </tr>
                                         <tr>
                                             <th>サーバー料金</th>
-                                            <td>月3,300円（税込）</td>
+                                            <td>762円</td>
                                         </tr>
                                         <tr>
                                             <th>メンテナンス料金</th>
@@ -1156,19 +1235,19 @@
                                         </tr>
                                         <tr>
                                             <th>電気代</th>
-                                            <td>410円</td>
+                                            <td>680円（節電時）</td>
                                         </tr>
                                         <tr>
-                                            <th>1カ月当たりのトータル費用</th>
-                                            <td><span style="color:#FF0A0A"><strong>約3,771円（税込）※全費用の合計</strong></span></td>
+                                            <th>1ヶ月当たりのトータル費用</th>
+                                            <td><span style="color:#FF0A0A"><strong>4490円（全費用の合計）</strong></span></td>
                                         </tr>
                                         <tr>
                                             <th>水の種類</th>
-                                            <td>RO水</td>
+                                            <td>天然水</td>
                                         </tr>
                                         <tr>
                                             <th>ボトルの種類</th>
-                                            <td>浄水型</td>
+                                            <td>ワンウェイ方式（使い捨て）</td>
                                         </tr>
                                         <tr>
                                             <th>宅配エリア</th>
@@ -1176,7 +1255,8 @@
                                         </tr>
                                         <tr>
                                             <th>総合評価</th>
-                                            <td><span style="font-size:13px" class="lbg"><span style="color:#FF0A0A"><strong>３．８点</strong></span></span>／５．０点
+                                            <td><span style="font-size:13px" class="lbg"><span
+                                                        style="color:#FF0A0A"><strong>３．７点</strong></span></span>／５．０点
                                             </td>
                                         </tr>
                                     </table>
@@ -1184,29 +1264,26 @@
                                 <div class="comment">
                                     <div class="comment-inner">
                                         <div class="comment-tit"><span>調査委員会のコメント</span></div>
-                                        <p>2021年4月に新登場の浄水型では初の卓上タイプとなるコンパクトな浄水型ウォーターサーバーです。キッチン・リビング・一人暮らしのお部屋に置いても省スペース。おしゃれなデザインでインテリアにも最適です。月額3,300円（税込）の定額で、水道水を注ぐだけでおいしいお水が飲み放題＆使い放題。冷水・温水両方がこの1台でお使いいただけます。TVでも紹介され、早くも話題沸騰中♪要チェックのウォーターサーバーです。
-
+                                        <p>富士の湧水は、その名のとおり、富士山標高950mからお届けする天然ミネラル配合のまろやかでおいしい富士山の天然水が飲めるウォーターサーバーです。サーバーは4段階の温度設定、二重チャイルドロック、自動クリーニング機能、省エネ機能などを備えた日本製の高機能サーバーなので、安心安全＆便利にお使いいただけます。初期費用や注文ノルマがなく、天然水の料金1,524円（12Ｌ）は業界最安水準と、始めやすく続けやすいので、初めての方にもオススメです。
                                         </p>
                                     </div>
                                 </div>
-
-                               
-                                <div class="more">
-                                    <a class="gBtn prrrr" href="https://ウォーターサーバー最新人気ランキング.com/link/every.html"
-                                        target="_blank" class="prrrr">every frecious<br>公式サイトはこちら
-                                    </a>
-                                </div>
+                                <div class="more"><a class="gBtn prrrr"
+                                        href="https://ウォーターサーバー最新人気ランキング.com/link/fujinoyusui.html"
+                                        target="_blank">富士の湧水<br>公式サイトはこちら</a></div>
                             </div>
                         </div>
                     </div>
                     <p>&nbsp;</p>
 
 
-                    <!--  9位 サントリー  -->
+
+
+                    <!--  10位 サントリー  -->
                     <div class="rank">
                         <div class="rank-container">
                             <div class="rank-inner">
-                                <div class="rank9"><a href="http://ウォーターサーバー最新人気ランキング.com/link/suntory.html"
+                                <div class="rank10"><a href="http://ウォーターサーバー最新人気ランキング.com/link/suntory.html"
                                         target="_blank" class="prrrr">サントリー天然水サーバー</a></div>
                                 <div class="rankbox">
                                     <div class="rankbox-inner">
@@ -1285,7 +1362,7 @@
                                         <tr>
                                             <th>総合評価</th>
                                             <td><span style="font-size:13px" class="lbg"><span
-                                                        style="color:#FF0A0A"><strong>３．７点</strong></span></span>／５．０点
+                                                        style="color:#FF0A0A"><strong>３．５点</strong></span></span>／５．０点
                                             </td>
                                         </tr>
                                     </table>
@@ -1293,8 +1370,7 @@
                                 <div class="comment">
                                     <div class="comment-inner">
                                         <div class="comment-tit"><span>調査委員会のコメント</span></div>
-                                        <p>おなじみサントリー
-                                            南アルプスの天然水が飲めるウォーターサーバーです。多くの日本人が一度は口にしたことのある慣れ親しんだお水で、お子様や大人まで幅広く安心して美味しくお飲みいただくことが出来ます。水と生きるサントリーこだわりの業界最高水準※のオートクリーンシステムにより、いつでも清潔さが保たれ安心なお「おいしさキーパー機能」、冷水・お湯がそれぞれ2段階の温度に設定できる「4段階温度調節機能」が付いた使いやすさにこだわった高機能サーバーはレンタル料無料。初期費用・配送料・メンテナンス料もすべて無料のため、必要な費用はお水代金のみとコスパの高さも外せないポイントです。弱温、弱冷モードの使用で電気代も節約できます！白・黒２色から選べるサーバーはとってもおしゃれでセンス抜群のデザイン♪今なら新規申込で天然水２箱プレゼントしてますので、お得に始められます！
+                                        <p>おなじみサントリー天然水＜南アルプス＞が飲めるウォーターサーバーです。多くの日本人が一度は口にしたことのある慣れ親しんだお水で、お子様や大人まで幅広く安心して美味しくお飲みいただくことが出来ます。水と生きるサントリーこだわりの業界最高水準※のオートクリーンシステムにより、いつでも清潔さが保たれ安心なお「おいしさキーパー機能」、冷水・お湯がそれぞれ2段階の温度に設定できる「4段階温度調節機能」が付いた使いやすさにこだわった高機能サーバーはレンタル料無料。初期費用・配送料・メンテナンス料もすべて無料のため、必要な費用はお水代金のみとコスパの高さも外せないポイントです。弱温、弱冷モードの使用で電気代も節約できます！白・黒２色から選べるサーバーはとってもおしゃれでセンス抜群のデザイン♪今なら新規申込で天然水２箱プレゼントしてますので、お得に始められます！
                                         </p>
                                         <small style="font-size:9px; padding: 0 4vw 4vw; display: block;color: #999; line-height: 1.4">※宅配水業界における自動清掃機能の稼働頻度。サントリー調べ（2021年3月時点）</small>
                                     </div>
@@ -1309,84 +1385,7 @@
 
 
 
-                    <!--  10位 富士の湧水 -->
-                    <div class="rank">
-                        <div class="rank-container">
-                            <div class="rank-inner">
-                                <div class="rank10"><a href="https://ウォーターサーバー最新人気ランキング.com/link/fujinoyusui.html"
-                                        target="_blank" class="prrrr">富士の湧水</a></div>
-                                <div class="rankbox">
-                                    <div class="rankbox-inner">
-                                        <div class="float-l">
-                                            <p><a href="https://ウォーターサーバー最新人気ランキング.com/link/fujinoyusui.html"
-                                                    target="_blank" class="prrrr"><img
-                                                        src="<?php bloginfo('template_directory'); ?>/imgi/fujinoyusui_125.jpg"
-                                                        alt="ウォーターサーバー ランキング／スマートフォンサイト" /></a></p>
-                                        </div>
-                                        <div class="feature"><span>富士の湧水のポイント！</span></div>
-                                        <p>・天然ミネラル配合の高品質の富士山の天然水が飲める！<br /><br />・90年の歴史がある信頼できるブランド！<br /><br />・日本製サーバーだから安心！<br /><br />・初期費用や注文ノルマが無いので初めての方にもオススメ！
-                                        </p>
-                                    </div>
-                                    <table class="rank-table">
-                                        <tr>
-                                            <th>水の価格</th>
-                                            <td>3,290円（税込）/12L×2本 ※1ヶ月の夫婦２人分</td>
-                                        </tr>
-                                        <tr>
-                                            <th>配送料</th>
-                                            <td>無料</td>
-                                        </tr>
-                                        <tr>
-                                            <th>サーバー料金</th>
-                                            <td>838円</td>
-                                        </tr>
-                                        <tr>
-                                            <th>メンテナンス料金</th>
-                                            <td>無料</td>
-                                        </tr>
-                                        <tr>
-                                            <th>電気代</th>
-                                            <td>680円（節電時）</td>
-                                        </tr>
-                                        <tr>
-                                            <th>1ヶ月当たりのトータル費用</th>
-                                            <td><span style="color:#FF0A0A"><strong>約4,808円（税込）（全費用の合計）</strong></span>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <th>水の種類</th>
-                                            <td>天然水</td>
-                                        </tr>
-                                        <tr>
-                                            <th>ボトルの種類</th>
-                                            <td>ワンウェイ方式（使い捨て）</td>
-                                        </tr>
-                                        <tr>
-                                            <th>宅配エリア</th>
-                                            <td>全国（沖縄、離島除く）</td>
-                                        </tr>
-                                        <tr>
-                                            <th>総合評価</th>
-                                            <td><span style="font-size:13px" class="lbg"><span
-                                                        style="color:#FF0A0A"><strong>３．５点</strong></span></span>／５．０点
-                                            </td>
-                                        </tr>
-                                    </table>
-                                </div>
-                                <div class="comment">
-                                    <div class="comment-inner">
-                                        <div class="comment-tit"><span>調査委員会のコメント</span></div>
-                                        <p>富士の湧水は、その名のとおり、富士山標高950mからお届けする天然ミネラル配合のまろやかでおいしい富士山の天然水が飲めるウォーターサーバーです。サーバーは4段階の温度設定、二重チャイルドロック、自動クリーニング機能、省エネ機能などを備えた日本製の高機能サーバーなので、安心安全＆便利にお使いいただけます。初期費用や注文ノルマがなく、天然水の料金1,645円（税込）/12Ｌは業界最安水準と、始めやすく続けやすいので、初めての方にもオススメです。
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="more"><a class="gBtn prrrr"
-                                        href="https://ウォーターサーバー最新人気ランキング.com/link/fujinoyusui.html"
-                                        target="_blank">富士の湧水<br>公式サイトはこちら</a></div>
-                            </div>
-                        </div>
-                    </div>
-                    <p>&nbsp;</p>
+                    
 
 
 

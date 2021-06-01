@@ -878,7 +878,11 @@
                                         </p>
                                         <br />
                                         <p>
-                                            <center><a href="https://xn--gckgmmx3dygqimdb6gbbb4235ic1qdgxegw1a.com/link/aquaclara.html" target="_blank" class="prrrr"><img src="<?php bloginfo('template_directory'); ?>/imgi/cp_banner_468-60.jpg" alt="ウォーターサーバー ランキング" /></a></center>
+                                            <center><a
+                                                    href="https://xn--gckgmmx3dygqimdb6gbbb4235ic1qdgxegw1a.com/link/aquaclara.html"
+                                                    target="_blank" class="prrrr"><img
+                                                        src="<?php bloginfo('template_directory'); ?>/imgi/cp_banner_468-60.jpg"
+                                                        alt="ウォーターサーバー ランキング" /></a></center>
                                         </p>
                                         <br />
                                     </TH>
@@ -1031,7 +1035,8 @@
 
                                         <div class="itempoint">
 
-                                            <p><b><span style="color:#FF0A0A;" class="ylw">初回999円</span></b>（税込）でスタートできるサンキューセットを実施中！</p>
+                                            <p><b><span style="color:#FF0A0A;"
+                                                        class="ylw">初回999円</span></b>（税込）でスタートできるサンキューセットを実施中！</p>
 
                                             <p><b>日本初！ネスレとのコラボして誕生したコーヒーが飲めるウォーターサーバーAQUA WITH誕生！<span
                                                         style="color:#FF0A0A">AQUA WITHで楽しむスターバックスも新登場！</span></b>
@@ -1039,7 +1044,8 @@
 
                                             <p>グッドデザイン賞受賞！どんな空間にも馴染むAQUA FAB！</p>
 
-                                            <p><span style="color:#FF0A0A"><b>10年連続モンドセレクション優秀品質最高金賞を受賞</b></span>したお水がご家庭で毎日飲める！
+                                            <p><span
+                                                    style="color:#FF0A0A"><b>10年連続モンドセレクション優秀品質最高金賞を受賞</b></span>したお水がご家庭で毎日飲める！
                                             </p>
 
                                             <p><b>初めてで不安な方、お水の味を試してみてから決めたい方</b>に<a
@@ -1052,9 +1058,15 @@
                                                     href="https://ウォーターサーバー最新人気ランキング.com/link/aquaclara-baby.html"
                                                     target="_blank" class="prrrr">子育てアクアプラン</a>が大人気！</p>
 
-                                            <p>かならずもらえるキャンペーン実施中で<span style="color:#FF0A0A"><b>ソーダストリームなど選べる人気商品をどちらかかならずプレゼント！</b></span></p>
+                                            <p>かならずもらえるキャンペーン実施中で<span
+                                                    style="color:#FF0A0A"><b>ソーダストリームなど選べる人気商品をどちらかかならずプレゼント！</b></span>
+                                            </p>
 
-                                            <p><span class="ylw"><span style="color:#FF0A0A"><b>初回999円（12Lボトル2本＋あんしんサポート料無料）＋<a href="https://ウォーターサーバー最新人気ランキング.com/link/aquaclara.html" target="_blank" class="prrrr">当サイトからのお申込み限定</a>で、さらに４本無料！！</b></span></span>
+                                            <p><span class="ylw"><span
+                                                        style="color:#FF0A0A"><b>初回999円（12Lボトル2本＋あんしんサポート料無料）＋<a
+                                                                href="https://ウォーターサーバー最新人気ランキング.com/link/aquaclara.html"
+                                                                target="_blank"
+                                                                class="prrrr">当サイトからのお申込み限定</a>で、さらに４本無料！！</b></span></span>
                                             </p>
 
                                         </div>
@@ -1587,10 +1599,234 @@
                     <p>&nbsp;</p>
                     <p>&nbsp;</p>
 
-
-                    <!-- 6位 ワンウェイウォーター -->
+                    <!-- 6位 every freciousー-->
                     <p><span style="font-size:20px" class="lbg"><strong><span
                                     style="color:#C50000">第６位</span></strong></span></p>
+
+
+                    <div style="margin:0px;padding:0px;" align="center">
+                        <TABLE width="668"
+                            style="border-collapse: collapse;border:1px solid #CACAFF;background-color:#FFFFFF;color:#000000;text-align:left;"
+                            height="968">
+                            <tbody>
+                                <tr>
+                                    <TH style="border:1px solid #CACAFF;background-color:#BFEEEE;color:#000000;"
+                                        width="514" colspan="3" align="center">
+                                        <p style="text-align:center;"><span style="font-size:20px" class="lbg">every
+                                                frecious</span></p>
+                                    </TH>
+                                </tr>
+                                <tr>
+                                    <TH style="background-color : #ffffff;border-width : 1px;border-style : solid;border-color : #cacaff;"
+                                        width="514" colspan="3" height="58" align="center">
+                                        <p>&nbsp;</p>
+                                        <p>
+                                            <center><a href="https://ウォーターサーバー最新人気ランキング.com/link/every.html"
+                                                    target="_blank" class="prrrr"><img
+                                                        src="<?php bloginfo('template_directory'); ?>/imgi/every_468_60.jpg"
+                                                        alt="ウォーターサーバー ランキング" width="468"></a></center>
+                                        </p>
+                                        <br />
+                                    </TH>
+                                </tr>
+                                <tr>
+                                    <TH style="border:1px solid #CACAFF;background-color:#BFEEEE;color:#000000;text-align:center;"
+                                        width="154">
+                                        <FONT size="-1">入会金</FONT>&nbsp;
+                                    </TH>
+                                    <TH style="border:1px solid #CACAFF;background-color:#BFEEEE;color:#000000;text-align:center;"
+                                        width="183">
+                                        <FONT size="-1">配送料</FONT>
+                                    </TH>
+                                    <TH style="border:1px solid #CACAFF;background-color:#BFEEEE;color:#000000;text-align:center;"
+                                        width="177">
+                                        <FONT size="-1">サーバー料金</FONT>
+                                    </TH>
+                                </tr>
+                                <tr>
+                                    <TD style="border:1px solid #CACAFF;
+" align="center" width="154">
+                                        <FONT size="-1">&nbsp;０円</FONT>
+                                    </TD>
+                                    </p>
+                                    <TD style="border:1px solid #CACAFF;
+" align="center" width="183">
+                                        <FONT size="-1">&nbsp;無料</FONT>
+                                    </TD>
+                                    </p>
+                                    <TD style="border:1px solid #CACAFF;
+" align="center" width="177">
+                                        <FONT size="-1">&nbsp;月3,300円（税込）</FONT>
+                                    </TD>
+                                    </p>
+                                </tr>
+                                <tr>
+                                    <TD style="background-color : #bfeeee;border-width : 1px;border-style : solid;border-color : #cacaff;
+" align="center" width="154"><B>
+                                            <FONT size="-1">メンテナンス料金</FONT>
+                                        </B></TD>
+                                    </p>
+                                    <TD style="background-color : #bfeeee;border-width : 1px;border-style : solid;border-color : #cacaff;
+" align="center" width="183"><B>&nbsp;<FONT size="-1">水の種類</FONT></B></TD>
+                                    </p>
+                                    <TD style="background-color : #bfeeee;border-width : 1px;border-style : solid;border-color : #cacaff;
+" align="center" width="177">&nbsp;<B>
+                                            <FONT size="-1">ボトルの種類</FONT>
+                                        </B></TD>
+                                    </p>
+                                </tr>
+                                <tr>
+                                    <TD style="border:1px solid #CACAFF;
+" align="center" width="154">
+                                        <FONT size="-1">&nbsp;無料</FONT>
+                                    </TD>
+                                    </p>
+                                    <TD style="border:1px solid #CACAFF;
+" align="center" width="183">
+                                        <FONT size="-1">RO水&nbsp;</FONT>
+                                    </TD>
+                                    </p>
+                                    <TD style="border:1px solid #CACAFF;
+" align="center" width="177">
+                                        <FONT size="-1">浄水型</FONT>
+                                    </TD>
+                                    </p>
+                                </tr>
+                                <tr>
+                                    <TD style="background-color : #bfeeee;border-width : 1px;border-style : solid;border-color : #cacaff;
+" align="center" width="154"><B>
+                                            <FONT size="-1">水の価格&nbsp;</FONT>
+                                        </B></TD>
+                                    </p>
+                                    <TD style="background-color : #bfeeee;border-width : 1px;border-style : solid;border-color : #cacaff;
+" align="center" width="183"><B>
+                                            <FONT size="-1">電気代</FONT>
+                                        </B></TD>
+                                    </p>
+                                    <TD style="background-color : #bfeeee;border-width : 1px;border-style : solid;border-color : #cacaff;
+" align="center" width="177"><B>
+                                            <FONT size="-1">1ヶ月当たりのトータル費用</FONT>
+                                        </B></TD>
+                                    </p>
+                                </tr>
+                                <tr>
+                                    <TD style="border:1px solid #CACAFF;
+" align="center" width="154">61円（水道水300L）
+                                        </p>
+                                    </TD>
+                                    <TD style="border:1px solid #CACAFF;
+" align="center" width="183">410円
+                                        </p>
+                                    </TD>
+                                    <TD style="border:1px solid #CACAFF;
+" align="center" width="177">約3,771円（税込）※全費用の合計
+                                        </p>
+                                    </TD>
+                                </tr>
+                                <tr>
+                                    <TD style="background-color : #bfeeee;border-width : 1px;border-style : solid;border-color : #cacaff;
+" align="center" width="154"><B>&nbsp;<FONT size="-1">タイプ</FONT></B></TD>
+                                    </p>
+                                    <TD style="background-color : #bfeeee;border-width : 1px;border-style : solid;border-color : #cacaff;
+" align="center" width="183"><B>&nbsp;<FONT size="-1">宅配エリア</FONT></B></TD>
+                                    </p>
+                                    <TD style="background-color : #bfeeee;border-width : 1px;border-style : solid;border-color : #cacaff;
+" align="center" width="177">
+                                        <FONT size="+1"><B>&nbsp;<FONT size="-1">総合評価</FONT></B></FONT>
+                                    </TD>
+                                    </p>
+                                </tr>
+                                <tr>
+                                    <TD style="border:1px solid #CACAFF;
+" align="center" width="154">
+                                        <FONT size="-1">卓上</FONT>
+                                    </TD>
+                                    </p>
+                                    <TD style="border:1px solid #CACAFF;
+" align="center" width="183">
+                                        <FONT size="-1">国（沖縄、離島除く）</FONT>
+                                    </TD>
+                                    </p>
+                                    <TD style="border:1px solid #CACAFF;
+" align="center" width="177">４．０点／５．０点</TD>
+                                    </p>
+                                </tr>
+
+                                <tr>
+                                    <TD style="border:1px solid #CACAFF;
+" align="center" width="514" colspan="3">
+                                        </p>
+                                        <p>&nbsp;</p>
+                                        <div class="point">
+
+                                            <span style="font-size:18px" class="lbg">every freciousのおすすめポイントはここ！</span>
+                                        </div>
+
+                                        <div class="itempoint">　　
+
+                                            <p>
+                                                <span style=" color:#FF0A0A;"
+                                                    class="ylw"><strong>【新発売】今ならなんと初月無料！</strong></span>
+                                            </p>
+
+                                            <p>
+                                                <strong>1日約97円！【お得な定額制】で好きなだけおいしいお水が楽しめる♪</strong>
+                                            </p>
+
+                                            <p>
+                                                <span class="ylw"><strong>水道水を注ぐだけで、冷水・温水がいつでも飲み放題！</strong></span>
+                                            </p>
+
+                                            <p>
+                                                <strong><span
+                                                        style="color:#FF0A0A">浄水型では初の卓上タイプ！</span>コンパクトな浄水型ウォーターサーバー！</strong>
+                                            </p>
+
+                                            <p>
+                                                <strong>世界的プロダクトデザイナーが手がけた</strong><span
+                                                    class="ylw"><strong>美しく使いやすいデザイン！</strong></span>
+                                            </p>
+                                            <p>
+                                                <strong>無料カートリッジを6ヶ月に1度お届け！定期交換できれいをキープ！</strong>
+                                            </p>
+
+
+                                        </div>
+                                        <p>&nbsp;</p>
+
+
+                                        <div class="thint">
+                                            <p><span style="font-size:18px" class="lbg">調査委員会のコメント</span></p>
+                                            <p>&nbsp;</p>
+                                            <p><span style="font-size:16px"
+                                                    class="lbg">2021年4月に新登場の浄水型では初の卓上タイプとなるコンパクトな浄水型ウォーターサーバーです。キッチン・リビング・一人暮らしのお部屋に置いても省スペース。おしゃれなデザインでインテリアにも最適です。月額3,300円（税込）の定額で、水道水を注ぐだけでおいしいお水が飲み放題＆使い放題。冷水・温水両方がこの1台でお使いいただけます。TVでも紹介され、早くも話題沸騰中♪要チェックのウォーターサーバーです。</span>
+                                            </p>
+                                        </div>
+                                        <p>&nbsp;</p>
+
+
+                                        <div style="margin:0 60px;">
+                                            <p style="text-align:right;"><strong><span style="font-size:20px"
+                                                        class="lbg"><a
+                                                            href="https://ウォーターサーバー最新人気ランキング.com/link/every.html"
+                                                            target="_blank" class="prrrr">⇒every
+                                                            freciousの公式サイトはこちら</a></span></strong>
+                                            </p>
+                                        </div>
+                                        <p>&nbsp;</p>
+                                        <p>&nbsp;</p>
+                                    </TD>
+                                </tr>
+                            </tbody>
+                        </TABLE>
+                    </div>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
+
+
+                    <!-- 7位 ワンウェイウォーター -->
+                    <p><span style="font-size:20px" class="lbg"><strong><span
+                                    style="color:#C50000">第７位</span></strong></span></p>
 
                     <div style="margin:0px;padding:0px;" align="center">
                         <TABLE width="668"
@@ -1738,7 +1974,7 @@
                                     </TD>
                                     </p>
                                     <TD style="border:1px solid #CACAFF;
-" align="center" width="177">４．０点／５．０点</TD>
+" align="center" width="177">３．９点／５．０点</TD>
                                     </p>
                                 </tr>
 
@@ -1793,9 +2029,9 @@
 
 
 
-                    <!-- 7位 クリクラ -->
+                    <!-- 8位 クリクラ -->
                     <p><span style="font-size:20px" class="lbg"><strong><span
-                                    style="color:#C50000">第７位</span></strong></span></p>
+                                    style="color:#C50000">第８位</span></strong></span></p>
 
                     <div style="margin:0px;padding:0px;" align="center">
                         <TABLE width="668"
@@ -1943,7 +2179,7 @@
                                     </TD>
                                     </p>
                                     <TD style="border:1px solid #CACAFF;
-" align="center" width="177">３．９点／５．０点</TD>
+" align="center" width="177">３．８点／５．０点</TD>
                                     </p>
                                 </tr>
                                 <tr>
@@ -1974,11 +2210,10 @@
                                             <p><strong>今なら<span style="color:#FF0A0A">「選べる国産和牛
                                                         カタログギフト(5,000円相当)」</span>などかならずもらえる選べる特典付きでお得！</strong>
                                             </p>
-<<<<<<< HEAD
-                                            <p><strong><span style="color:#FF0A0A">子育て世代応援プラン「SMILE キッズ」登場！</span>スタートもおトク！お子さまが7歳になるまでおトクが続く！</strong>
+                                            <p><strong><span style="color:#FF0A0A">子育て世代応援プラン「SMILE
+                                                        キッズ」登場！</span>スタートもおトク！お子さまが7歳になるまでおトクが続く！</strong>
                                             </p>
-=======
->>>>>>> 5bda454cde2d8263a1e66f6f62780b88fa2c9a78
+
                                         </div>
                                         <p>&nbsp;</p>
 
@@ -2004,12 +2239,8 @@
                                                         <strong><a
                                                                 href="https://ウォーターサーバー最新人気ランキング.com/link/crecla.html"
                                                                 target="_blank" class="prrrr red"
-<<<<<<< HEAD
-                                                                style="background: none">「SMILEキッズ」発売記念！今なら新規ご契約・乗り換えで「選べる国産和牛 カタログギフト」など、かならずもらえる！選べる5,000円相当の特典プレゼント！</a>
-=======
-                                                                style="background: none">月額費用の見直しなら"安くて安心"のクリクラがお得！今なら新規ご契約・乗り換えで「選べる国産和牛
-                                                                カタログギフト」ほか必ずもらえる！選べる特典プレゼント！</a>
->>>>>>> 5bda454cde2d8263a1e66f6f62780b88fa2c9a78
+                                                                style="background: none">「SMILEキッズ」発売記念！今なら新規ご契約・乗り換えで「選べる国産和牛
+                                                                カタログギフト」など、かならずもらえる！選べる5,000円相当の特典プレゼント！</a>
                                                         </strong>
                                                     </p>
                                                 </div>
@@ -2036,21 +2267,19 @@
                     <p>&nbsp;</p>
 
 
-                    <!-- 8位 every freciousー-->
+                    <!-- ９位 -->
                     <p><span style="font-size:20px" class="lbg"><strong><span
-                                    style="color:#C50000">第８位</span></strong></span></p>
-
-
+                                    style="color:#C50000">第９位</span></strong></span></p>
                     <div style="margin:0px;padding:0px;" align="center">
                         <TABLE width="668"
                             style="border-collapse: collapse;border:1px solid #CACAFF;background-color:#FFFFFF;color:#000000;text-align:left;"
-                            height="968">
+                            height="798">
                             <tbody>
                                 <tr>
                                     <TH style="border:1px solid #CACAFF;background-color:#BFEEEE;color:#000000;"
                                         width="514" colspan="3" align="center">
-                                        <p style="text-align:center;"><span style="font-size:20px" class="lbg">every
-                                                frecious</span></p>
+                                        <p style="text-align:center;"><span style="font-size:20px"
+                                                class="lbg">信濃湧水</span></p>
                                     </TH>
                                 </tr>
                                 <tr>
@@ -2058,12 +2287,12 @@
                                         width="514" colspan="3" height="58" align="center">
                                         <p>&nbsp;</p>
                                         <p>
-                                            <center><a href="https://ウォーターサーバー最新人気ランキング.com/link/every.html"
-                                                    target="_blank" class="prrrr"><img
-                                                        src="<?php bloginfo('template_directory'); ?>/imgi/every_468_60.jpg"
-                                                        alt="ウォーターサーバー ランキング" width="468"></a></center>
+                                            <center><a href="https://ウォーターサーバー最新人気ランキング.com/link/shinano.html"
+                                                    target="_blank"><img
+                                                        src="http://h.accesstrade.net/sp/rr?rk=0100l9w3006pd3" alt=""
+                                                        border="0" /></a></center>
                                         </p>
-                                        <br />
+                                        <p>&nbsp;</p>
                                     </TH>
                                 </tr>
                                 <tr>
@@ -2082,173 +2311,144 @@
                                 </tr>
                                 <tr>
                                     <TD style="border:1px solid #CACAFF;
-" align="center" width="154">
+<p>text-align : center;<br />" align="center" width="154">
                                         <FONT size="-1">&nbsp;０円</FONT>
                                     </TD>
                                     </p>
                                     <TD style="border:1px solid #CACAFF;
-" align="center" width="183">
+<p>text-align : center;<br />" align="center" width="183">
                                         <FONT size="-1">&nbsp;無料</FONT>
                                     </TD>
                                     </p>
                                     <TD style="border:1px solid #CACAFF;
-" align="center" width="177">
-                                        <FONT size="-1">&nbsp;月3,300円（税込）</FONT>
+<p>text-align : center;<br />" align="center" width="177">
+                                        <FONT size="-1">&nbsp;月300円</FONT><br />
+                                        <FONT size="-1">※エコサーバーの場合&nbsp;</FONT>
                                     </TD>
                                     </p>
                                 </tr>
                                 <tr>
                                     <TD style="background-color : #bfeeee;border-width : 1px;border-style : solid;border-color : #cacaff;
-" align="center" width="154"><B>
+<p>text-align : center;<br />" align="center" width="154"><B>
                                             <FONT size="-1">メンテナンス料金</FONT>
                                         </B></TD>
                                     </p>
                                     <TD style="background-color : #bfeeee;border-width : 1px;border-style : solid;border-color : #cacaff;
-" align="center" width="183"><B>&nbsp;<FONT size="-1">水の種類</FONT></B></TD>
+<p>text-align : center;<br />" align="center" width="183"><B>&nbsp;<FONT size="-1">水の種類</FONT></B></TD>
                                     </p>
                                     <TD style="background-color : #bfeeee;border-width : 1px;border-style : solid;border-color : #cacaff;
-" align="center" width="177">&nbsp;<B>
+<p>text-align : center;<br />" align="center" width="177">&nbsp;<B>
                                             <FONT size="-1">ボトルの種類</FONT>
                                         </B></TD>
                                     </p>
                                 </tr>
                                 <tr>
                                     <TD style="border:1px solid #CACAFF;
-" align="center" width="154">
+<p>text-align : center;<br />" align="center" width="154">
                                         <FONT size="-1">&nbsp;無料</FONT>
                                     </TD>
                                     </p>
                                     <TD style="border:1px solid #CACAFF;
-" align="center" width="183">
-                                        <FONT size="-1">RO水&nbsp;</FONT>
+<p>text-align : center;<br />" align="center" width="183">
+                                        <FONT size="-1">天然水&nbsp;</FONT>
                                     </TD>
                                     </p>
                                     <TD style="border:1px solid #CACAFF;
-" align="center" width="177">
-                                        <FONT size="-1">浄水型</FONT>
+<p>text-align : center;<br />" align="center" width="177">
+                                        <FONT size="-1">ワンウェイ方式</FONT><br />
+                                        <FONT size="-1">（使い捨てタイプ）</FONT>
                                     </TD>
                                     </p>
                                 </tr>
                                 <tr>
                                     <TD style="background-color : #bfeeee;border-width : 1px;border-style : solid;border-color : #cacaff;
-" align="center" width="154"><B>
+<p>text-align : center;<br />" align="center" width="154"><B>
                                             <FONT size="-1">水の価格&nbsp;</FONT>
                                         </B></TD>
                                     </p>
                                     <TD style="background-color : #bfeeee;border-width : 1px;border-style : solid;border-color : #cacaff;
-" align="center" width="183"><B>
+<p>text-align : center;<br />" align="center" width="183"><B>
                                             <FONT size="-1">電気代</FONT>
                                         </B></TD>
                                     </p>
                                     <TD style="background-color : #bfeeee;border-width : 1px;border-style : solid;border-color : #cacaff;
-" align="center" width="177"><B>
+<p>text-align : center;<br />" align="center" width="177"><B>
                                             <FONT size="-1">1ヶ月当たりのトータル費用</FONT>
                                         </B></TD>
                                     </p>
                                 </tr>
                                 <tr>
                                     <TD style="border:1px solid #CACAFF;
-" align="center" width="154">61円（水道水300L）
+<p>text-align : center;<br />" align="center" width="154">3,000円（12L×2本） </span><br />
+                                        <FONT size="-1">※2ヶ月の夫婦2人分</FONT>
                                         </p>
                                     </TD>
                                     <TD style="border:1px solid #CACAFF;
-" align="center" width="183">410円
-                                        </p>
+<p>text-align : center;<br />" align="center" width="183">580円</p>
                                     </TD>
                                     <TD style="border:1px solid #CACAFF;
-" align="center" width="177">約3,771円（税込）※全費用の合計
+<p>text-align : center;<br />" align="center" width="177">約3,880円<br />
+                                        <FONT size="-1">※全費用の合計</FONT>
                                         </p>
                                     </TD>
                                 </tr>
                                 <tr>
                                     <TD style="background-color : #bfeeee;border-width : 1px;border-style : solid;border-color : #cacaff;
-" align="center" width="154"><B>&nbsp;<FONT size="-1">タイプ</FONT></B></TD>
+<p>text-align : center;<br />" align="center" width="154"><B>&nbsp;<FONT size="-1">タイプ</FONT></B></TD>
                                     </p>
                                     <TD style="background-color : #bfeeee;border-width : 1px;border-style : solid;border-color : #cacaff;
-" align="center" width="183"><B>&nbsp;<FONT size="-1">宅配エリア</FONT></B></TD>
+<p>text-align : center;<br />" align="center" width="183"><B>&nbsp;<FONT size="-1">宅配エリア</FONT></B></TD>
                                     </p>
                                     <TD style="background-color : #bfeeee;border-width : 1px;border-style : solid;border-color : #cacaff;
-" align="center" width="177">
+<p>text-align : center;<br />" align="center" width="177">
                                         <FONT size="+1"><B>&nbsp;<FONT size="-1">総合評価</FONT></B></FONT>
                                     </TD>
                                     </p>
                                 </tr>
                                 <tr>
                                     <TD style="border:1px solid #CACAFF;
-" align="center" width="154">
-                                        <FONT size="-1">卓上</FONT>
+<p>text-align : center;<br />" align="center" width="154">
+                                        <FONT size="-1">床置</FONT>
                                     </TD>
                                     </p>
                                     <TD style="border:1px solid #CACAFF;
-" align="center" width="183">
-                                        <FONT size="-1">国（沖縄、離島除く）</FONT>
+<p>text-align : center;<br />" align="center" width="183">
+                                        <FONT size="-1">全国（沖縄、離島除く）</FONT>
                                     </TD>
                                     </p>
                                     <TD style="border:1px solid #CACAFF;
-" align="center" width="177">３．８点／５．０点</TD>
+<p>text-align : center;<br />" align="center" width="177">３．７点／５．０点</TD>
                                     </p>
                                 </tr>
-
                                 <tr>
                                     <TD style="border:1px solid #CACAFF;
-" align="center" width="514" colspan="3">
+<p>text-align : center;<br />" align="center" width="514" colspan="3">
                                         </p>
                                         <p>&nbsp;</p>
-                                        <div class="point">
-
-                                            <span style="font-size:18px" class="lbg">every freciousのおすすめポイントはここ！</span>
-                                        </div>
-
-                                        <div class="itempoint">　　
-
-                                            <p>
-                                                <span style=" color:#FF0A0A;"
-                                                    class="ylw"><strong>【新発売】今ならなんと初月無料！</strong></span>
-                                            </p>
-
-                                            <p>
-                                                <strong>1日約97円！【お得な定額制】で好きなだけおいしいお水が楽しめる♪</strong>
-                                            </p>
-
-                                            <p>
-                                                <span class="ylw"><strong>水道水を注ぐだけで、冷水・温水がいつでも飲み放題！</strong></span>
-                                            </p>
-
-                                            <p>
-                                                <strong><span
-                                                        style="color:#FF0A0A">浄水型では初の卓上タイプ！</span>コンパクトな浄水型ウォーターサーバー！</strong>
-                                            </p>
-
-                                            <p>
-                                                <strong>世界的プロダクトデザイナーが手がけた</strong><span
-                                                    class="ylw"><strong>美しく使いやすいデザイン！</strong></span>
-                                            </p>
-                                            <p>
-                                                <strong>無料カートリッジを6ヶ月に1度お届け！定期交換できれいをキープ！</strong>
-                                            </p>
-
-
-                                        </div>
+                                        <div class="point"><span style="font-size:18px"
+                                                class="lbg">信濃湧水のおすすめポイントはここ！</span></div>
                                         <p>&nbsp;</p>
-
-
+                                        <p>　<span style="font-size:16px"
+                                                class="lbg">・天然水１２Ｌ１５００円は業界最安級でお得！</span><br />　<span
+                                                style="font-size:16px"
+                                                class="lbg">・北アルプスの美味しい天然水が飲める！</span><br />　<span
+                                                style="font-size:16px"
+                                                class="lbg">・硬度１６の超軟水だから赤ちゃんのミルクにも安心</span><br />　<span
+                                                style="font-size:16px" class="lbg">・新規ご購入特典でお水ボトル２本無料プレゼント中！</span></p>
+                                        <p>&nbsp;</p>
                                         <div class="thint">
                                             <p><span style="font-size:18px" class="lbg">調査委員会のコメント</span></p>
                                             <p>&nbsp;</p>
                                             <p><span style="font-size:16px"
-                                                    class="lbg">2021年4月に新登場の浄水型では初の卓上タイプとなるコンパクトな浄水型ウォーターサーバーです。キッチン・リビング・一人暮らしのお部屋に置いても省スペース。おしゃれなデザインでインテリアにも最適です。月額3,300円（税込）の定額で、水道水を注ぐだけでおいしいお水が飲み放題＆使い放題。冷水・温水両方がこの1台でお使いいただけます。TVでも紹介され、早くも話題沸騰中♪要チェックのウォーターサーバーです。</span>
+                                                    class="lbg">ウォーターサーバーは富士山の天然水が主流ですが、信濃湧水は北アルプスの美味しい天然水を飲むことが出来ます。新発売したばかりのお水ですが、１２Ｌ１５００円と天然水の中では業界最安値級を実現、硬度１６の超軟水は赤ちゃんのミルク作りにも適しています。サーバーは２種類あり、レンタル代無料のものもありますが、月300円と有料のエコサーバーの方が節電が出来て機能も優れているため、コスト面でもこちらがおすすめです。</span>
                                             </p>
                                         </div>
                                         <p>&nbsp;</p>
-
-
                                         <div style="margin:0 60px;">
                                             <p style="text-align:right;"><strong><span style="font-size:20px"
                                                         class="lbg"><a
-                                                            href="https://ウォーターサーバー最新人気ランキング.com/link/every.html"
-                                                            target="_blank" class="prrrr">⇒every
-                                                            freciousの公式サイトはこちら</a></span></strong>
-                                            </p>
+                                                            href="https://ウォーターサーバー最新人気ランキング.com/link/shinano.html"
+                                                            target="_blank">⇒信濃湧水の公式サイトはこちら</a></span></strong></p>
                                         </div>
                                         <p>&nbsp;</p>
                                         <p>&nbsp;</p>
@@ -2261,9 +2461,9 @@
                     <p>&nbsp;</p>
 
 
-                    <!-- 9位 サントリー-->
+                    <!-- 10位 サントリー-->
                     <p><span style="font-size:20px" class="lbg"><strong><span
-                                    style="color:#C50000">第９位</span></strong></span></p>
+                                    style="color:#C50000">第１０位</span></strong></span></p>
 
 
                     <div style="margin:0px;padding:0px;" align="center">
@@ -2414,7 +2614,7 @@
                                     </TD>
                                     </p>
                                     <TD style="border:1px solid #CACAFF;
-" align="center" width="177">３．７点／５．０点</TD>
+" align="center" width="177">３．５点／５．０点</TD>
                                     </p>
                                 </tr>
 
@@ -2431,7 +2631,7 @@
                                         <div class="itempoint">　　
 
                                             <p>誰もが知っている<span class="ylw"><strong><span style="color:#FF0A0A">信頼のブランド
-                                            サントリー天然水＜南アルプス＞がお水代のみで飲める！</span></strong></span></p>
+                                                            サントリー天然水＜南アルプス＞がお水代のみで飲める！</span></strong></span></p>
 
                                             <p><span
                                                     style="color:#FF0A0A"><b>４段階の温度設定機能</b></span>で目的別にちょうど良い温度の冷水・お湯が出る
@@ -2462,8 +2662,8 @@
                                         <div class="thint">
                                             <p><span style="font-size:18px" class="lbg">調査委員会のコメント</span></p>
                                             <p>&nbsp;</p>
-                                            <p><span style="font-size:16px" class="lbg">おなじみサントリー
-                                                    南アルプスの天然水が飲めるウォーターサーバーです。多くの日本人が一度は口にしたことのある慣れ親しんだお水で、お子様や大人まで幅広く安心して美味しくお飲みいただくことが出来ます。水と生きるサントリーこだわりの業界最高水準※のオートクリーンシステムにより、いつでも清潔さが保たれ安心なお「おいしさキーパー機能」、冷水・お湯がそれぞれ2段階の温度に設定できる「4段階温度調節機能」が付いた使いやすさにこだわった高機能サーバーはレンタル料無料。初期費用・配送料・メンテナンス料もすべて無料のため、必要な費用はお水代金のみとコスパの高さも外せないポイントです。弱温、弱冷モードの使用で電気代も節約できます！白・黒２色から選べるサーバーはとってもおしゃれでセンス抜群のデザイン♪今なら新規申込で天然水２箱プレゼントしてますので、お得に始められます！</span>
+                                            <p><span style="font-size:16px"
+                                                    class="lbg">おなじみサントリー天然水＜南アルプス＞が飲めるウォーターサーバーです。多くの日本人が一度は口にしたことのある慣れ親しんだお水で、お子様や大人まで幅広く安心して美味しくお飲みいただくことが出来ます。水と生きるサントリーこだわりの業界最高水準※のオートクリーンシステムにより、いつでも清潔さが保たれ安心なお「おいしさキーパー機能」、冷水・お湯がそれぞれ2段階の温度に設定できる「4段階温度調節機能」が付いた使いやすさにこだわった高機能サーバーはレンタル料無料。初期費用・配送料・メンテナンス料もすべて無料のため、必要な費用はお水代金のみとコスパの高さも外せないポイントです。弱温、弱冷モードの使用で電気代も節約できます！白・黒２色から選べるサーバーはとってもおしゃれでセンス抜群のデザイン♪今なら新規申込で天然水２箱プレゼントしてますので、お得に始められます！</span>
                                             </p>
                                             <small>※宅配水業界における自動清掃機能の稼働頻度。サントリー調べ（2021年3月時点）</small>
                                         </div>
@@ -2488,208 +2688,6 @@
                     <p>&nbsp;</p>
                     <p>&nbsp;</p>
 
-
-
-                    <!-- 10位 富士の湧水 -->
-                    <p><span style="font-size:20px" class="lbg"><strong><span
-                                    style="color:#C50000">第１０位</span></strong></span></p>
-
-
-                    <div style="margin:0px;padding:0px;" align="center">
-                        <TABLE width="668"
-                            style="border-collapse: collapse;border:1px solid #CACAFF;background-color:#FFFFFF;color:#000000;text-align:left;"
-                            height="798">
-                            <tbody>
-                                <tr>
-                                    <TH style="border:1px solid #CACAFF;background-color:#BFEEEE;color:#000000;"
-                                        width="514" colspan="3" align="center">
-                                        <p style="text-align:center;"><span style="font-size:20px"
-                                                class="lbg">富士の湧水</span></p>
-                                    </TH>
-                                </tr>
-                                <tr>
-                                    <TH style="background-color : #ffffff;border-width : 1px;border-style : solid;border-color : #cacaff;"
-                                        width="514" colspan="3" height="58" align="center">
-                                        <p>&nbsp;</p>
-                                        <p>
-                                            <center><a href="https://ウォーターサーバー最新人気ランキング.com/link/fujinoyusui.html"
-                                                    target="_blank" class="prrrr"><img
-                                                        src="<?php bloginfo('template_directory'); ?>/imgi/iwatani_468x60.jpg"
-                                                        alt="ウォーターサーバー ランキング" /></a></center>
-                                        </p>
-                                        <p>&nbsp;</p>
-                                    </TH>
-                                </tr>
-                                <tr>
-                                    <TH style="border:1px solid #CACAFF;background-color:#BFEEEE;color:#000000;text-align:center;"
-                                        width="154">
-                                        <FONT size="-1">入会金</FONT>&nbsp;
-                                    </TH>
-                                    <TH style="border:1px solid #CACAFF;background-color:#BFEEEE;color:#000000;text-align:center;"
-                                        width="183">
-                                        <FONT size="-1">配送料</FONT>
-                                    </TH>
-                                    <TH style="border:1px solid #CACAFF;background-color:#BFEEEE;color:#000000;text-align:center;"
-                                        width="177">
-                                        <FONT size="-1">サーバー料金</FONT>
-                                    </TH>
-                                </tr>
-                                <tr>
-                                    <TD style="border:1px solid #CACAFF;
-" align="center" width="154">
-                                        <FONT size="-1">&nbsp;０円</FONT>
-                                    </TD>
-                                    </p>
-                                    <TD style="border:1px solid #CACAFF;
-" align="center" width="183">
-                                        <FONT size="-1">&nbsp;無料</FONT>
-                                    </TD>
-                                    </p>
-                                    <TD style="border:1px solid #CACAFF;
-" align="center" width="177">
-                                        <FONT size="-1">838円（税込）&nbsp;</FONT>
-                                    </TD>
-                                    </p>
-                                </tr>
-                                <tr>
-                                    <TD style="background-color : #bfeeee;border-width : 1px;border-style : solid;border-color : #cacaff;
-" align="center" width="154"><B>
-                                            <FONT size="-1">メンテナンス料金</FONT>
-                                        </B></TD>
-                                    </p>
-                                    <TD style="background-color : #bfeeee;border-width : 1px;border-style : solid;border-color : #cacaff;
-" align="center" width="183"><B>&nbsp;<FONT size="-1">水の種類</FONT></B></TD>
-                                    </p>
-                                    <TD style="background-color : #bfeeee;border-width : 1px;border-style : solid;border-color : #cacaff;
-" align="center" width="177">&nbsp;<B>
-                                            <FONT size="-1">ボトルの種類</FONT>
-                                        </B></TD>
-                                    </p>
-                                </tr>
-                                <tr>
-                                    <TD style="border:1px solid #CACAFF;
-" align="center" width="154">
-                                        <FONT size="-1">&nbsp;無料</FONT>
-                                    </TD>
-                                    </p>
-                                    <TD style="border:1px solid #CACAFF;
-" align="center" width="183">
-                                        <FONT size="-1">天然水&nbsp;</FONT>
-                                    </TD>
-                                    </p>
-                                    <TD style="border:1px solid #CACAFF;
-" align="center" width="177">
-                                        <FONT size="-1">ワンウェイ方式</FONT><br />
-                                        <FONT size="-1">（使い捨てタイプ）</FONT>
-                                    </TD>
-                                    </p>
-                                </tr>
-                                <tr>
-                                    <TD style="background-color : #bfeeee;border-width : 1px;border-style : solid;border-color : #cacaff;
-" align="center" width="154"><B>
-                                            <FONT size="-1">水の価格&nbsp;</FONT>
-                                        </B></TD>
-                                    </p>
-                                    <TD style="background-color : #bfeeee;border-width : 1px;border-style : solid;border-color : #cacaff;
-" align="center" width="183"><B>
-                                            <FONT size="-1">電気代</FONT>
-                                        </B></TD>
-                                    </p>
-                                    <TD style="background-color : #bfeeee;border-width : 1px;border-style : solid;border-color : #cacaff;
-" align="center" width="177"><B>
-                                            <FONT size="-1">1ヶ月当たりのトータル費用</FONT>
-                                        </B></TD>
-                                    </p>
-                                </tr>
-                                <tr>
-                                    <TD style="border:1px solid #CACAFF;
-" align="center" width="154">3,290円（税込）/12L×2本<br />
-                                        <FONT size="-1">※RO水、1ヶ月の夫婦2人分</FONT>
-                                        </p>
-                                    </TD>
-                                    <TD style="border:1px solid #CACAFF;
-" align="center" width="183">680円</p>
-                                    </TD>
-                                    <TD style="border:1px solid #CACAFF;
-" align="center" width="177">約4,808円（税込）<br />
-                                        <FONT size="-1">※全費用の合計</FONT>
-                                        </p>
-                                    </TD>
-                                </tr>
-                                <tr>
-                                    <TD style="background-color : #bfeeee;border-width : 1px;border-style : solid;border-color : #cacaff;
-" align="center" width="154"><B>&nbsp;<FONT size="-1">タイプ</FONT></B></TD>
-                                    </p>
-                                    <TD style="background-color : #bfeeee;border-width : 1px;border-style : solid;border-color : #cacaff;
-" align="center" width="183"><B>&nbsp;<FONT size="-1">宅配エリア</FONT></B></TD>
-                                    </p>
-                                    <TD style="background-color : #bfeeee;border-width : 1px;border-style : solid;border-color : #cacaff;
-" align="center" width="177">
-                                        <FONT size="+1"><B>&nbsp;<FONT size="-1">総合評価</FONT></B></FONT>
-                                    </TD>
-                                    </p>
-                                </tr>
-                                <tr>
-                                    <TD style="border:1px solid #CACAFF;
-" align="center" width="154">
-                                        <FONT size="-1">床置</FONT>
-                                    </TD>
-                                    </p>
-                                    <TD style="border:1px solid #CACAFF;
-" align="center" width="183">
-                                        <FONT size="-1">全国（沖縄、離島除く）</FONT>
-                                    </TD>
-                                    </p>
-                                    <TD style="border:1px solid #CACAFF;
-" align="center" width="177">３．５点／５．０点</TD>
-                                    </p>
-                                </tr>
-
-
-                                <tr>
-                                    <TD style="border:1px solid #CACAFF;
-" align="center" width="514" colspan="3">
-                                        </p>
-                                        <p>&nbsp;</p>
-                                        <div class="point"><span style="font-size:18px"
-                                                class="lbg">富士の湧水のおすすめポイントはここ！</span></div>
-                                        <p>&nbsp;</p>
-                                        <p>　<span style="font-size:16px"
-                                                class="lbg">・天然ミネラル配合の高品質の富士山の天然水が飲める！</span><br />　<span
-                                                style="font-size:16px"
-                                                class="lbg">・90年の歴史がある信頼できるブランド！</span><br />　<span
-                                                style="font-size:16px" class="lbg">・日本製サーバーだから安心！</span><br />　<span
-                                                style="font-size:16px" class="lbg">・初期費用や注文ノルマが無いので初めての方にもオススメ！</span>
-                                        </p>
-                                        <p>&nbsp;</p>
-
-
-                                        <div class="thint">
-                                            <p><span style="font-size:18px" class="lbg">調査委員会のコメント</span></p>
-                                            <p>&nbsp;</p>
-                                            <p><span style="font-size:16px"
-                                                    class="lbg">富士の湧水は、その名のとおり、富士山標高950mからお届けする天然ミネラル配合のまろやかでおいしい富士山の天然水が飲めるウォーターサーバーです。サーバーは4段階の温度設定、二重チャイルドロック、自動クリーニング機能、省エネ機能などを備えた日本製の高機能サーバーなので、安心安全＆便利にお使いいただけます。初期費用や注文ノルマがなく、天然水の料金1,524円（12Ｌ）は業界最安水準と、始めやすく続けやすいので、初めての方にもオススメです。</span>
-                                            </p>
-                                        </div>
-                                        <p>&nbsp;</p>
-
-
-                                        <div style="margin:0 60px;">
-                                            <p style="text-align:right;"><strong><span style="font-size:20px"
-                                                        class="lbg"><a
-                                                            href="https://ウォーターサーバー最新人気ランキング.com/link/fujinoyusui.html"
-                                                            target="_blank"
-                                                            class="prrrr">⇒富士の湧水の公式サイトはこちら</a></span></strong></p>
-                                        </div>
-                                        <p>&nbsp;</p>
-                                        <p>&nbsp;</p>
-                                    </TD>
-                                </tr>
-                            </tbody>
-                        </TABLE>
-                    </div>
-                    <p>&nbsp;</p>
-                    <p>&nbsp;</p>
 
 
 
